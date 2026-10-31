@@ -1,0 +1,2596 @@
+date,product,category,quantity,unit_price,discount,sales,region
+2024-01-01,Blender,Appliances,1,194.97,0.0,194.97,North
+2024-01-01,Laptop Pro,Electronics,1,1223.92,0.0,1223.92,East
+2024-01-01,Smartphone X,Electronics,1,866.66,0.0,866.66,West
+2024-01-01,Smartphone X,Electronics,3,687.05,0.15,1751.98,Central
+2024-01-01,Smartphone X,Electronics,2,592.6,0.1,1066.68,South
+2024-01-02,Blender,Appliances,1,38.84,0.0,38.84,Central
+2024-01-02,Running Shoes,Sports,6,120.33,0.1,649.78,South
+2024-01-02,Smartphone X,Electronics,1,1213.57,0.0,1213.57,West
+2024-01-02,Yoga Mat,Sports,6,132.32,0.0,793.92,Central
+2024-01-03,Coffee Maker,Appliances,1,113.13,0.0,113.13,South
+2024-01-03,Desk Chair,Furniture,2,210.69,0.15,358.17,East
+2024-01-03,Running Shoes,Sports,5,153.6,0.15,652.8,North
+2024-01-04,Backpack,Accessories,4,46.67,0.05,177.35,North
+2024-01-04,Blender,Appliances,1,183.84,0.0,183.84,South
+2024-01-04,Running Shoes,Sports,2,48.92,0.1,88.06,South
+2024-01-04,Smartphone X,Electronics,2,303.2,0.0,606.4,Central
+2024-01-04,Yoga Mat,Sports,3,120.62,0.0,361.86,South
+2024-01-05,Backpack,Accessories,3,60.77,0.1,164.08,Central
+2024-01-05,Office Desk,Furniture,1,263.33,0.1,237.0,South
+2024-01-05,Wireless Headphones,Electronics,3,955.32,0.05,2722.66,South
+2024-01-05,Yoga Mat,Sports,3,36.48,0.15,93.02,West
+2024-01-05,Yoga Mat,Sports,1,100.49,0.15,85.42,Central
+2024-01-06,Office Desk,Furniture,2,323.0,0.15,549.1,West
+2024-01-06,Running Shoes,Sports,1,53.61,0.0,53.61,West
+2024-01-07,Coffee Maker,Appliances,4,146.8,0.0,587.2,South
+2024-01-07,Laptop Pro,Electronics,4,1171.02,0.0,4684.08,North
+2024-01-08,Backpack,Accessories,4,20.1,0.0,80.4,Central
+2024-01-08,Blender,Appliances,1,52.87,0.0,52.87,South
+2024-01-08,Blender,Appliances,1,71.58,0.0,71.58,East
+2024-01-08,Laptop Pro,Electronics,1,451.61,0.0,451.61,West
+2024-01-09,Yoga Mat,Sports,6,89.65,0.0,537.9,South
+2024-01-09,Yoga Mat,Sports,5,91.61,0.0,458.05,South
+2024-01-10,Blender,Appliances,1,92.15,0.15,78.33,West
+2024-01-10,Office Desk,Furniture,1,388.63,0.0,388.63,South
+2024-01-10,Smartphone X,Electronics,1,344.41,0.1,309.97,Central
+2024-01-10,Smartphone X,Electronics,2,800.08,0.0,1600.16,West
+2024-01-10,Yoga Mat,Sports,1,60.38,0.05,57.36,Central
+2024-01-11,Blender,Appliances,2,199.3,0.0,398.6,Central
+2024-01-11,Desk Chair,Furniture,1,229.46,0.0,229.46,Central
+2024-01-11,Desk Chair,Furniture,1,392.81,0.0,392.81,North
+2024-01-12,Coffee Maker,Appliances,3,113.44,0.0,340.32,South
+2024-01-12,Desk Chair,Furniture,1,384.69,0.15,326.99,West
+2024-01-12,Office Desk,Furniture,2,321.71,0.1,579.08,South
+2024-01-13,Office Desk,Furniture,1,442.64,0.0,442.64,Central
+2024-01-13,Running Shoes,Sports,4,95.74,0.05,363.81,East
+2024-01-13,Running Shoes,Sports,8,100.03,0.15,680.2,East
+2024-01-14,Backpack,Accessories,11,56.96,0.1,563.9,West
+2024-01-14,Coffee Maker,Appliances,4,67.12,0.1,241.63,South
+2024-01-14,Desk Chair,Furniture,2,376.88,0.15,640.7,South
+2024-01-14,Laptop Pro,Electronics,1,888.06,0.0,888.06,North
+2024-01-14,Yoga Mat,Sports,5,56.58,0.15,240.46,East
+2024-01-15,Blender,Appliances,1,150.02,0.0,150.02,South
+2024-01-15,Coffee Maker,Appliances,5,113.14,0.0,565.7,West
+2024-01-15,Laptop Pro,Electronics,1,943.81,0.15,802.24,East
+2024-01-15,Office Desk,Furniture,2,224.41,0.05,426.38,South
+2024-01-15,Wireless Headphones,Electronics,1,1036.62,0.0,1036.62,West
+2024-01-16,Desk Chair,Furniture,2,251.22,0.1,452.2,West
+2024-01-16,Desk Chair,Furniture,1,563.42,0.15,478.91,West
+2024-01-16,Office Desk,Furniture,1,373.23,0.0,373.23,Central
+2024-01-16,Running Shoes,Sports,5,122.03,0.1,549.13,South
+2024-01-16,Smartphone X,Electronics,1,651.39,0.0,651.39,West
+2024-01-17,Coffee Maker,Appliances,3,47.7,0.1,128.79,South
+2024-01-17,Office Desk,Furniture,1,463.52,0.1,417.17,Central
+2024-01-17,Office Desk,Furniture,2,329.15,0.05,625.38,East
+2024-01-17,Wireless Headphones,Electronics,2,514.43,0.0,1028.86,South
+2024-01-18,Laptop Pro,Electronics,1,645.76,0.0,645.76,North
+2024-01-18,Smartphone X,Electronics,3,549.73,0.0,1649.19,South
+2024-01-19,Running Shoes,Sports,3,111.6,0.0,334.8,North
+2024-01-19,Smartphone X,Electronics,1,533.07,0.15,453.11,East
+2024-01-19,Wireless Headphones,Electronics,1,1265.22,0.05,1201.96,East
+2024-01-20,Blender,Appliances,6,52.94,0.15,269.99,North
+2024-01-20,Laptop Pro,Electronics,3,648.63,0.0,1945.89,Central
+2024-01-20,Wireless Headphones,Electronics,4,878.07,0.15,2985.44,Central
+2024-01-21,Smartphone X,Electronics,2,431.52,0.15,733.58,North
+2024-01-21,Yoga Mat,Sports,4,126.41,0.1,455.08,South
+2024-01-22,Blender,Appliances,3,54.09,0.15,137.93,East
+2024-01-22,Wireless Headphones,Electronics,1,430.27,0.0,430.27,North
+2024-01-23,Backpack,Accessories,6,39.18,0.0,235.08,West
+2024-01-23,Backpack,Accessories,3,21.59,0.0,64.77,North
+2024-01-23,Backpack,Accessories,2,21.3,0.0,42.6,Central
+2024-01-23,Wireless Headphones,Electronics,1,550.12,0.0,550.12,North
+2024-01-23,Yoga Mat,Sports,3,45.38,0.15,115.72,Central
+2024-01-24,Backpack,Accessories,2,32.04,0.05,60.88,Central
+2024-01-24,Coffee Maker,Appliances,2,142.56,0.05,270.86,West
+2024-01-24,Running Shoes,Sports,1,149.42,0.0,149.42,East
+2024-01-24,Smartphone X,Electronics,1,1333.22,0.05,1266.56,East
+2024-01-24,Wireless Headphones,Electronics,3,1106.11,0.0,3318.33,West
+2024-01-25,Backpack,Accessories,1,49.1,0.15,41.73,East
+2024-01-25,Coffee Maker,Appliances,3,137.03,0.0,411.09,Central
+2024-01-26,Laptop Pro,Electronics,3,751.58,0.05,2142.0,South
+2024-01-26,Office Desk,Furniture,1,243.24,0.0,243.24,West
+2024-01-26,Smartphone X,Electronics,1,545.66,0.15,463.81,South
+2024-01-27,Coffee Maker,Appliances,4,71.73,0.0,286.92,West
+2024-01-27,Running Shoes,Sports,3,120.49,0.15,307.25,North
+2024-01-27,Smartphone X,Electronics,2,700.77,0.0,1401.54,Central
+2024-01-27,Wireless Headphones,Electronics,4,764.79,0.0,3059.16,West
+2024-01-28,Backpack,Accessories,7,26.43,0.05,175.76,South
+2024-01-28,Coffee Maker,Appliances,3,150.25,0.0,450.75,Central
+2024-01-28,Coffee Maker,Appliances,4,182.36,0.0,729.44,West
+2024-01-28,Running Shoes,Sports,5,30.99,0.05,147.2,Central
+2024-01-28,Smartphone X,Electronics,2,1211.33,0.15,2059.26,North
+2024-01-29,Coffee Maker,Appliances,2,98.66,0.05,187.45,East
+2024-01-29,Desk Chair,Furniture,2,461.86,0.0,923.72,North
+2024-01-29,Laptop Pro,Electronics,3,349.59,0.0,1048.77,South
+2024-01-29,Laptop Pro,Electronics,1,1224.92,0.05,1163.67,South
+2024-01-29,Wireless Headphones,Electronics,3,1096.69,0.05,3125.57,North
+2024-01-30,Backpack,Accessories,3,12.51,0.15,31.9,South
+2024-01-30,Smartphone X,Electronics,3,722.27,0.15,1841.79,East
+2024-01-30,Wireless Headphones,Electronics,3,646.8,0.15,1649.34,South
+2024-01-30,Yoga Mat,Sports,2,69.73,0.0,139.46,East
+2024-01-31,Office Desk,Furniture,1,294.51,0.15,250.33,East
+2024-01-31,Smartphone X,Electronics,1,1092.71,0.05,1038.07,Central
+2024-01-31,Wireless Headphones,Electronics,1,827.5,0.0,827.5,East
+2024-01-31,Yoga Mat,Sports,1,120.52,0.0,120.52,Central
+2024-02-01,Backpack,Accessories,6,69.15,0.0,414.9,North
+2024-02-01,Blender,Appliances,2,155.03,0.05,294.56,Central
+2024-02-01,Coffee Maker,Appliances,2,191.0,0.05,362.9,South
+2024-02-01,Laptop Pro,Electronics,3,1040.24,0.1,2808.65,North
+2024-02-01,Smartphone X,Electronics,1,876.44,0.0,876.44,East
+2024-02-02,Laptop Pro,Electronics,1,543.57,0.0,543.57,East
+2024-02-02,Office Desk,Furniture,1,194.53,0.0,194.53,South
+2024-02-02,Office Desk,Furniture,1,370.41,0.05,351.89,West
+2024-02-02,Yoga Mat,Sports,6,88.54,0.05,504.68,Central
+2024-02-02,Yoga Mat,Sports,1,100.92,0.15,85.78,North
+2024-02-03,Backpack,Accessories,10,40.84,0.1,367.56,Central
+2024-02-03,Wireless Headphones,Electronics,2,449.47,0.1,809.05,North
+2024-02-04,Backpack,Accessories,7,58.27,0.15,346.71,North
+2024-02-04,Blender,Appliances,1,32.84,0.0,32.84,East
+2024-02-04,Desk Chair,Furniture,1,480.46,0.15,408.39,East
+2024-02-05,Running Shoes,Sports,5,86.86,0.0,434.3,West
+2024-02-05,Yoga Mat,Sports,1,140.35,0.15,119.3,Central
+2024-02-06,Backpack,Accessories,4,11.01,0.1,39.64,Central
+2024-02-06,Blender,Appliances,3,101.2,0.0,303.6,North
+2024-02-06,Office Desk,Furniture,1,531.59,0.15,451.85,North
+2024-02-06,Smartphone X,Electronics,3,557.02,0.15,1420.4,East
+2024-02-07,Backpack,Accessories,6,68.59,0.0,411.54,North
+2024-02-07,Blender,Appliances,4,173.8,0.05,660.44,North
+2024-02-07,Office Desk,Furniture,1,572.79,0.0,572.79,North
+2024-02-08,Coffee Maker,Appliances,1,34.88,0.05,33.14,North
+2024-02-08,Desk Chair,Furniture,2,439.42,0.0,878.84,East
+2024-02-08,Wireless Headphones,Electronics,2,1020.87,0.0,2041.74,North
+2024-02-09,Blender,Appliances,2,184.93,0.05,351.37,West
+2024-02-09,Laptop Pro,Electronics,2,801.89,0.1,1443.4,Central
+2024-02-09,Office Desk,Furniture,2,324.14,0.0,648.28,Central
+2024-02-09,Running Shoes,Sports,2,79.24,0.1,142.63,Central
+2024-02-09,Smartphone X,Electronics,2,814.45,0.15,1384.57,East
+2024-02-10,Desk Chair,Furniture,2,477.21,0.1,858.98,South
+2024-02-10,Smartphone X,Electronics,3,339.33,0.05,967.09,Central
+2024-02-10,Wireless Headphones,Electronics,1,732.63,0.15,622.74,East
+2024-02-11,Desk Chair,Furniture,1,378.91,0.0,378.91,East
+2024-02-11,Wireless Headphones,Electronics,4,503.97,0.0,2015.88,East
+2024-02-12,Blender,Appliances,4,54.4,0.05,206.72,East
+2024-02-12,Laptop Pro,Electronics,2,1108.18,0.05,2105.54,North
+2024-02-12,Smartphone X,Electronics,1,1151.8,0.0,1151.8,North
+2024-02-12,Yoga Mat,Sports,3,122.71,0.0,368.13,South
+2024-02-13,Blender,Appliances,3,179.62,0.1,484.97,North
+2024-02-13,Coffee Maker,Appliances,3,176.65,0.0,529.95,West
+2024-02-13,Laptop Pro,Electronics,3,703.18,0.1,1898.59,East
+2024-02-13,Office Desk,Furniture,1,332.94,0.0,332.94,North
+2024-02-13,Office Desk,Furniture,2,378.91,0.15,644.15,Central
+2024-02-14,Blender,Appliances,3,135.26,0.1,365.2,North
+2024-02-14,Laptop Pro,Electronics,2,904.8,0.1,1628.64,East
+2024-02-14,Smartphone X,Electronics,1,1259.87,0.1,1133.88,East
+2024-02-15,Running Shoes,Sports,1,50.06,0.15,42.55,West
+2024-02-15,Wireless Headphones,Electronics,3,1051.45,0.15,2681.2,East
+2024-02-15,Wireless Headphones,Electronics,2,1084.63,0.0,2169.26,East
+2024-02-15,Wireless Headphones,Electronics,1,890.75,0.0,890.75,East
+2024-02-15,Yoga Mat,Sports,1,79.3,0.0,79.3,Central
+2024-02-16,Laptop Pro,Electronics,1,921.64,0.15,783.39,West
+2024-02-16,Smartphone X,Electronics,2,823.37,0.15,1399.73,Central
+2024-02-16,Wireless Headphones,Electronics,1,370.06,0.15,314.55,West
+2024-02-17,Blender,Appliances,1,176.19,0.1,158.57,South
+2024-02-17,Desk Chair,Furniture,1,555.3,0.15,472.0,North
+2024-02-18,Coffee Maker,Appliances,2,147.01,0.05,279.32,North
+2024-02-18,Coffee Maker,Appliances,5,201.01,0.0,1005.05,East
+2024-02-18,Laptop Pro,Electronics,2,1157.96,0.1,2084.33,West
+2024-02-18,Running Shoes,Sports,6,127.05,0.0,762.3,North
+2024-02-18,Wireless Headphones,Electronics,2,1224.43,0.0,2448.86,North
+2024-02-19,Desk Chair,Furniture,1,439.85,0.1,395.87,East
+2024-02-19,Smartphone X,Electronics,1,988.11,0.15,839.89,South
+2024-02-19,Yoga Mat,Sports,5,21.93,0.15,93.2,Central
+2024-02-20,Backpack,Accessories,7,18.33,0.1,115.48,Central
+2024-02-20,Blender,Appliances,1,170.94,0.0,170.94,East
+2024-02-21,Backpack,Accessories,8,27.32,0.0,218.56,North
+2024-02-21,Desk Chair,Furniture,1,397.22,0.0,397.22,West
+2024-02-21,Desk Chair,Furniture,1,352.72,0.0,352.72,South
+2024-02-21,Smartphone X,Electronics,2,352.14,0.0,704.28,North
+2024-02-22,Running Shoes,Sports,2,79.45,0.15,135.06,West
+2024-02-22,Smartphone X,Electronics,2,578.02,0.0,1156.04,West
+2024-02-23,Blender,Appliances,3,37.31,0.0,111.93,North
+2024-02-23,Blender,Appliances,4,46.68,0.1,168.05,East
+2024-02-23,Running Shoes,Sports,2,65.44,0.0,130.88,North
+2024-02-23,Yoga Mat,Sports,2,57.25,0.0,114.5,East
+2024-02-24,Backpack,Accessories,9,13.82,0.0,124.38,North
+2024-02-24,Coffee Maker,Appliances,5,133.85,0.0,669.25,North
+2024-02-24,Desk Chair,Furniture,2,376.15,0.0,752.3,West
+2024-02-24,Wireless Headphones,Electronics,2,1146.82,0.0,2293.64,South
+2024-02-24,Wireless Headphones,Electronics,1,649.44,0.05,616.97,North
+2024-02-25,Backpack,Accessories,6,35.9,0.05,204.63,South
+2024-02-25,Backpack,Accessories,5,27.68,0.0,138.4,East
+2024-02-25,Blender,Appliances,2,134.08,0.15,227.94,South
+2024-02-25,Laptop Pro,Electronics,1,605.81,0.05,575.52,North
+2024-02-26,Laptop Pro,Electronics,3,1043.65,0.05,2974.4,East
+2024-02-26,Office Desk,Furniture,2,160.46,0.0,320.92,South
+2024-02-26,Running Shoes,Sports,2,120.2,0.0,240.4,North
+2024-02-26,Running Shoes,Sports,2,68.78,0.05,130.68,West
+2024-02-26,Running Shoes,Sports,4,101.13,0.0,404.52,South
+2024-02-27,Blender,Appliances,4,166.95,0.05,634.41,South
+2024-02-27,Laptop Pro,Electronics,1,1263.57,0.0,1263.57,Central
+2024-02-27,Running Shoes,Sports,1,106.77,0.05,101.43,East
+2024-02-27,Yoga Mat,Sports,1,82.84,0.05,78.7,East
+2024-02-28,Running Shoes,Sports,4,84.19,0.1,303.08,West
+2024-02-28,Smartphone X,Electronics,1,596.6,0.1,536.94,Central
+2024-02-28,Wireless Headphones,Electronics,1,1144.2,0.15,972.57,North
+2024-02-29,Blender,Appliances,1,114.08,0.1,102.67,South
+2024-02-29,Desk Chair,Furniture,1,561.43,0.15,477.22,Central
+2024-02-29,Desk Chair,Furniture,1,285.92,0.15,243.03,West
+2024-02-29,Smartphone X,Electronics,2,400.27,0.15,680.46,West
+2024-03-01,Blender,Appliances,3,80.11,0.0,240.33,Central
+2024-03-01,Coffee Maker,Appliances,2,56.64,0.0,113.28,East
+2024-03-02,Desk Chair,Furniture,2,419.65,0.05,797.33,West
+2024-03-02,Laptop Pro,Electronics,2,534.24,0.0,1068.48,Central
+2024-03-02,Office Desk,Furniture,1,416.71,0.05,395.87,South
+2024-03-02,Running Shoes,Sports,3,37.39,0.0,112.17,North
+2024-03-02,Yoga Mat,Sports,5,93.9,0.0,469.5,South
+2024-03-03,Desk Chair,Furniture,2,576.62,0.1,1037.92,West
+2024-03-03,Yoga Mat,Sports,1,131.62,0.0,131.62,East
+2024-03-04,Desk Chair,Furniture,2,547.66,0.0,1095.32,East
+2024-03-04,Office Desk,Furniture,1,299.38,0.0,299.38,West
+2024-03-04,Yoga Mat,Sports,3,118.14,0.1,318.98,West
+2024-03-05,Desk Chair,Furniture,2,361.65,0.15,614.8,South
+2024-03-05,Laptop Pro,Electronics,2,792.04,0.0,1584.08,Central
+2024-03-06,Coffee Maker,Appliances,4,38.32,0.05,145.62,East
+2024-03-06,Wireless Headphones,Electronics,2,754.16,0.0,1508.32,Central
+2024-03-06,Yoga Mat,Sports,6,124.53,0.05,709.82,North
+2024-03-07,Coffee Maker,Appliances,3,110.53,0.15,281.85,Central
+2024-03-07,Laptop Pro,Electronics,1,651.18,0.0,651.18,West
+2024-03-07,Running Shoes,Sports,5,144.43,0.0,722.15,North
+2024-03-07,Wireless Headphones,Electronics,1,519.41,0.0,519.41,East
+2024-03-07,Wireless Headphones,Electronics,1,708.01,0.0,708.01,South
+2024-03-08,Coffee Maker,Appliances,2,63.09,0.05,119.87,West
+2024-03-08,Laptop Pro,Electronics,1,1119.74,0.1,1007.77,North
+2024-03-08,Smartphone X,Electronics,1,465.06,0.0,465.06,North
+2024-03-09,Office Desk,Furniture,2,564.44,0.0,1128.88,West
+2024-03-09,Running Shoes,Sports,4,51.24,0.0,204.96,East
+2024-03-09,Smartphone X,Electronics,3,977.76,0.0,2933.28,East
+2024-03-09,Yoga Mat,Sports,4,125.77,0.0,503.08,Central
+2024-03-10,Desk Chair,Furniture,1,439.26,0.1,395.33,Central
+2024-03-10,Wireless Headphones,Electronics,2,1019.65,0.15,1733.4,Central
+2024-03-10,Wireless Headphones,Electronics,1,833.21,0.0,833.21,West
+2024-03-10,Yoga Mat,Sports,5,26.91,0.0,134.55,East
+2024-03-11,Blender,Appliances,3,104.25,0.0,312.75,East
+2024-03-11,Office Desk,Furniture,1,144.12,0.0,144.12,West
+2024-03-11,Smartphone X,Electronics,1,918.72,0.0,918.72,Central
+2024-03-11,Smartphone X,Electronics,1,1077.87,0.0,1077.87,Central
+2024-03-11,Wireless Headphones,Electronics,1,1246.33,0.15,1059.38,East
+2024-03-12,Desk Chair,Furniture,1,419.86,0.0,419.86,South
+2024-03-12,Laptop Pro,Electronics,1,619.15,0.0,619.15,South
+2024-03-13,Blender,Appliances,2,192.19,0.05,365.16,North
+2024-03-13,Yoga Mat,Sports,5,135.1,0.0,675.5,Central
+2024-03-14,Laptop Pro,Electronics,2,1271.6,0.15,2161.72,East
+2024-03-14,Running Shoes,Sports,1,40.79,0.0,40.79,West
+2024-03-14,Smartphone X,Electronics,3,1305.95,0.0,3917.85,North
+2024-03-15,Blender,Appliances,1,158.33,0.1,142.5,Central
+2024-03-15,Office Desk,Furniture,1,229.5,0.15,195.07,Central
+2024-03-16,Coffee Maker,Appliances,1,75.85,0.1,68.27,South
+2024-03-16,Desk Chair,Furniture,1,585.36,0.0,585.36,East
+2024-03-16,Laptop Pro,Electronics,4,779.86,0.1,2807.5,Central
+2024-03-16,Wireless Headphones,Electronics,1,379.6,0.0,379.6,South
+2024-03-17,Backpack,Accessories,7,76.84,0.0,537.88,Central
+2024-03-17,Coffee Maker,Appliances,2,71.7,0.0,143.4,East
+2024-03-17,Laptop Pro,Electronics,1,742.05,0.1,667.85,North
+2024-03-17,Wireless Headphones,Electronics,1,798.97,0.15,679.12,West
+2024-03-18,Blender,Appliances,2,50.39,0.0,100.78,North
+2024-03-18,Desk Chair,Furniture,1,210.46,0.05,199.94,West
+2024-03-18,Wireless Headphones,Electronics,3,764.17,0.15,1948.63,East
+2024-03-18,Yoga Mat,Sports,4,143.9,0.05,546.82,West
+2024-03-18,Yoga Mat,Sports,1,85.53,0.0,85.53,North
+2024-03-19,Desk Chair,Furniture,1,384.27,0.15,326.63,West
+2024-03-19,Running Shoes,Sports,5,62.05,0.15,263.71,Central
+2024-03-19,Smartphone X,Electronics,1,350.05,0.15,297.54,South
+2024-03-19,Wireless Headphones,Electronics,2,1101.14,0.1,1982.05,West
+2024-03-20,Laptop Pro,Electronics,1,1246.25,0.05,1183.94,Central
+2024-03-20,Running Shoes,Sports,5,134.78,0.1,606.51,North
+2024-03-20,Running Shoes,Sports,1,79.98,0.15,67.98,East
+2024-03-20,Wireless Headphones,Electronics,2,956.78,0.0,1913.56,North
+2024-03-20,Yoga Mat,Sports,1,90.55,0.0,90.55,West
+2024-03-21,Desk Chair,Furniture,1,479.25,0.0,479.25,North
+2024-03-21,Laptop Pro,Electronics,2,1112.92,0.0,2225.84,North
+2024-03-21,Laptop Pro,Electronics,1,1243.94,0.05,1181.74,West
+2024-03-21,Office Desk,Furniture,1,385.67,0.05,366.39,Central
+2024-03-22,Backpack,Accessories,5,57.03,0.0,285.15,West
+2024-03-22,Backpack,Accessories,5,57.77,0.0,288.85,East
+2024-03-22,Desk Chair,Furniture,1,380.04,0.0,380.04,East
+2024-03-22,Running Shoes,Sports,5,39.01,0.15,165.79,West
+2024-03-22,Yoga Mat,Sports,3,26.44,0.0,79.32,Central
+2024-03-23,Laptop Pro,Electronics,1,669.03,0.05,635.58,East
+2024-03-23,Laptop Pro,Electronics,2,1305.14,0.0,2610.28,Central
+2024-03-23,Running Shoes,Sports,4,94.65,0.0,378.6,East
+2024-03-24,Backpack,Accessories,4,72.34,0.05,274.89,East
+2024-03-24,Blender,Appliances,2,138.49,0.0,276.98,Central
+2024-03-24,Coffee Maker,Appliances,2,99.02,0.15,168.33,South
+2024-03-25,Coffee Maker,Appliances,2,141.89,0.0,283.78,West
+2024-03-25,Laptop Pro,Electronics,2,806.11,0.0,1612.22,East
+2024-03-26,Blender,Appliances,1,186.9,0.05,177.56,North
+2024-03-26,Office Desk,Furniture,2,312.13,0.0,624.26,Central
+2024-03-26,Smartphone X,Electronics,1,493.32,0.0,493.32,West
+2024-03-26,Wireless Headphones,Electronics,1,1163.61,0.05,1105.43,West
+2024-03-26,Wireless Headphones,Electronics,3,882.62,0.0,2647.86,North
+2024-03-27,Backpack,Accessories,5,26.52,0.0,132.6,North
+2024-03-27,Blender,Appliances,1,72.01,0.15,61.21,North
+2024-03-27,Desk Chair,Furniture,1,276.84,0.0,276.84,Central
+2024-03-27,Smartphone X,Electronics,1,733.25,0.05,696.59,Central
+2024-03-28,Coffee Maker,Appliances,2,176.41,0.0,352.82,South
+2024-03-28,Laptop Pro,Electronics,3,830.14,0.1,2241.38,North
+2024-03-28,Laptop Pro,Electronics,1,884.39,0.0,884.39,Central
+2024-03-28,Laptop Pro,Electronics,1,1210.22,0.15,1028.69,North
+2024-03-28,Smartphone X,Electronics,3,653.54,0.0,1960.62,East
+2024-03-29,Running Shoes,Sports,6,43.94,0.0,263.64,South
+2024-03-29,Yoga Mat,Sports,6,67.43,0.1,364.12,Central
+2024-03-30,Backpack,Accessories,2,32.62,0.1,58.72,West
+2024-03-30,Blender,Appliances,5,82.58,0.15,350.96,North
+2024-03-31,Coffee Maker,Appliances,1,150.64,0.0,150.64,West
+2024-03-31,Running Shoes,Sports,1,30.01,0.0,30.01,Central
+2024-03-31,Wireless Headphones,Electronics,1,988.22,0.0,988.22,West
+2024-04-01,Backpack,Accessories,2,28.51,0.1,51.32,Central
+2024-04-01,Coffee Maker,Appliances,2,66.02,0.15,112.23,West
+2024-04-01,Laptop Pro,Electronics,2,335.21,0.0,670.42,North
+2024-04-01,Office Desk,Furniture,1,367.97,0.0,367.97,Central
+2024-04-01,Wireless Headphones,Electronics,1,617.18,0.1,555.46,East
+2024-04-02,Backpack,Accessories,6,16.52,0.0,99.12,South
+2024-04-02,Backpack,Accessories,3,18.63,0.1,50.3,South
+2024-04-02,Laptop Pro,Electronics,3,1229.8,0.1,3320.46,South
+2024-04-02,Running Shoes,Sports,6,102.11,0.1,551.39,Central
+2024-04-03,Office Desk,Furniture,2,291.11,0.1,524.0,East
+2024-04-03,Yoga Mat,Sports,1,45.15,0.05,42.89,South
+2024-04-04,Backpack,Accessories,6,68.74,0.0,412.44,West
+2024-04-04,Coffee Maker,Appliances,2,146.0,0.1,262.8,East
+2024-04-04,Coffee Maker,Appliances,3,153.27,0.15,390.84,Central
+2024-04-04,Desk Chair,Furniture,2,314.22,0.0,628.44,West
+2024-04-04,Office Desk,Furniture,2,522.09,0.15,887.55,South
+2024-04-05,Backpack,Accessories,4,37.7,0.15,128.18,East
+2024-04-05,Smartphone X,Electronics,1,954.7,0.0,954.7,North
+2024-04-05,Wireless Headphones,Electronics,3,380.25,0.15,969.64,East
+2024-04-06,Desk Chair,Furniture,2,419.2,0.0,838.4,Central
+2024-04-06,Running Shoes,Sports,5,114.1,0.0,570.5,Central
+2024-04-07,Blender,Appliances,3,89.02,0.0,267.06,North
+2024-04-07,Office Desk,Furniture,1,560.56,0.05,532.53,Central
+2024-04-07,Running Shoes,Sports,2,95.77,0.15,162.81,South
+2024-04-07,Smartphone X,Electronics,3,304.73,0.0,914.19,North
+2024-04-07,Yoga Mat,Sports,1,27.83,0.0,27.83,West
+2024-04-08,Desk Chair,Furniture,1,308.05,0.1,277.25,North
+2024-04-08,Laptop Pro,Electronics,2,1265.28,0.0,2530.56,Central
+2024-04-09,Blender,Appliances,2,120.48,0.0,240.96,North
+2024-04-09,Desk Chair,Furniture,1,311.77,0.15,265.0,Central
+2024-04-09,Office Desk,Furniture,1,247.29,0.1,222.56,North
+2024-04-09,Running Shoes,Sports,6,136.27,0.0,817.62,North
+2024-04-10,Backpack,Accessories,4,22.7,0.0,90.8,West
+2024-04-10,Office Desk,Furniture,2,167.87,0.1,302.17,North
+2024-04-10,Wireless Headphones,Electronics,2,335.5,0.15,570.35,South
+2024-04-11,Blender,Appliances,3,111.48,0.05,317.72,South
+2024-04-11,Laptop Pro,Electronics,1,1069.63,0.0,1069.63,East
+2024-04-11,Smartphone X,Electronics,3,1316.5,0.0,3949.5,East
+2024-04-11,Yoga Mat,Sports,1,113.03,0.0,113.03,South
+2024-04-12,Laptop Pro,Electronics,3,369.53,0.0,1108.59,East
+2024-04-12,Office Desk,Furniture,1,544.22,0.15,462.59,North
+2024-04-12,Wireless Headphones,Electronics,1,635.48,0.0,635.48,North
+2024-04-12,Yoga Mat,Sports,2,105.3,0.15,179.01,East
+2024-04-13,Backpack,Accessories,10,39.42,0.0,394.2,East
+2024-04-13,Backpack,Accessories,5,76.06,0.15,323.25,West
+2024-04-13,Coffee Maker,Appliances,3,127.17,0.0,381.51,West
+2024-04-13,Office Desk,Furniture,2,335.78,0.0,671.56,West
+2024-04-13,Yoga Mat,Sports,2,66.84,0.0,133.68,South
+2024-04-14,Office Desk,Furniture,2,402.7,0.0,805.4,North
+2024-04-14,Smartphone X,Electronics,3,1112.17,0.1,3002.86,East
+2024-04-14,Wireless Headphones,Electronics,2,1059.36,0.15,1800.91,South
+2024-04-14,Yoga Mat,Sports,6,87.92,0.0,527.52,West
+2024-04-15,Desk Chair,Furniture,1,454.77,0.0,454.77,North
+2024-04-15,Laptop Pro,Electronics,2,602.31,0.05,1144.39,South
+2024-04-16,Coffee Maker,Appliances,3,134.56,0.1,363.31,South
+2024-04-16,Coffee Maker,Appliances,2,134.23,0.15,228.19,North
+2024-04-16,Laptop Pro,Electronics,1,1315.73,0.0,1315.73,East
+2024-04-16,Laptop Pro,Electronics,3,430.92,0.0,1292.76,West
+2024-04-17,Blender,Appliances,3,151.16,0.1,408.13,West
+2024-04-17,Running Shoes,Sports,4,97.33,0.1,350.39,North
+2024-04-17,Wireless Headphones,Electronics,2,917.6,0.0,1835.2,Central
+2024-04-17,Yoga Mat,Sports,5,99.81,0.0,499.05,East
+2024-04-18,Running Shoes,Sports,2,66.94,0.0,133.88,East
+2024-04-18,Wireless Headphones,Electronics,1,1057.68,0.1,951.91,South
+2024-04-18,Yoga Mat,Sports,1,94.6,0.0,94.6,East
+2024-04-19,Office Desk,Furniture,2,260.39,0.0,520.78,Central
+2024-04-19,Yoga Mat,Sports,3,43.11,0.05,122.86,East
+2024-04-20,Coffee Maker,Appliances,4,151.6,0.15,515.44,Central
+2024-04-20,Yoga Mat,Sports,6,109.54,0.05,624.38,North
+2024-04-21,Backpack,Accessories,8,58.67,0.0,469.36,South
+2024-04-21,Laptop Pro,Electronics,1,380.16,0.0,380.16,West
+2024-04-21,Smartphone X,Electronics,4,1219.98,0.0,4879.92,South
+2024-04-21,Smartphone X,Electronics,1,804.14,0.0,804.14,North
+2024-04-21,Wireless Headphones,Electronics,3,960.46,0.1,2593.24,Central
+2024-04-22,Backpack,Accessories,7,40.79,0.0,285.53,West
+2024-04-22,Smartphone X,Electronics,3,1311.1,0.05,3736.63,Central
+2024-04-22,Yoga Mat,Sports,1,121.16,0.1,109.04,West
+2024-04-23,Blender,Appliances,3,55.61,0.15,141.81,Central
+2024-04-23,Coffee Maker,Appliances,3,137.64,0.05,392.27,East
+2024-04-23,Running Shoes,Sports,2,112.58,0.0,225.16,East
+2024-04-24,Desk Chair,Furniture,1,352.76,0.05,335.12,Central
+2024-04-24,Laptop Pro,Electronics,2,567.93,0.0,1135.86,North
+2024-04-24,Laptop Pro,Electronics,1,579.24,0.0,579.24,North
+2024-04-25,Laptop Pro,Electronics,3,1147.57,0.05,3270.57,South
+2024-04-25,Office Desk,Furniture,1,406.68,0.1,366.01,East
+2024-04-26,Desk Chair,Furniture,1,267.29,0.0,267.29,West
+2024-04-26,Laptop Pro,Electronics,1,857.49,0.15,728.87,Central
+2024-04-26,Yoga Mat,Sports,2,109.17,0.0,218.34,West
+2024-04-27,Desk Chair,Furniture,2,564.28,0.05,1072.13,West
+2024-04-27,Laptop Pro,Electronics,2,565.34,0.15,961.08,Central
+2024-04-28,Desk Chair,Furniture,1,198.97,0.05,189.02,East
+2024-04-28,Office Desk,Furniture,1,291.04,0.0,291.04,West
+2024-04-28,Wireless Headphones,Electronics,2,381.35,0.15,648.3,East
+2024-04-28,Wireless Headphones,Electronics,1,620.95,0.1,558.86,East
+2024-04-29,Blender,Appliances,1,173.64,0.15,147.59,West
+2024-04-29,Laptop Pro,Electronics,1,1167.35,0.05,1108.98,South
+2024-04-30,Blender,Appliances,3,101.33,0.0,303.99,East
+2024-04-30,Laptop Pro,Electronics,1,741.57,0.05,704.49,Central
+2024-04-30,Office Desk,Furniture,2,461.64,0.05,877.12,North
+2024-05-01,Coffee Maker,Appliances,3,137.51,0.15,350.65,West
+2024-05-01,Coffee Maker,Appliances,3,93.02,0.0,279.06,East
+2024-05-01,Laptop Pro,Electronics,1,1132.97,0.0,1132.97,North
+2024-05-01,Running Shoes,Sports,1,119.64,0.05,113.66,North
+2024-05-02,Laptop Pro,Electronics,1,533.37,0.0,533.37,East
+2024-05-02,Laptop Pro,Electronics,2,1191.21,0.15,2025.06,North
+2024-05-02,Running Shoes,Sports,1,103.74,0.05,98.55,Central
+2024-05-02,Wireless Headphones,Electronics,1,447.47,0.0,447.47,Central
+2024-05-03,Blender,Appliances,1,146.35,0.1,131.72,West
+2024-05-03,Running Shoes,Sports,3,72.28,0.0,216.84,East
+2024-05-03,Wireless Headphones,Electronics,1,580.13,0.15,493.11,South
+2024-05-04,Desk Chair,Furniture,2,279.79,0.15,475.64,North
+2024-05-04,Smartphone X,Electronics,3,871.38,0.1,2352.73,North
+2024-05-05,Backpack,Accessories,7,29.17,0.15,173.56,North
+2024-05-05,Backpack,Accessories,11,39.96,0.15,373.63,West
+2024-05-05,Coffee Maker,Appliances,3,32.58,0.05,92.85,East
+2024-05-05,Yoga Mat,Sports,3,111.13,0.05,316.72,North
+2024-05-06,Blender,Appliances,3,161.32,0.0,483.96,West
+2024-05-06,Blender,Appliances,3,83.01,0.0,249.03,East
+2024-05-06,Office Desk,Furniture,1,406.32,0.1,365.69,South
+2024-05-06,Smartphone X,Electronics,1,495.49,0.15,421.17,Central
+2024-05-07,Blender,Appliances,1,94.72,0.05,89.98,North
+2024-05-07,Desk Chair,Furniture,1,272.55,0.05,258.92,South
+2024-05-07,Desk Chair,Furniture,2,553.34,0.0,1106.68,East
+2024-05-07,Laptop Pro,Electronics,2,548.23,0.15,931.99,South
+2024-05-07,Office Desk,Furniture,1,329.36,0.0,329.36,Central
+2024-05-08,Backpack,Accessories,6,42.03,0.15,214.35,South
+2024-05-08,Laptop Pro,Electronics,1,580.71,0.1,522.64,East
+2024-05-08,Wireless Headphones,Electronics,1,901.78,0.15,766.51,South
+2024-05-09,Backpack,Accessories,4,42.5,0.05,161.5,East
+2024-05-09,Laptop Pro,Electronics,3,797.94,0.05,2274.13,West
+2024-05-09,Running Shoes,Sports,4,30.86,0.05,117.27,North
+2024-05-09,Running Shoes,Sports,3,74.97,0.0,224.91,South
+2024-05-10,Coffee Maker,Appliances,4,187.06,0.1,673.42,North
+2024-05-10,Office Desk,Furniture,1,168.91,0.0,168.91,North
+2024-05-10,Running Shoes,Sports,2,60.62,0.1,109.12,North
+2024-05-10,Wireless Headphones,Electronics,2,524.73,0.1,944.51,West
+2024-05-11,Backpack,Accessories,9,74.67,0.0,672.03,Central
+2024-05-11,Laptop Pro,Electronics,1,304.04,0.0,304.04,South
+2024-05-12,Desk Chair,Furniture,2,575.37,0.1,1035.67,West
+2024-05-12,Wireless Headphones,Electronics,3,1132.85,0.0,3398.55,Central
+2024-05-13,Laptop Pro,Electronics,1,318.4,0.1,286.56,Central
+2024-05-13,Office Desk,Furniture,1,417.71,0.05,396.82,West
+2024-05-13,Running Shoes,Sports,3,121.82,0.0,365.46,East
+2024-05-13,Smartphone X,Electronics,2,707.25,0.0,1414.5,South
+2024-05-14,Blender,Appliances,1,50.14,0.0,50.14,Central
+2024-05-14,Coffee Maker,Appliances,4,86.25,0.0,345.0,East
+2024-05-14,Running Shoes,Sports,4,70.46,0.1,253.66,Central
+2024-05-14,Running Shoes,Sports,2,69.99,0.0,139.98,East
+2024-05-14,Yoga Mat,Sports,4,105.61,0.0,422.44,North
+2024-05-15,Coffee Maker,Appliances,2,83.92,0.15,142.66,South
+2024-05-15,Running Shoes,Sports,5,139.59,0.0,697.95,West
+2024-05-16,Laptop Pro,Electronics,3,1202.67,0.15,3066.81,West
+2024-05-16,Office Desk,Furniture,1,254.19,0.05,241.48,North
+2024-05-16,Yoga Mat,Sports,2,55.46,0.15,94.28,Central
+2024-05-17,Backpack,Accessories,8,30.37,0.0,242.96,North
+2024-05-17,Backpack,Accessories,8,29.35,0.15,199.58,North
+2024-05-17,Desk Chair,Furniture,1,606.08,0.0,606.08,Central
+2024-05-17,Desk Chair,Furniture,1,566.03,0.0,566.03,Central
+2024-05-17,Running Shoes,Sports,4,61.74,0.15,209.92,North
+2024-05-18,Blender,Appliances,2,133.96,0.0,267.92,West
+2024-05-18,Laptop Pro,Electronics,1,915.66,0.1,824.09,West
+2024-05-19,Backpack,Accessories,5,20.69,0.05,98.28,North
+2024-05-19,Blender,Appliances,2,121.8,0.15,207.06,North
+2024-05-19,Coffee Maker,Appliances,3,189.0,0.15,481.95,Central
+2024-05-19,Desk Chair,Furniture,2,281.5,0.1,506.7,West
+2024-05-19,Running Shoes,Sports,7,109.97,0.0,769.79,West
+2024-05-20,Desk Chair,Furniture,2,290.98,0.0,581.96,West
+2024-05-20,Laptop Pro,Electronics,2,327.15,0.0,654.3,South
+2024-05-20,Office Desk,Furniture,2,234.44,0.1,421.99,East
+2024-05-21,Blender,Appliances,2,35.52,0.15,60.38,East
+2024-05-21,Laptop Pro,Electronics,2,1036.22,0.15,1761.57,South
+2024-05-21,Office Desk,Furniture,1,419.06,0.0,419.06,Central
+2024-05-22,Backpack,Accessories,3,68.84,0.0,206.52,South
+2024-05-22,Desk Chair,Furniture,2,468.57,0.15,796.57,North
+2024-05-22,Smartphone X,Electronics,3,666.94,0.15,1700.7,North
+2024-05-22,Smartphone X,Electronics,3,1125.08,0.0,3375.24,West
+2024-05-23,Blender,Appliances,1,45.29,0.0,45.29,East
+2024-05-23,Coffee Maker,Appliances,1,105.66,0.0,105.66,North
+2024-05-23,Wireless Headphones,Electronics,3,546.2,0.0,1638.6,East
+2024-05-23,Wireless Headphones,Electronics,2,1232.69,0.1,2218.84,East
+2024-05-23,Wireless Headphones,Electronics,3,1051.19,0.0,3153.57,North
+2024-05-24,Backpack,Accessories,6,34.39,0.0,206.34,South
+2024-05-24,Coffee Maker,Appliances,4,91.29,0.0,365.16,South
+2024-05-24,Coffee Maker,Appliances,3,114.01,0.0,342.03,West
+2024-05-24,Running Shoes,Sports,2,116.5,0.0,233.0,East
+2024-05-24,Smartphone X,Electronics,3,1217.11,0.0,3651.33,West
+2024-05-25,Coffee Maker,Appliances,2,140.43,0.0,280.86,West
+2024-05-25,Wireless Headphones,Electronics,1,441.67,0.1,397.5,South
+2024-05-26,Desk Chair,Furniture,2,309.75,0.15,526.57,North
+2024-05-26,Running Shoes,Sports,5,48.63,0.0,243.15,Central
+2024-05-26,Smartphone X,Electronics,3,1248.86,0.05,3559.25,North
+2024-05-27,Laptop Pro,Electronics,1,481.97,0.05,457.87,East
+2024-05-27,Smartphone X,Electronics,3,952.52,0.0,2857.56,South
+2024-05-27,Smartphone X,Electronics,1,760.08,0.0,760.08,West
+2024-05-28,Blender,Appliances,1,114.8,0.0,114.8,East
+2024-05-28,Yoga Mat,Sports,4,41.03,0.1,147.71,East
+2024-05-29,Desk Chair,Furniture,1,480.01,0.0,480.01,West
+2024-05-29,Office Desk,Furniture,1,524.1,0.0,524.1,West
+2024-05-30,Blender,Appliances,1,135.58,0.0,135.58,South
+2024-05-30,Coffee Maker,Appliances,3,93.02,0.0,279.06,East
+2024-05-30,Office Desk,Furniture,1,543.91,0.15,462.32,West
+2024-05-30,Running Shoes,Sports,2,74.91,0.1,134.84,North
+2024-05-30,Running Shoes,Sports,4,87.28,0.15,296.75,West
+2024-05-31,Backpack,Accessories,3,62.83,0.0,188.49,West
+2024-05-31,Blender,Appliances,3,138.03,0.1,372.68,East
+2024-05-31,Coffee Maker,Appliances,3,195.39,0.0,586.17,South
+2024-05-31,Running Shoes,Sports,6,127.85,0.1,690.39,East
+2024-05-31,Smartphone X,Electronics,1,1117.25,0.0,1117.25,West
+2024-06-01,Blender,Appliances,2,101.36,0.0,202.72,East
+2024-06-01,Coffee Maker,Appliances,3,109.14,0.15,278.31,East
+2024-06-01,Desk Chair,Furniture,1,155.15,0.05,147.39,Central
+2024-06-01,Office Desk,Furniture,2,265.92,0.1,478.66,Central
+2024-06-01,Smartphone X,Electronics,2,327.37,0.0,654.74,West
+2024-06-02,Blender,Appliances,3,146.28,0.0,438.84,North
+2024-06-02,Coffee Maker,Appliances,1,190.2,0.15,161.67,East
+2024-06-02,Wireless Headphones,Electronics,4,1101.31,0.15,3744.45,South
+2024-06-02,Wireless Headphones,Electronics,3,776.21,0.1,2095.77,East
+2024-06-03,Coffee Maker,Appliances,3,166.72,0.05,475.15,West
+2024-06-03,Office Desk,Furniture,1,459.51,0.0,459.51,North
+2024-06-04,Desk Chair,Furniture,1,293.76,0.15,249.7,Central
+2024-06-04,Desk Chair,Furniture,1,172.82,0.1,155.54,West
+2024-06-04,Yoga Mat,Sports,3,136.24,0.15,347.41,East
+2024-06-04,Yoga Mat,Sports,2,26.13,0.0,52.26,North
+2024-06-05,Laptop Pro,Electronics,2,433.56,0.05,823.76,Central
+2024-06-05,Smartphone X,Electronics,2,499.95,0.0,999.9,South
+2024-06-05,Wireless Headphones,Electronics,3,983.23,0.1,2654.72,West
+2024-06-05,Yoga Mat,Sports,7,81.28,0.0,568.96,West
+2024-06-06,Office Desk,Furniture,1,548.08,0.1,493.27,West
+2024-06-06,Yoga Mat,Sports,1,44.42,0.1,39.98,Central
+2024-06-07,Blender,Appliances,2,98.74,0.15,167.86,North
+2024-06-07,Laptop Pro,Electronics,2,692.17,0.0,1384.34,East
+2024-06-08,Blender,Appliances,2,34.91,0.0,69.82,West
+2024-06-08,Blender,Appliances,4,186.88,0.05,710.14,North
+2024-06-08,Desk Chair,Furniture,1,299.36,0.0,299.36,Central
+2024-06-08,Running Shoes,Sports,6,106.42,0.0,638.52,South
+2024-06-08,Yoga Mat,Sports,7,31.48,0.0,220.36,South
+2024-06-09,Backpack,Accessories,7,26.03,0.0,182.21,North
+2024-06-09,Yoga Mat,Sports,6,122.8,0.0,736.8,West
+2024-06-09,Yoga Mat,Sports,6,86.82,0.15,442.78,West
+2024-06-10,Coffee Maker,Appliances,2,135.79,0.15,230.84,West
+2024-06-10,Wireless Headphones,Electronics,1,1119.53,0.1,1007.58,Central
+2024-06-11,Backpack,Accessories,6,80.18,0.15,408.92,Central
+2024-06-11,Backpack,Accessories,3,69.02,0.1,186.35,Central
+2024-06-11,Blender,Appliances,1,53.97,0.0,53.97,Central
+2024-06-11,Blender,Appliances,4,58.99,0.0,235.96,Central
+2024-06-11,Desk Chair,Furniture,2,195.31,0.05,371.09,North
+2024-06-12,Blender,Appliances,2,80.35,0.0,160.7,North
+2024-06-12,Blender,Appliances,2,189.59,0.0,379.18,North
+2024-06-12,Smartphone X,Electronics,1,536.5,0.15,456.02,Central
+2024-06-12,Wireless Headphones,Electronics,2,1143.4,0.15,1943.78,Central
+2024-06-13,Desk Chair,Furniture,1,375.71,0.05,356.92,Central
+2024-06-13,Running Shoes,Sports,5,136.98,0.0,684.9,Central
+2024-06-13,Smartphone X,Electronics,1,1086.81,0.05,1032.47,West
+2024-06-13,Smartphone X,Electronics,2,566.32,0.0,1132.64,Central
+2024-06-13,Wireless Headphones,Electronics,3,1146.27,0.05,3266.87,South
+2024-06-14,Laptop Pro,Electronics,2,848.65,0.1,1527.57,North
+2024-06-14,Laptop Pro,Electronics,1,1022.13,0.15,868.81,North
+2024-06-14,Office Desk,Furniture,1,203.99,0.15,173.39,Central
+2024-06-15,Desk Chair,Furniture,2,318.0,0.05,604.2,South
+2024-06-15,Desk Chair,Furniture,2,420.85,0.1,757.53,Central
+2024-06-16,Office Desk,Furniture,2,359.25,0.0,718.5,East
+2024-06-16,Office Desk,Furniture,2,415.67,0.15,706.64,North
+2024-06-16,Running Shoes,Sports,4,50.44,0.05,191.67,East
+2024-06-16,Yoga Mat,Sports,4,137.14,0.0,548.56,North
+2024-06-17,Backpack,Accessories,6,14.26,0.1,77.0,West
+2024-06-17,Running Shoes,Sports,5,103.83,0.0,519.15,East
+2024-06-17,Running Shoes,Sports,5,31.31,0.0,156.55,North
+2024-06-17,Smartphone X,Electronics,2,417.11,0.15,709.09,South
+2024-06-18,Backpack,Accessories,8,54.24,0.0,433.92,North
+2024-06-18,Laptop Pro,Electronics,1,974.83,0.0,974.83,South
+2024-06-18,Yoga Mat,Sports,1,110.15,0.05,104.64,North
+2024-06-19,Coffee Maker,Appliances,2,69.68,0.0,139.36,North
+2024-06-19,Coffee Maker,Appliances,2,111.08,0.0,222.16,Central
+2024-06-19,Smartphone X,Electronics,3,434.41,0.0,1303.23,West
+2024-06-20,Wireless Headphones,Electronics,2,886.21,0.0,1772.42,East
+2024-06-20,Yoga Mat,Sports,3,81.5,0.1,220.05,East
+2024-06-21,Coffee Maker,Appliances,1,138.95,0.1,125.05,East
+2024-06-21,Office Desk,Furniture,2,510.53,0.0,1021.06,West
+2024-06-21,Yoga Mat,Sports,3,26.57,0.0,79.71,East
+2024-06-22,Blender,Appliances,4,33.45,0.0,133.8,East
+2024-06-22,Laptop Pro,Electronics,2,1077.0,0.1,1938.6,Central
+2024-06-22,Running Shoes,Sports,2,81.16,0.15,137.97,East
+2024-06-22,Yoga Mat,Sports,1,63.18,0.15,53.7,East
+2024-06-23,Running Shoes,Sports,6,58.18,0.05,331.63,East
+2024-06-23,Smartphone X,Electronics,2,992.23,0.15,1686.79,South
+2024-06-23,Wireless Headphones,Electronics,1,1087.71,0.0,1087.71,North
+2024-06-24,Laptop Pro,Electronics,1,1153.91,0.0,1153.91,West
+2024-06-24,Office Desk,Furniture,2,428.77,0.0,857.54,South
+2024-06-24,Wireless Headphones,Electronics,1,697.3,0.0,697.3,Central
+2024-06-25,Blender,Appliances,1,108.87,0.0,108.87,West
+2024-06-25,Coffee Maker,Appliances,1,79.84,0.05,75.85,East
+2024-06-25,Laptop Pro,Electronics,1,334.43,0.0,334.43,Central
+2024-06-25,Running Shoes,Sports,1,114.91,0.15,97.67,Central
+2024-06-26,Desk Chair,Furniture,1,206.7,0.15,175.69,Central
+2024-06-26,Smartphone X,Electronics,3,643.57,0.1,1737.64,East
+2024-06-26,Wireless Headphones,Electronics,2,343.39,0.0,686.78,Central
+2024-06-27,Blender,Appliances,1,146.34,0.1,131.71,West
+2024-06-27,Blender,Appliances,2,48.84,0.0,97.68,South
+2024-06-28,Blender,Appliances,1,113.69,0.0,113.69,South
+2024-06-28,Blender,Appliances,1,164.94,0.05,156.69,North
+2024-06-29,Backpack,Accessories,3,64.7,0.1,174.69,North
+2024-06-29,Backpack,Accessories,4,44.66,0.0,178.64,North
+2024-06-29,Desk Chair,Furniture,1,180.76,0.0,180.76,West
+2024-06-29,Office Desk,Furniture,1,346.4,0.0,346.4,East
+2024-06-29,Office Desk,Furniture,2,164.61,0.15,279.84,South
+2024-06-30,Backpack,Accessories,8,22.25,0.0,178.0,South
+2024-06-30,Coffee Maker,Appliances,1,64.41,0.1,57.97,West
+2024-06-30,Coffee Maker,Appliances,2,192.2,0.1,345.96,North
+2024-06-30,Desk Chair,Furniture,1,426.76,0.0,426.76,East
+2024-06-30,Smartphone X,Electronics,1,783.63,0.0,783.63,South
+2024-07-01,Blender,Appliances,4,61.34,0.05,233.09,West
+2024-07-01,Blender,Appliances,3,46.36,0.0,139.08,West
+2024-07-01,Blender,Appliances,2,157.86,0.05,299.93,East
+2024-07-01,Desk Chair,Furniture,1,473.04,0.1,425.74,East
+2024-07-01,Desk Chair,Furniture,1,508.56,0.1,457.7,East
+2024-07-02,Backpack,Accessories,5,25.3,0.1,113.85,North
+2024-07-02,Coffee Maker,Appliances,1,89.52,0.0,89.52,West
+2024-07-02,Laptop Pro,Electronics,1,1104.36,0.0,1104.36,East
+2024-07-02,Laptop Pro,Electronics,3,1177.69,0.0,3533.07,North
+2024-07-02,Yoga Mat,Sports,3,43.46,0.0,130.38,Central
+2024-07-03,Blender,Appliances,2,116.18,0.05,220.74,West
+2024-07-03,Coffee Maker,Appliances,3,86.61,0.0,259.83,North
+2024-07-03,Desk Chair,Furniture,2,312.07,0.1,561.73,North
+2024-07-03,Desk Chair,Furniture,1,209.67,0.15,178.22,North
+2024-07-03,Wireless Headphones,Electronics,3,662.16,0.0,1986.48,West
+2024-07-04,Coffee Maker,Appliances,2,171.57,0.05,325.98,North
+2024-07-04,Desk Chair,Furniture,1,238.18,0.0,238.18,South
+2024-07-04,Running Shoes,Sports,1,90.19,0.05,85.68,South
+2024-07-04,Smartphone X,Electronics,1,971.56,0.0,971.56,West
+2024-07-04,Yoga Mat,Sports,6,93.94,0.0,563.64,North
+2024-07-05,Desk Chair,Furniture,1,215.26,0.05,204.5,Central
+2024-07-05,Smartphone X,Electronics,2,435.67,0.05,827.77,South
+2024-07-06,Backpack,Accessories,11,64.47,0.0,709.17,Central
+2024-07-06,Desk Chair,Furniture,1,408.93,0.05,388.48,West
+2024-07-07,Coffee Maker,Appliances,3,112.07,0.0,336.21,North
+2024-07-07,Desk Chair,Furniture,1,466.89,0.1,420.2,North
+2024-07-07,Wireless Headphones,Electronics,1,517.03,0.15,439.48,East
+2024-07-08,Backpack,Accessories,4,50.86,0.05,193.27,West
+2024-07-08,Blender,Appliances,3,95.3,0.1,257.31,West
+2024-07-08,Blender,Appliances,1,192.59,0.1,173.33,West
+2024-07-08,Smartphone X,Electronics,2,1100.36,0.1,1980.65,East
+2024-07-09,Backpack,Accessories,6,34.09,0.05,194.31,East
+2024-07-09,Desk Chair,Furniture,2,510.41,0.0,1020.82,Central
+2024-07-09,Laptop Pro,Electronics,1,530.88,0.05,504.34,South
+2024-07-10,Desk Chair,Furniture,1,554.16,0.0,554.16,West
+2024-07-10,Office Desk,Furniture,1,561.45,0.15,477.23,North
+2024-07-10,Office Desk,Furniture,2,235.84,0.0,471.68,South
+2024-07-11,Desk Chair,Furniture,1,397.02,0.1,357.32,Central
+2024-07-11,Wireless Headphones,Electronics,2,1082.39,0.05,2056.54,North
+2024-07-11,Yoga Mat,Sports,1,98.48,0.1,88.63,South
+2024-07-12,Backpack,Accessories,4,53.23,0.0,212.92,South
+2024-07-12,Laptop Pro,Electronics,1,433.0,0.0,433.0,Central
+2024-07-12,Office Desk,Furniture,2,523.41,0.05,994.48,East
+2024-07-12,Running Shoes,Sports,1,71.1,0.05,67.54,South
+2024-07-12,Yoga Mat,Sports,1,145.23,0.0,145.23,South
+2024-07-13,Coffee Maker,Appliances,4,141.35,0.0,565.4,West
+2024-07-13,Desk Chair,Furniture,1,251.77,0.05,239.18,West
+2024-07-13,Yoga Mat,Sports,6,30.84,0.1,166.54,South
+2024-07-14,Blender,Appliances,1,100.78,0.0,100.78,North
+2024-07-14,Laptop Pro,Electronics,1,766.28,0.0,766.28,East
+2024-07-14,Laptop Pro,Electronics,2,885.04,0.05,1681.58,North
+2024-07-14,Office Desk,Furniture,1,222.67,0.0,222.67,Central
+2024-07-14,Yoga Mat,Sports,7,26.18,0.15,155.77,South
+2024-07-15,Desk Chair,Furniture,1,156.2,0.1,140.58,North
+2024-07-15,Desk Chair,Furniture,2,553.01,0.0,1106.02,East
+2024-07-15,Office Desk,Furniture,2,259.79,0.1,467.62,North
+2024-07-15,Office Desk,Furniture,1,310.8,0.1,279.72,North
+2024-07-15,Wireless Headphones,Electronics,2,401.64,0.15,682.79,West
+2024-07-16,Backpack,Accessories,4,52.31,0.1,188.32,Central
+2024-07-16,Blender,Appliances,2,120.48,0.05,228.91,Central
+2024-07-16,Smartphone X,Electronics,1,502.85,0.1,452.57,Central
+2024-07-16,Yoga Mat,Sports,7,136.29,0.0,954.03,Central
+2024-07-17,Desk Chair,Furniture,1,176.85,0.0,176.85,Central
+2024-07-17,Office Desk,Furniture,1,274.37,0.0,274.37,Central
+2024-07-17,Wireless Headphones,Electronics,1,899.25,0.1,809.33,South
+2024-07-18,Smartphone X,Electronics,1,319.21,0.0,319.21,Central
+2024-07-18,Wireless Headphones,Electronics,2,836.1,0.0,1672.2,North
+2024-07-19,Desk Chair,Furniture,1,188.03,0.1,169.23,South
+2024-07-19,Laptop Pro,Electronics,3,1064.17,0.15,2713.63,Central
+2024-07-20,Coffee Maker,Appliances,1,122.24,0.0,122.24,West
+2024-07-20,Smartphone X,Electronics,1,598.7,0.0,598.7,West
+2024-07-20,Yoga Mat,Sports,3,76.2,0.0,228.6,North
+2024-07-21,Coffee Maker,Appliances,4,192.51,0.0,770.04,East
+2024-07-21,Desk Chair,Furniture,1,507.58,0.0,507.58,North
+2024-07-21,Wireless Headphones,Electronics,1,849.95,0.05,807.45,Central
+2024-07-21,Yoga Mat,Sports,1,116.97,0.15,99.42,Central
+2024-07-22,Desk Chair,Furniture,2,394.08,0.15,669.94,South
+2024-07-22,Wireless Headphones,Electronics,2,631.47,0.0,1262.94,East
+2024-07-22,Yoga Mat,Sports,2,142.07,0.1,255.73,East
+2024-07-22,Yoga Mat,Sports,4,66.09,0.0,264.36,South
+2024-07-23,Backpack,Accessories,6,60.07,0.0,360.42,North
+2024-07-23,Backpack,Accessories,3,10.69,0.1,28.86,West
+2024-07-23,Coffee Maker,Appliances,1,146.59,0.15,124.6,East
+2024-07-23,Desk Chair,Furniture,2,308.41,0.15,524.3,East
+2024-07-23,Yoga Mat,Sports,5,86.02,0.15,365.58,Central
+2024-07-24,Backpack,Accessories,5,71.24,0.0,356.2,Central
+2024-07-24,Laptop Pro,Electronics,1,760.76,0.05,722.72,South
+2024-07-24,Wireless Headphones,Electronics,2,1093.95,0.0,2187.9,East
+2024-07-24,Wireless Headphones,Electronics,1,805.09,0.15,684.33,Central
+2024-07-24,Yoga Mat,Sports,7,95.18,0.05,632.95,South
+2024-07-25,Coffee Maker,Appliances,3,186.64,0.1,503.93,Central
+2024-07-25,Office Desk,Furniture,1,299.58,0.0,299.58,South
+2024-07-26,Backpack,Accessories,3,35.85,0.05,102.17,North
+2024-07-26,Yoga Mat,Sports,2,28.33,0.0,56.66,South
+2024-07-27,Coffee Maker,Appliances,4,127.56,0.1,459.22,East
+2024-07-27,Desk Chair,Furniture,1,340.77,0.15,289.65,North
+2024-07-27,Smartphone X,Electronics,1,718.39,0.0,718.39,North
+2024-07-28,Blender,Appliances,2,169.91,0.1,305.84,Central
+2024-07-28,Blender,Appliances,2,78.45,0.0,156.9,Central
+2024-07-28,Smartphone X,Electronics,1,707.53,0.1,636.78,East
+2024-07-28,Wireless Headphones,Electronics,1,372.01,0.15,316.21,South
+2024-07-29,Coffee Maker,Appliances,3,87.31,0.0,261.93,North
+2024-07-29,Wireless Headphones,Electronics,2,613.77,0.0,1227.54,East
+2024-07-30,Blender,Appliances,3,116.1,0.1,313.47,Central
+2024-07-30,Smartphone X,Electronics,2,657.13,0.05,1248.55,East
+2024-07-31,Blender,Appliances,2,62.37,0.0,124.74,North
+2024-07-31,Running Shoes,Sports,3,76.35,0.0,229.05,North
+2024-08-01,Backpack,Accessories,5,66.29,0.05,314.88,Central
+2024-08-01,Coffee Maker,Appliances,3,65.37,0.1,176.5,East
+2024-08-01,Desk Chair,Furniture,1,512.05,0.0,512.05,South
+2024-08-01,Smartphone X,Electronics,2,955.32,0.1,1719.58,Central
+2024-08-02,Coffee Maker,Appliances,1,66.8,0.15,56.78,North
+2024-08-02,Laptop Pro,Electronics,2,483.39,0.1,870.1,West
+2024-08-02,Running Shoes,Sports,5,43.43,0.15,184.58,East
+2024-08-03,Backpack,Accessories,8,12.36,0.0,98.88,East
+2024-08-03,Laptop Pro,Electronics,2,874.16,0.0,1748.32,West
+2024-08-04,Office Desk,Furniture,1,570.38,0.0,570.38,North
+2024-08-04,Wireless Headphones,Electronics,2,939.53,0.05,1785.11,South
+2024-08-04,Wireless Headphones,Electronics,3,1092.26,0.15,2785.26,Central
+2024-08-05,Coffee Maker,Appliances,1,121.37,0.0,121.37,East
+2024-08-05,Laptop Pro,Electronics,1,1300.73,0.15,1105.62,South
+2024-08-05,Running Shoes,Sports,3,24.24,0.0,72.72,North
+2024-08-05,Smartphone X,Electronics,2,1187.93,0.0,2375.86,West
+2024-08-06,Backpack,Accessories,7,36.71,0.15,218.42,South
+2024-08-06,Coffee Maker,Appliances,3,151.68,0.0,455.04,West
+2024-08-06,Coffee Maker,Appliances,2,142.03,0.0,284.06,North
+2024-08-07,Blender,Appliances,2,180.53,0.0,361.06,East
+2024-08-07,Wireless Headphones,Electronics,3,295.34,0.05,841.72,East
+2024-08-08,Backpack,Accessories,3,29.82,0.05,84.99,West
+2024-08-08,Desk Chair,Furniture,1,264.2,0.15,224.57,North
+2024-08-08,Office Desk,Furniture,1,587.24,0.0,587.24,North
+2024-08-08,Yoga Mat,Sports,5,119.49,0.1,537.7,South
+2024-08-09,Desk Chair,Furniture,2,328.83,0.0,657.66,South
+2024-08-09,Office Desk,Furniture,1,234.97,0.15,199.72,Central
+2024-08-09,Running Shoes,Sports,1,133.91,0.1,120.52,West
+2024-08-09,Yoga Mat,Sports,3,66.94,0.0,200.82,South
+2024-08-10,Backpack,Accessories,3,35.28,0.1,95.26,Central
+2024-08-10,Desk Chair,Furniture,1,245.73,0.0,245.73,East
+2024-08-10,Laptop Pro,Electronics,1,913.43,0.15,776.42,West
+2024-08-10,Laptop Pro,Electronics,2,332.81,0.0,665.62,Central
+2024-08-10,Office Desk,Furniture,1,456.59,0.0,456.59,North
+2024-08-11,Coffee Maker,Appliances,1,73.02,0.05,69.37,Central
+2024-08-11,Laptop Pro,Electronics,2,682.36,0.15,1160.01,West
+2024-08-11,Office Desk,Furniture,2,313.71,0.0,627.42,North
+2024-08-11,Wireless Headphones,Electronics,2,992.47,0.15,1687.2,Central
+2024-08-11,Yoga Mat,Sports,1,21.64,0.15,18.39,South
+2024-08-12,Coffee Maker,Appliances,2,136.34,0.0,272.68,South
+2024-08-12,Office Desk,Furniture,1,334.71,0.05,317.97,Central
+2024-08-12,Office Desk,Furniture,1,570.9,0.05,542.35,North
+2024-08-12,Smartphone X,Electronics,1,1179.3,0.05,1120.33,South
+2024-08-12,Yoga Mat,Sports,3,32.91,0.0,98.73,South
+2024-08-13,Blender,Appliances,1,58.66,0.1,52.79,South
+2024-08-13,Coffee Maker,Appliances,1,175.42,0.05,166.65,North
+2024-08-13,Coffee Maker,Appliances,1,85.66,0.05,81.38,South
+2024-08-13,Yoga Mat,Sports,2,67.2,0.0,134.4,West
+2024-08-14,Coffee Maker,Appliances,1,90.94,0.0,90.94,South
+2024-08-14,Office Desk,Furniture,1,511.22,0.15,434.54,South
+2024-08-14,Smartphone X,Electronics,3,711.68,0.0,2135.04,South
+2024-08-15,Laptop Pro,Electronics,1,666.43,0.05,633.11,North
+2024-08-15,Office Desk,Furniture,1,470.33,0.15,399.78,North
+2024-08-15,Wireless Headphones,Electronics,2,570.39,0.0,1140.78,West
+2024-08-16,Wireless Headphones,Electronics,2,746.71,0.1,1344.08,North
+2024-08-16,Yoga Mat,Sports,4,88.25,0.0,353.0,South
+2024-08-16,Yoga Mat,Sports,1,141.6,0.15,120.36,East
+2024-08-17,Desk Chair,Furniture,1,340.68,0.1,306.61,East
+2024-08-17,Office Desk,Furniture,2,167.72,0.15,285.12,South
+2024-08-18,Office Desk,Furniture,1,258.97,0.1,233.07,Central
+2024-08-18,Running Shoes,Sports,1,33.97,0.15,28.87,East
+2024-08-18,Yoga Mat,Sports,4,97.27,0.0,389.08,Central
+2024-08-18,Yoga Mat,Sports,8,34.21,0.1,246.31,West
+2024-08-19,Backpack,Accessories,6,41.13,0.0,246.78,North
+2024-08-19,Laptop Pro,Electronics,1,1060.8,0.0,1060.8,West
+2024-08-19,Running Shoes,Sports,6,137.17,0.05,781.87,West
+2024-08-19,Smartphone X,Electronics,3,343.59,0.0,1030.77,South
+2024-08-20,Office Desk,Furniture,1,173.13,0.0,173.13,Central
+2024-08-20,Office Desk,Furniture,2,520.1,0.0,1040.2,Central
+2024-08-20,Wireless Headphones,Electronics,3,659.52,0.0,1978.56,North
+2024-08-20,Yoga Mat,Sports,1,72.11,0.0,72.11,East
+2024-08-20,Yoga Mat,Sports,6,100.5,0.15,512.55,South
+2024-08-21,Backpack,Accessories,3,53.29,0.0,159.87,Central
+2024-08-21,Coffee Maker,Appliances,2,104.39,0.15,177.46,North
+2024-08-21,Yoga Mat,Sports,2,52.87,0.0,105.74,East
+2024-08-21,Yoga Mat,Sports,6,59.33,0.15,302.58,West
+2024-08-22,Blender,Appliances,1,146.09,0.0,146.09,Central
+2024-08-22,Blender,Appliances,1,180.48,0.15,153.41,East
+2024-08-22,Yoga Mat,Sports,6,114.87,0.05,654.76,Central
+2024-08-23,Coffee Maker,Appliances,3,186.77,0.05,532.29,North
+2024-08-23,Desk Chair,Furniture,1,555.89,0.0,555.89,South
+2024-08-23,Desk Chair,Furniture,2,515.24,0.15,875.91,West
+2024-08-23,Smartphone X,Electronics,2,805.49,0.1,1449.88,East
+2024-08-24,Coffee Maker,Appliances,3,41.87,0.0,125.61,Central
+2024-08-24,Running Shoes,Sports,6,54.35,0.15,277.19,South
+2024-08-24,Yoga Mat,Sports,5,64.88,0.0,324.4,North
+2024-08-25,Laptop Pro,Electronics,3,1073.13,0.0,3219.39,East
+2024-08-25,Wireless Headphones,Electronics,1,298.51,0.1,268.66,South
+2024-08-26,Backpack,Accessories,5,31.52,0.05,149.72,West
+2024-08-26,Wireless Headphones,Electronics,1,980.2,0.1,882.18,West
+2024-08-26,Wireless Headphones,Electronics,1,784.61,0.0,784.61,Central
+2024-08-27,Backpack,Accessories,4,30.14,0.05,114.53,North
+2024-08-27,Backpack,Accessories,3,20.43,0.15,52.1,West
+2024-08-27,Backpack,Accessories,9,20.8,0.05,177.84,East
+2024-08-27,Coffee Maker,Appliances,3,49.04,0.15,125.05,Central
+2024-08-27,Wireless Headphones,Electronics,2,815.04,0.0,1630.08,North
+2024-08-28,Backpack,Accessories,3,71.83,0.15,183.17,East
+2024-08-28,Blender,Appliances,4,142.04,0.0,568.16,West
+2024-08-28,Laptop Pro,Electronics,1,715.23,0.0,715.23,Central
+2024-08-28,Smartphone X,Electronics,2,336.42,0.0,672.84,East
+2024-08-28,Wireless Headphones,Electronics,1,374.63,0.05,355.9,Central
+2024-08-29,Laptop Pro,Electronics,1,1026.47,0.0,1026.47,South
+2024-08-29,Smartphone X,Electronics,2,336.99,0.15,572.88,West
+2024-08-30,Backpack,Accessories,1,52.46,0.0,52.46,East
+2024-08-30,Coffee Maker,Appliances,3,125.2,0.0,375.6,South
+2024-08-30,Coffee Maker,Appliances,1,173.07,0.15,147.11,South
+2024-08-30,Wireless Headphones,Electronics,2,1188.6,0.0,2377.2,North
+2024-08-31,Coffee Maker,Appliances,3,184.45,0.05,525.68,West
+2024-08-31,Laptop Pro,Electronics,3,567.8,0.05,1618.23,East
+2024-08-31,Smartphone X,Electronics,4,872.57,0.1,3141.25,South
+2024-08-31,Smartphone X,Electronics,2,1184.36,0.0,2368.72,South
+2024-08-31,Yoga Mat,Sports,7,119.79,0.15,712.75,Central
+2024-09-01,Running Shoes,Sports,5,80.6,0.0,403.0,North
+2024-09-01,Yoga Mat,Sports,8,133.87,0.0,1070.96,North
+2024-09-01,Yoga Mat,Sports,4,91.83,0.15,312.22,Central
+2024-09-02,Backpack,Accessories,9,17.77,0.0,159.93,East
+2024-09-02,Office Desk,Furniture,1,186.43,0.0,186.43,Central
+2024-09-02,Office Desk,Furniture,2,428.14,0.0,856.28,North
+2024-09-02,Office Desk,Furniture,1,460.72,0.0,460.72,Central
+2024-09-02,Yoga Mat,Sports,3,127.15,0.15,324.23,West
+2024-09-03,Laptop Pro,Electronics,2,539.92,0.15,917.86,East
+2024-09-03,Office Desk,Furniture,1,223.93,0.0,223.93,Central
+2024-09-03,Smartphone X,Electronics,3,1218.19,0.1,3289.11,South
+2024-09-04,Backpack,Accessories,4,72.57,0.1,261.25,Central
+2024-09-04,Coffee Maker,Appliances,1,68.85,0.0,68.85,East
+2024-09-04,Yoga Mat,Sports,2,60.39,0.0,120.78,South
+2024-09-05,Backpack,Accessories,2,12.43,0.0,24.86,West
+2024-09-05,Desk Chair,Furniture,1,523.37,0.0,523.37,West
+2024-09-05,Office Desk,Furniture,2,257.41,0.0,514.82,North
+2024-09-05,Running Shoes,Sports,2,130.27,0.15,221.46,Central
+2024-09-05,Wireless Headphones,Electronics,3,919.45,0.05,2620.43,West
+2024-09-06,Running Shoes,Sports,3,68.29,0.1,184.38,South
+2024-09-06,Smartphone X,Electronics,1,917.57,0.0,917.57,South
+2024-09-07,Desk Chair,Furniture,1,476.23,0.0,476.23,North
+2024-09-07,Desk Chair,Furniture,2,488.77,0.1,879.79,West
+2024-09-07,Desk Chair,Furniture,1,218.89,0.0,218.89,East
+2024-09-07,Office Desk,Furniture,2,319.23,0.0,638.46,West
+2024-09-07,Wireless Headphones,Electronics,3,765.8,0.05,2182.53,West
+2024-09-08,Blender,Appliances,2,48.89,0.0,97.78,North
+2024-09-08,Coffee Maker,Appliances,2,123.75,0.1,222.75,North
+2024-09-08,Laptop Pro,Electronics,2,408.08,0.05,775.35,South
+2024-09-08,Office Desk,Furniture,1,522.87,0.0,522.87,West
+2024-09-09,Blender,Appliances,2,54.6,0.1,98.28,West
+2024-09-09,Desk Chair,Furniture,1,446.88,0.0,446.88,North
+2024-09-09,Office Desk,Furniture,2,264.45,0.1,476.01,East
+2024-09-10,Laptop Pro,Electronics,1,591.33,0.0,591.33,Central
+2024-09-10,Running Shoes,Sports,1,85.63,0.0,85.63,North
+2024-09-10,Running Shoes,Sports,2,128.59,0.05,244.32,North
+2024-09-11,Coffee Maker,Appliances,3,107.07,0.05,305.15,West
+2024-09-11,Desk Chair,Furniture,1,197.86,0.05,187.97,East
+2024-09-12,Blender,Appliances,1,190.66,0.0,190.66,North
+2024-09-12,Wireless Headphones,Electronics,1,446.14,0.0,446.14,Central
+2024-09-13,Office Desk,Furniture,1,296.37,0.05,281.55,South
+2024-09-13,Running Shoes,Sports,5,81.54,0.0,407.7,South
+2024-09-13,Wireless Headphones,Electronics,1,1082.75,0.0,1082.75,South
+2024-09-13,Yoga Mat,Sports,3,139.27,0.0,417.81,West
+2024-09-14,Smartphone X,Electronics,3,494.6,0.0,1483.8,West
+2024-09-14,Wireless Headphones,Electronics,3,453.25,0.05,1291.76,North
+2024-09-15,Blender,Appliances,5,58.28,0.1,262.26,East
+2024-09-15,Running Shoes,Sports,7,99.89,0.1,629.31,North
+2024-09-15,Yoga Mat,Sports,3,122.91,0.1,331.86,West
+2024-09-16,Desk Chair,Furniture,1,167.52,0.05,159.14,South
+2024-09-16,Smartphone X,Electronics,2,342.12,0.1,615.82,South
+2024-09-17,Blender,Appliances,1,73.87,0.1,66.48,East
+2024-09-17,Desk Chair,Furniture,1,296.3,0.0,296.3,Central
+2024-09-17,Office Desk,Furniture,1,242.97,0.0,242.97,Central
+2024-09-17,Smartphone X,Electronics,2,639.41,0.1,1150.94,East
+2024-09-17,Yoga Mat,Sports,2,82.3,0.15,139.91,Central
+2024-09-18,Blender,Appliances,4,142.75,0.0,571.0,East
+2024-09-18,Desk Chair,Furniture,1,371.65,0.0,371.65,South
+2024-09-18,Running Shoes,Sports,1,63.92,0.15,54.33,East
+2024-09-19,Blender,Appliances,2,38.42,0.0,76.84,South
+2024-09-19,Laptop Pro,Electronics,1,687.43,0.1,618.69,West
+2024-09-19,Running Shoes,Sports,5,86.59,0.0,432.95,Central
+2024-09-20,Backpack,Accessories,4,49.35,0.0,197.4,North
+2024-09-20,Backpack,Accessories,3,9.66,0.0,28.98,South
+2024-09-20,Blender,Appliances,1,64.97,0.0,64.97,East
+2024-09-20,Coffee Maker,Appliances,1,199.36,0.1,179.42,West
+2024-09-20,Yoga Mat,Sports,5,23.84,0.0,119.2,Central
+2024-09-21,Backpack,Accessories,7,75.6,0.1,476.28,North
+2024-09-21,Smartphone X,Electronics,3,1068.07,0.15,2723.58,North
+2024-09-22,Backpack,Accessories,8,19.15,0.0,153.2,Central
+2024-09-22,Laptop Pro,Electronics,3,656.54,0.15,1674.18,Central
+2024-09-22,Smartphone X,Electronics,4,292.33,0.0,1169.32,North
+2024-09-22,Yoga Mat,Sports,5,59.35,0.0,296.75,South
+2024-09-22,Yoga Mat,Sports,7,61.79,0.0,432.53,South
+2024-09-23,Desk Chair,Furniture,1,198.38,0.0,198.38,Central
+2024-09-23,Yoga Mat,Sports,4,33.65,0.0,134.6,South
+2024-09-24,Office Desk,Furniture,1,152.91,0.0,152.91,East
+2024-09-24,Smartphone X,Electronics,2,835.31,0.05,1587.09,East
+2024-09-25,Coffee Maker,Appliances,1,145.27,0.0,145.27,West
+2024-09-25,Desk Chair,Furniture,1,390.55,0.1,351.5,North
+2024-09-25,Laptop Pro,Electronics,1,1183.07,0.15,1005.61,East
+2024-09-25,Smartphone X,Electronics,1,944.82,0.0,944.82,North
+2024-09-26,Running Shoes,Sports,3,129.08,0.0,387.24,Central
+2024-09-26,Running Shoes,Sports,6,92.58,0.15,472.16,East
+2024-09-26,Running Shoes,Sports,1,103.39,0.15,87.88,West
+2024-09-27,Coffee Maker,Appliances,4,178.92,0.0,715.68,Central
+2024-09-27,Laptop Pro,Electronics,3,479.62,0.15,1223.03,Central
+2024-09-27,Wireless Headphones,Electronics,3,649.68,0.0,1949.04,East
+2024-09-28,Coffee Maker,Appliances,4,42.87,0.1,154.33,East
+2024-09-28,Desk Chair,Furniture,1,586.91,0.1,528.22,Central
+2024-09-28,Laptop Pro,Electronics,4,376.68,0.1,1356.05,East
+2024-09-29,Laptop Pro,Electronics,3,667.16,0.0,2001.48,West
+2024-09-29,Office Desk,Furniture,2,160.64,0.0,321.28,East
+2024-09-29,Running Shoes,Sports,4,64.64,0.0,258.56,South
+2024-09-29,Smartphone X,Electronics,1,890.84,0.0,890.84,East
+2024-09-29,Wireless Headphones,Electronics,1,918.55,0.0,918.55,North
+2024-09-30,Backpack,Accessories,6,34.7,0.15,176.97,East
+2024-09-30,Smartphone X,Electronics,1,922.93,0.15,784.49,East
+2024-10-01,Laptop Pro,Electronics,2,389.83,0.0,779.66,East
+2024-10-01,Running Shoes,Sports,3,85.75,0.0,257.25,Central
+2024-10-01,Running Shoes,Sports,4,143.7,0.1,517.32,South
+2024-10-01,Smartphone X,Electronics,1,969.29,0.0,969.29,East
+2024-10-02,Coffee Maker,Appliances,1,129.31,0.1,116.38,North
+2024-10-02,Smartphone X,Electronics,2,526.33,0.0,1052.66,East
+2024-10-02,Wireless Headphones,Electronics,1,915.09,0.05,869.34,South
+2024-10-03,Blender,Appliances,3,88.32,0.1,238.46,Central
+2024-10-03,Office Desk,Furniture,1,409.88,0.15,348.4,Central
+2024-10-03,Office Desk,Furniture,1,150.63,0.0,150.63,East
+2024-10-03,Running Shoes,Sports,1,31.9,0.15,27.11,North
+2024-10-03,Yoga Mat,Sports,5,29.0,0.0,145.0,West
+2024-10-04,Laptop Pro,Electronics,2,419.04,0.0,838.08,North
+2024-10-04,Wireless Headphones,Electronics,1,1017.08,0.0,1017.08,South
+2024-10-05,Backpack,Accessories,7,62.68,0.05,416.82,Central
+2024-10-05,Office Desk,Furniture,2,211.76,0.1,381.17,North
+2024-10-05,Running Shoes,Sports,5,103.06,0.05,489.53,West
+2024-10-06,Coffee Maker,Appliances,1,175.79,0.0,175.79,Central
+2024-10-06,Desk Chair,Furniture,2,476.61,0.0,953.22,North
+2024-10-06,Desk Chair,Furniture,1,238.23,0.0,238.23,North
+2024-10-06,Desk Chair,Furniture,2,453.97,0.15,771.75,South
+2024-10-06,Office Desk,Furniture,2,196.15,0.0,392.3,Central
+2024-10-07,Blender,Appliances,2,148.18,0.1,266.72,West
+2024-10-07,Wireless Headphones,Electronics,2,741.35,0.05,1408.57,Central
+2024-10-07,Wireless Headphones,Electronics,1,1251.79,0.0,1251.79,South
+2024-10-08,Laptop Pro,Electronics,2,429.51,0.0,859.02,West
+2024-10-08,Running Shoes,Sports,1,36.32,0.1,32.69,East
+2024-10-08,Wireless Headphones,Electronics,2,727.22,0.05,1381.72,Central
+2024-10-09,Desk Chair,Furniture,1,334.85,0.0,334.85,North
+2024-10-09,Wireless Headphones,Electronics,1,913.85,0.0,913.85,Central
+2024-10-09,Wireless Headphones,Electronics,3,1228.23,0.1,3316.22,West
+2024-10-10,Blender,Appliances,1,49.41,0.1,44.47,North
+2024-10-10,Coffee Maker,Appliances,1,153.16,0.15,130.19,Central
+2024-10-10,Desk Chair,Furniture,1,230.85,0.0,230.85,South
+2024-10-10,Yoga Mat,Sports,4,124.74,0.05,474.01,South
+2024-10-10,Yoga Mat,Sports,1,80.57,0.0,80.57,West
+2024-10-11,Blender,Appliances,2,148.1,0.0,296.2,South
+2024-10-11,Desk Chair,Furniture,2,164.84,0.0,329.68,South
+2024-10-11,Running Shoes,Sports,4,134.05,0.05,509.39,Central
+2024-10-11,Smartphone X,Electronics,1,691.43,0.05,656.86,South
+2024-10-11,Yoga Mat,Sports,6,110.65,0.0,663.9,Central
+2024-10-12,Backpack,Accessories,8,31.7,0.1,228.24,South
+2024-10-12,Blender,Appliances,5,162.11,0.0,810.55,North
+2024-10-12,Blender,Appliances,1,60.21,0.0,60.21,North
+2024-10-12,Coffee Maker,Appliances,1,173.13,0.0,173.13,East
+2024-10-12,Laptop Pro,Electronics,1,843.19,0.05,801.03,North
+2024-10-13,Desk Chair,Furniture,1,310.71,0.05,295.17,East
+2024-10-13,Running Shoes,Sports,7,125.7,0.0,879.9,South
+2024-10-13,Smartphone X,Electronics,3,318.37,0.0,955.11,North
+2024-10-13,Smartphone X,Electronics,2,559.65,0.0,1119.3,South
+2024-10-13,Yoga Mat,Sports,4,28.5,0.15,96.9,North
+2024-10-14,Smartphone X,Electronics,2,1158.58,0.05,2201.3,East
+2024-10-14,Yoga Mat,Sports,1,137.11,0.0,137.11,West
+2024-10-15,Backpack,Accessories,5,14.7,0.0,73.5,North
+2024-10-15,Laptop Pro,Electronics,3,368.17,0.0,1104.51,North
+2024-10-15,Smartphone X,Electronics,1,371.37,0.1,334.23,North
+2024-10-15,Yoga Mat,Sports,5,32.05,0.05,152.24,North
+2024-10-15,Yoga Mat,Sports,2,39.06,0.0,78.12,Central
+2024-10-16,Backpack,Accessories,1,21.52,0.1,19.37,South
+2024-10-16,Backpack,Accessories,6,41.92,0.15,213.79,South
+2024-10-16,Office Desk,Furniture,1,397.09,0.15,337.53,South
+2024-10-16,Smartphone X,Electronics,1,511.68,0.0,511.68,East
+2024-10-16,Smartphone X,Electronics,2,582.07,0.1,1047.73,East
+2024-10-17,Blender,Appliances,2,75.45,0.0,150.9,Central
+2024-10-17,Desk Chair,Furniture,1,545.38,0.15,463.57,North
+2024-10-18,Blender,Appliances,3,165.4,0.05,471.39,West
+2024-10-18,Blender,Appliances,3,68.05,0.0,204.15,South
+2024-10-18,Laptop Pro,Electronics,2,851.7,0.15,1447.89,West
+2024-10-18,Running Shoes,Sports,3,126.93,0.0,380.79,South
+2024-10-19,Laptop Pro,Electronics,2,1053.24,0.1,1895.83,South
+2024-10-19,Smartphone X,Electronics,2,1217.69,0.0,2435.38,West
+2024-10-20,Blender,Appliances,5,155.25,0.0,776.25,East
+2024-10-20,Coffee Maker,Appliances,5,76.4,0.1,343.8,North
+2024-10-20,Desk Chair,Furniture,2,207.44,0.0,414.88,East
+2024-10-20,Running Shoes,Sports,7,43.81,0.05,291.34,East
+2024-10-20,Yoga Mat,Sports,1,114.1,0.0,114.1,East
+2024-10-21,Blender,Appliances,2,91.0,0.1,163.8,West
+2024-10-21,Desk Chair,Furniture,1,159.55,0.15,135.62,South
+2024-10-21,Office Desk,Furniture,1,311.07,0.1,279.96,Central
+2024-10-21,Wireless Headphones,Electronics,1,734.07,0.0,734.07,South
+2024-10-22,Smartphone X,Electronics,1,1062.04,0.05,1008.94,South
+2024-10-22,Smartphone X,Electronics,2,596.04,0.0,1192.08,West
+2024-10-22,Wireless Headphones,Electronics,3,391.92,0.0,1175.76,East
+2024-10-22,Wireless Headphones,Electronics,1,361.44,0.0,361.44,South
+2024-10-23,Coffee Maker,Appliances,3,152.02,0.0,456.06,West
+2024-10-23,Coffee Maker,Appliances,1,169.35,0.15,143.95,South
+2024-10-23,Desk Chair,Furniture,1,584.93,0.0,584.93,West
+2024-10-23,Desk Chair,Furniture,1,171.25,0.0,171.25,Central
+2024-10-23,Wireless Headphones,Electronics,1,560.77,0.0,560.77,Central
+2024-10-24,Desk Chair,Furniture,1,388.36,0.15,330.11,North
+2024-10-24,Desk Chair,Furniture,1,439.93,0.1,395.94,South
+2024-10-24,Smartphone X,Electronics,1,1176.17,0.05,1117.36,North
+2024-10-24,Smartphone X,Electronics,1,1117.06,0.15,949.5,West
+2024-10-25,Yoga Mat,Sports,1,82.69,0.0,82.69,North
+2024-10-25,Yoga Mat,Sports,5,58.0,0.0,290.0,North
+2024-10-26,Running Shoes,Sports,4,140.8,0.0,563.2,North
+2024-10-26,Wireless Headphones,Electronics,2,911.26,0.05,1731.39,East
+2024-10-26,Yoga Mat,Sports,2,135.2,0.0,270.4,East
+2024-10-27,Backpack,Accessories,4,50.63,0.0,202.52,North
+2024-10-27,Running Shoes,Sports,6,104.86,0.05,597.7,North
+2024-10-27,Wireless Headphones,Electronics,2,556.94,0.1,1002.49,East
+2024-10-27,Yoga Mat,Sports,3,23.21,0.1,62.67,East
+2024-10-28,Blender,Appliances,3,193.54,0.05,551.59,Central
+2024-10-28,Smartphone X,Electronics,1,967.12,0.15,822.05,Central
+2024-10-29,Backpack,Accessories,1,79.37,0.1,71.43,West
+2024-10-29,Wireless Headphones,Electronics,1,1257.18,0.0,1257.18,South
+2024-10-30,Blender,Appliances,2,111.36,0.1,200.45,West
+2024-10-30,Laptop Pro,Electronics,2,598.9,0.15,1018.13,North
+2024-10-30,Laptop Pro,Electronics,2,442.12,0.0,884.24,Central
+2024-10-31,Coffee Maker,Appliances,1,153.14,0.0,153.14,North
+2024-10-31,Office Desk,Furniture,1,250.92,0.05,238.37,West
+2024-10-31,Wireless Headphones,Electronics,1,1242.65,0.1,1118.39,North
+2024-10-31,Wireless Headphones,Electronics,2,1094.53,0.15,1860.7,Central
+2024-11-01,Backpack,Accessories,2,18.2,0.0,36.4,Central
+2024-11-01,Office Desk,Furniture,1,325.45,0.05,309.18,South
+2024-11-02,Running Shoes,Sports,1,31.18,0.1,28.06,East
+2024-11-02,Wireless Headphones,Electronics,2,640.85,0.0,1281.7,East
+2024-11-03,Blender,Appliances,2,126.65,0.0,253.3,West
+2024-11-03,Blender,Appliances,3,122.74,0.05,349.81,Central
+2024-11-03,Smartphone X,Electronics,4,1133.62,0.0,4534.48,North
+2024-11-03,Wireless Headphones,Electronics,2,546.39,0.1,983.5,East
+2024-11-03,Wireless Headphones,Electronics,1,349.71,0.05,332.22,North
+2024-11-04,Backpack,Accessories,3,61.2,0.1,165.24,West
+2024-11-04,Blender,Appliances,2,67.82,0.15,115.29,North
+2024-11-04,Coffee Maker,Appliances,4,39.54,0.0,158.16,North
+2024-11-04,Running Shoes,Sports,1,108.62,0.05,103.19,East
+2024-11-04,Running Shoes,Sports,5,72.94,0.0,364.7,Central
+2024-11-05,Coffee Maker,Appliances,4,136.21,0.0,544.84,Central
+2024-11-05,Yoga Mat,Sports,7,34.36,0.15,204.44,South
+2024-11-06,Coffee Maker,Appliances,1,161.86,0.05,153.77,Central
+2024-11-06,Wireless Headphones,Electronics,2,1042.3,0.0,2084.6,Central
+2024-11-07,Coffee Maker,Appliances,1,100.3,0.05,95.28,East
+2024-11-07,Wireless Headphones,Electronics,2,1164.11,0.0,2328.22,Central
+2024-11-07,Yoga Mat,Sports,4,91.3,0.0,365.2,West
+2024-11-08,Laptop Pro,Electronics,2,311.94,0.1,561.49,East
+2024-11-08,Yoga Mat,Sports,1,104.53,0.05,99.3,East
+2024-11-09,Coffee Maker,Appliances,3,190.0,0.0,570.0,North
+2024-11-09,Office Desk,Furniture,2,406.95,0.0,813.9,North
+2024-11-09,Smartphone X,Electronics,3,663.68,0.05,1891.49,East
+2024-11-10,Blender,Appliances,5,74.01,0.0,370.05,South
+2024-11-10,Desk Chair,Furniture,1,385.43,0.05,366.16,West
+2024-11-11,Desk Chair,Furniture,1,400.05,0.1,360.05,West
+2024-11-11,Office Desk,Furniture,1,181.17,0.0,181.17,Central
+2024-11-11,Wireless Headphones,Electronics,3,1147.12,0.1,3097.22,East
+2024-11-11,Yoga Mat,Sports,2,140.24,0.1,252.43,South
+2024-11-12,Laptop Pro,Electronics,1,789.61,0.15,671.17,North
+2024-11-12,Wireless Headphones,Electronics,1,614.59,0.15,522.4,Central
+2024-11-13,Backpack,Accessories,5,54.26,0.0,271.3,North
+2024-11-13,Backpack,Accessories,1,47.63,0.0,47.63,West
+2024-11-13,Office Desk,Furniture,1,262.81,0.1,236.53,East
+2024-11-13,Office Desk,Furniture,1,524.17,0.05,497.96,East
+2024-11-13,Yoga Mat,Sports,1,39.5,0.0,39.5,North
+2024-11-14,Backpack,Accessories,3,25.02,0.0,75.06,West
+2024-11-14,Desk Chair,Furniture,1,204.99,0.05,194.74,West
+2024-11-14,Laptop Pro,Electronics,3,650.95,0.05,1855.21,South
+2024-11-14,Yoga Mat,Sports,1,69.91,0.1,62.92,West
+2024-11-14,Yoga Mat,Sports,3,80.55,0.05,229.57,West
+2024-11-15,Laptop Pro,Electronics,1,466.32,0.1,419.69,North
+2024-11-15,Running Shoes,Sports,4,25.63,0.0,102.52,East
+2024-11-15,Yoga Mat,Sports,6,57.1,0.15,291.21,East
+2024-11-16,Blender,Appliances,2,49.98,0.1,89.96,West
+2024-11-16,Blender,Appliances,4,76.92,0.0,307.68,North
+2024-11-17,Desk Chair,Furniture,2,260.16,0.15,442.27,West
+2024-11-17,Laptop Pro,Electronics,3,845.96,0.0,2537.88,South
+2024-11-17,Running Shoes,Sports,3,123.79,0.05,352.8,West
+2024-11-18,Blender,Appliances,2,172.3,0.0,344.6,West
+2024-11-18,Coffee Maker,Appliances,2,155.3,0.15,264.01,East
+2024-11-18,Office Desk,Furniture,1,258.61,0.1,232.75,North
+2024-11-18,Smartphone X,Electronics,1,522.18,0.0,522.18,South
+2024-11-18,Smartphone X,Electronics,2,636.46,0.0,1272.92,West
+2024-11-19,Blender,Appliances,3,60.37,0.1,163.0,South
+2024-11-19,Coffee Maker,Appliances,3,151.02,0.0,453.06,Central
+2024-11-19,Desk Chair,Furniture,2,593.4,0.1,1068.12,Central
+2024-11-19,Running Shoes,Sports,6,40.74,0.0,244.44,East
+2024-11-19,Smartphone X,Electronics,2,932.3,0.0,1864.6,West
+2024-11-20,Backpack,Accessories,4,17.28,0.05,65.66,Central
+2024-11-20,Desk Chair,Furniture,2,288.36,0.0,576.72,East
+2024-11-20,Office Desk,Furniture,2,460.96,0.0,921.92,South
+2024-11-20,Office Desk,Furniture,2,198.27,0.05,376.71,North
+2024-11-20,Smartphone X,Electronics,2,1247.92,0.0,2495.84,Central
+2024-11-21,Coffee Maker,Appliances,5,67.31,0.1,302.9,Central
+2024-11-21,Coffee Maker,Appliances,3,38.76,0.15,98.84,East
+2024-11-21,Desk Chair,Furniture,2,574.74,0.0,1149.48,West
+2024-11-21,Running Shoes,Sports,4,26.44,0.0,105.76,West
+2024-11-22,Coffee Maker,Appliances,3,38.82,0.15,98.99,South
+2024-11-22,Office Desk,Furniture,1,353.97,0.0,353.97,West
+2024-11-22,Wireless Headphones,Electronics,2,842.7,0.15,1432.59,West
+2024-11-23,Backpack,Accessories,9,74.39,0.0,669.51,North
+2024-11-23,Coffee Maker,Appliances,4,62.21,0.1,223.96,Central
+2024-11-23,Laptop Pro,Electronics,1,337.26,0.1,303.53,Central
+2024-11-23,Smartphone X,Electronics,3,989.19,0.05,2819.19,East
+2024-11-24,Coffee Maker,Appliances,1,176.58,0.15,150.09,South
+2024-11-24,Office Desk,Furniture,1,449.84,0.15,382.36,West
+2024-11-24,Running Shoes,Sports,1,74.13,0.0,74.13,North
+2024-11-25,Desk Chair,Furniture,1,242.44,0.0,242.44,North
+2024-11-25,Laptop Pro,Electronics,1,465.75,0.0,465.75,East
+2024-11-26,Backpack,Accessories,3,44.83,0.1,121.04,North
+2024-11-26,Running Shoes,Sports,6,127.34,0.15,649.43,South
+2024-11-26,Wireless Headphones,Electronics,3,731.64,0.0,2194.92,Central
+2024-11-26,Yoga Mat,Sports,1,134.22,0.15,114.09,West
+2024-11-27,Blender,Appliances,3,135.1,0.1,364.77,North
+2024-11-27,Yoga Mat,Sports,3,39.88,0.0,119.64,North
+2024-11-28,Laptop Pro,Electronics,1,339.42,0.0,339.42,North
+2024-11-28,Laptop Pro,Electronics,1,886.16,0.0,886.16,Central
+2024-11-28,Office Desk,Furniture,1,615.26,0.0,615.26,South
+2024-11-28,Smartphone X,Electronics,2,527.53,0.15,896.8,South
+2024-11-28,Yoga Mat,Sports,4,149.45,0.0,597.8,Central
+2024-11-29,Wireless Headphones,Electronics,3,416.55,0.0,1249.65,North
+2024-11-29,Wireless Headphones,Electronics,3,1305.71,0.0,3917.13,West
+2024-11-29,Wireless Headphones,Electronics,3,376.62,0.05,1073.37,West
+2024-11-30,Blender,Appliances,2,41.37,0.05,78.6,Central
+2024-11-30,Laptop Pro,Electronics,2,434.34,0.0,868.68,North
+2024-11-30,Smartphone X,Electronics,1,359.8,0.0,359.8,North
+2024-11-30,Wireless Headphones,Electronics,1,1148.82,0.0,1148.82,East
+2024-12-01,Desk Chair,Furniture,1,164.89,0.0,164.89,Central
+2024-12-01,Running Shoes,Sports,1,105.81,0.0,105.81,Central
+2024-12-01,Running Shoes,Sports,3,110.65,0.1,298.76,South
+2024-12-01,Running Shoes,Sports,2,115.05,0.1,207.09,East
+2024-12-01,Smartphone X,Electronics,3,457.45,0.15,1166.5,South
+2024-12-02,Desk Chair,Furniture,2,445.33,0.0,890.66,North
+2024-12-02,Smartphone X,Electronics,2,1176.65,0.0,2353.3,West
+2024-12-02,Wireless Headphones,Electronics,1,997.6,0.05,947.72,East
+2024-12-03,Laptop Pro,Electronics,2,843.06,0.05,1601.81,North
+2024-12-03,Laptop Pro,Electronics,1,321.18,0.05,305.12,South
+2024-12-03,Wireless Headphones,Electronics,1,825.89,0.15,702.01,West
+2024-12-04,Backpack,Accessories,7,41.89,0.0,293.23,South
+2024-12-04,Office Desk,Furniture,1,399.27,0.1,359.34,Central
+2024-12-04,Office Desk,Furniture,1,472.92,0.0,472.92,South
+2024-12-04,Running Shoes,Sports,4,70.17,0.1,252.61,East
+2024-12-05,Desk Chair,Furniture,2,335.28,0.0,670.56,North
+2024-12-05,Running Shoes,Sports,6,21.2,0.0,127.2,Central
+2024-12-05,Running Shoes,Sports,5,144.88,0.0,724.4,West
+2024-12-05,Yoga Mat,Sports,6,36.65,0.0,219.9,East
+2024-12-06,Blender,Appliances,1,178.68,0.1,160.81,East
+2024-12-06,Wireless Headphones,Electronics,4,1263.42,0.0,5053.68,West
+2024-12-07,Coffee Maker,Appliances,5,111.78,0.15,475.06,East
+2024-12-07,Coffee Maker,Appliances,1,39.37,0.15,33.46,West
+2024-12-07,Desk Chair,Furniture,2,354.16,0.0,708.32,West
+2024-12-07,Laptop Pro,Electronics,2,1237.84,0.05,2351.9,Central
+2024-12-08,Backpack,Accessories,2,58.53,0.15,99.5,East
+2024-12-08,Blender,Appliances,3,90.81,0.0,272.43,West
+2024-12-08,Wireless Headphones,Electronics,2,674.96,0.0,1349.92,East
+2024-12-08,Yoga Mat,Sports,3,41.94,0.0,125.82,West
+2024-12-09,Backpack,Accessories,9,49.88,0.05,426.47,West
+2024-12-09,Blender,Appliances,4,82.75,0.0,331.0,East
+2024-12-09,Laptop Pro,Electronics,1,306.29,0.05,290.98,East
+2024-12-09,Smartphone X,Electronics,1,706.75,0.1,636.08,East
+2024-12-09,Wireless Headphones,Electronics,2,869.47,0.1,1565.05,North
+2024-12-10,Coffee Maker,Appliances,3,169.57,0.0,508.71,Central
+2024-12-10,Desk Chair,Furniture,1,168.93,0.0,168.93,West
+2024-12-10,Laptop Pro,Electronics,1,390.76,0.1,351.68,Central
+2024-12-11,Laptop Pro,Electronics,3,1172.82,0.05,3342.54,Central
+2024-12-11,Smartphone X,Electronics,1,1214.52,0.1,1093.07,West
+2024-12-12,Backpack,Accessories,5,64.46,0.15,273.95,East
+2024-12-12,Backpack,Accessories,9,40.6,0.05,347.13,West
+2024-12-12,Desk Chair,Furniture,1,374.27,0.15,318.13,North
+2024-12-12,Smartphone X,Electronics,2,1257.61,0.1,2263.7,Central
+2024-12-13,Laptop Pro,Electronics,1,1112.04,0.15,945.23,West
+2024-12-13,Office Desk,Furniture,1,176.09,0.1,158.48,East
+2024-12-13,Smartphone X,Electronics,3,362.92,0.0,1088.76,North
+2024-12-13,Wireless Headphones,Electronics,3,1311.76,0.15,3344.99,North
+2024-12-14,Coffee Maker,Appliances,3,182.61,0.0,547.83,East
+2024-12-14,Smartphone X,Electronics,1,1072.57,0.15,911.68,North
+2024-12-14,Yoga Mat,Sports,5,58.62,0.15,249.13,East
+2024-12-15,Backpack,Accessories,5,63.15,0.0,315.75,East
+2024-12-15,Backpack,Accessories,4,67.88,0.15,230.79,East
+2024-12-16,Blender,Appliances,1,153.45,0.15,130.43,East
+2024-12-16,Laptop Pro,Electronics,1,1028.91,0.0,1028.91,Central
+2024-12-16,Office Desk,Furniture,1,510.76,0.0,510.76,South
+2024-12-16,Office Desk,Furniture,2,294.52,0.1,530.14,East
+2024-12-17,Blender,Appliances,2,181.99,0.0,363.98,North
+2024-12-17,Blender,Appliances,2,62.48,0.0,124.96,East
+2024-12-17,Running Shoes,Sports,3,137.88,0.15,351.59,East
+2024-12-17,Wireless Headphones,Electronics,1,582.4,0.0,582.4,West
+2024-12-17,Wireless Headphones,Electronics,2,1089.53,0.0,2179.06,West
+2024-12-18,Backpack,Accessories,2,32.7,0.15,55.59,Central
+2024-12-18,Blender,Appliances,2,43.92,0.0,87.84,West
+2024-12-18,Office Desk,Furniture,2,202.89,0.0,405.78,South
+2024-12-18,Yoga Mat,Sports,5,137.12,0.05,651.32,Central
+2024-12-19,Backpack,Accessories,7,16.7,0.05,111.05,East
+2024-12-19,Wireless Headphones,Electronics,1,825.56,0.15,701.73,South
+2024-12-20,Coffee Maker,Appliances,1,113.89,0.05,108.2,East
+2024-12-20,Yoga Mat,Sports,4,88.79,0.05,337.4,East
+2024-12-21,Coffee Maker,Appliances,4,168.17,0.0,672.68,South
+2024-12-21,Laptop Pro,Electronics,1,986.95,0.15,838.91,East
+2024-12-21,Running Shoes,Sports,7,123.38,0.05,820.48,North
+2024-12-22,Desk Chair,Furniture,3,273.96,0.05,780.79,North
+2024-12-22,Laptop Pro,Electronics,3,634.16,0.1,1712.23,West
+2024-12-22,Smartphone X,Electronics,3,558.84,0.0,1676.52,Central
+2024-12-22,Smartphone X,Electronics,2,498.61,0.15,847.64,Central
+2024-12-22,Yoga Mat,Sports,2,32.15,0.05,61.08,Central
+2024-12-23,Backpack,Accessories,6,26.67,0.0,160.02,Central
+2024-12-23,Backpack,Accessories,7,10.51,0.15,62.53,North
+2024-12-23,Smartphone X,Electronics,2,786.05,0.0,1572.1,Central
+2024-12-23,Yoga Mat,Sports,3,136.05,0.0,408.15,South
+2024-12-24,Blender,Appliances,2,109.49,0.0,218.98,North
+2024-12-24,Smartphone X,Electronics,3,939.45,0.0,2818.35,North
+2024-12-25,Backpack,Accessories,2,37.46,0.0,74.92,Central
+2024-12-25,Coffee Maker,Appliances,3,191.31,0.0,573.93,North
+2024-12-25,Coffee Maker,Appliances,4,79.91,0.0,319.64,West
+2024-12-25,Desk Chair,Furniture,1,464.86,0.15,395.13,North
+2024-12-25,Smartphone X,Electronics,3,1046.93,0.1,2826.71,South
+2024-12-26,Laptop Pro,Electronics,2,367.75,0.15,625.17,West
+2024-12-26,Wireless Headphones,Electronics,1,974.1,0.1,876.69,West
+2024-12-27,Smartphone X,Electronics,2,545.82,0.0,1091.64,Central
+2024-12-27,Smartphone X,Electronics,2,802.97,0.0,1605.94,West
+2024-12-27,Wireless Headphones,Electronics,1,437.35,0.0,437.35,West
+2024-12-27,Yoga Mat,Sports,4,23.01,0.0,92.04,South
+2024-12-28,Backpack,Accessories,5,42.77,0.15,181.77,West
+2024-12-28,Desk Chair,Furniture,1,207.55,0.05,197.17,East
+2024-12-28,Laptop Pro,Electronics,1,1015.59,0.0,1015.59,North
+2024-12-28,Office Desk,Furniture,2,451.46,0.1,812.63,Central
+2024-12-28,Smartphone X,Electronics,3,831.51,0.0,2494.53,East
+2024-12-29,Desk Chair,Furniture,3,616.53,0.0,1849.59,East
+2024-12-29,Laptop Pro,Electronics,3,1355.54,0.05,3863.29,West
+2024-12-29,Office Desk,Furniture,2,207.25,0.1,373.05,West
+2024-12-29,Office Desk,Furniture,1,237.68,0.0,237.68,South
+2024-12-29,Running Shoes,Sports,3,80.57,0.05,229.62,Central
+2024-12-30,Backpack,Accessories,3,49.25,0.05,140.36,North
+2024-12-30,Blender,Appliances,4,56.91,0.0,227.64,North
+2024-12-30,Desk Chair,Furniture,2,506.46,0.0,1012.92,Central
+2024-12-30,Desk Chair,Furniture,2,190.1,0.05,361.19,Central
+2024-12-30,Office Desk,Furniture,2,579.21,0.1,1042.58,West
+2024-12-31,Backpack,Accessories,8,15.32,0.05,116.43,Central
+2024-12-31,Blender,Appliances,2,67.57,0.0,135.14,East
+2024-12-31,Office Desk,Furniture,2,297.49,0.1,535.48,North
+2024-12-31,Wireless Headphones,Electronics,2,723.8,0.0,1447.6,South
+2025-01-01,Blender,Appliances,4,125.62,0.0,502.48,Central
+2025-01-01,Desk Chair,Furniture,1,279.88,0.0,279.88,South
+2025-01-01,Desk Chair,Furniture,1,284.05,0.0,284.05,East
+2025-01-01,Laptop Pro,Electronics,2,500.91,0.1,901.64,North
+2025-01-01,Yoga Mat,Sports,3,103.78,0.0,311.34,Central
+2025-01-02,Laptop Pro,Electronics,1,746.67,0.05,709.34,West
+2025-01-02,Office Desk,Furniture,1,478.69,0.0,478.69,North
+2025-01-02,Office Desk,Furniture,2,452.71,0.0,905.42,Central
+2025-01-02,Office Desk,Furniture,2,191.35,0.0,382.7,Central
+2025-01-02,Smartphone X,Electronics,3,1219.66,0.0,3658.98,East
+2025-01-03,Blender,Appliances,1,120.09,0.0,120.09,North
+2025-01-03,Laptop Pro,Electronics,3,1107.98,0.0,3323.94,South
+2025-01-04,Backpack,Accessories,7,70.25,0.0,491.75,East
+2025-01-04,Backpack,Accessories,11,66.05,0.1,653.89,East
+2025-01-04,Laptop Pro,Electronics,4,1176.46,0.0,4705.84,North
+2025-01-04,Office Desk,Furniture,2,328.44,0.1,591.19,East
+2025-01-05,Blender,Appliances,4,92.35,0.0,369.4,Central
+2025-01-05,Desk Chair,Furniture,2,438.44,0.0,876.88,East
+2025-01-05,Office Desk,Furniture,2,557.63,0.05,1059.5,Central
+2025-01-06,Backpack,Accessories,6,68.85,0.15,351.13,Central
+2025-01-06,Office Desk,Furniture,1,320.51,0.0,320.51,North
+2025-01-06,Running Shoes,Sports,2,77.7,0.0,155.4,West
+2025-01-06,Wireless Headphones,Electronics,1,320.58,0.0,320.58,Central
+2025-01-07,Backpack,Accessories,1,31.79,0.1,28.61,East
+2025-01-07,Desk Chair,Furniture,2,513.0,0.0,1026.0,Central
+2025-01-08,Coffee Maker,Appliances,1,38.08,0.15,32.37,East
+2025-01-08,Smartphone X,Electronics,3,883.12,0.0,2649.36,South
+2025-01-09,Coffee Maker,Appliances,1,123.89,0.15,105.31,Central
+2025-01-09,Laptop Pro,Electronics,2,1170.56,0.0,2341.12,South
+2025-01-09,Laptop Pro,Electronics,3,1200.65,0.05,3421.85,West
+2025-01-09,Office Desk,Furniture,1,336.46,0.05,319.64,South
+2025-01-09,Smartphone X,Electronics,1,702.28,0.0,702.28,South
+2025-01-10,Office Desk,Furniture,1,539.86,0.1,485.87,West
+2025-01-10,Office Desk,Furniture,2,174.14,0.1,313.45,Central
+2025-01-10,Wireless Headphones,Electronics,3,1093.27,0.0,3279.81,North
+2025-01-11,Blender,Appliances,1,141.82,0.05,134.73,East
+2025-01-11,Coffee Maker,Appliances,4,51.88,0.15,176.39,East
+2025-01-12,Coffee Maker,Appliances,3,197.34,0.0,592.02,West
+2025-01-12,Desk Chair,Furniture,1,465.14,0.05,441.88,Central
+2025-01-12,Desk Chair,Furniture,2,499.89,0.05,949.79,North
+2025-01-13,Coffee Maker,Appliances,1,109.11,0.15,92.74,West
+2025-01-13,Office Desk,Furniture,1,194.67,0.0,194.67,South
+2025-01-13,Smartphone X,Electronics,1,587.6,0.0,587.6,East
+2025-01-14,Blender,Appliances,1,33.96,0.0,33.96,West
+2025-01-14,Desk Chair,Furniture,1,259.83,0.0,259.83,West
+2025-01-14,Office Desk,Furniture,2,402.18,0.05,764.14,East
+2025-01-15,Coffee Maker,Appliances,1,43.95,0.05,41.75,East
+2025-01-15,Laptop Pro,Electronics,2,539.56,0.0,1079.12,South
+2025-01-16,Backpack,Accessories,6,77.95,0.05,444.31,West
+2025-01-16,Desk Chair,Furniture,2,158.5,0.0,317.0,West
+2025-01-16,Office Desk,Furniture,1,523.43,0.0,523.43,Central
+2025-01-16,Wireless Headphones,Electronics,3,402.01,0.0,1206.03,East
+2025-01-17,Office Desk,Furniture,1,215.69,0.1,194.12,West
+2025-01-17,Running Shoes,Sports,6,21.74,0.15,110.87,East
+2025-01-17,Running Shoes,Sports,1,30.12,0.0,30.12,North
+2025-01-18,Wireless Headphones,Electronics,1,818.62,0.05,777.69,North
+2025-01-18,Wireless Headphones,Electronics,1,657.88,0.0,657.88,North
+2025-01-18,Wireless Headphones,Electronics,3,1193.28,0.1,3221.86,West
+2025-01-18,Yoga Mat,Sports,7,116.41,0.1,733.38,North
+2025-01-19,Desk Chair,Furniture,1,352.32,0.0,352.32,West
+2025-01-19,Wireless Headphones,Electronics,3,1152.37,0.05,3284.25,South
+2025-01-20,Running Shoes,Sports,5,111.97,0.0,559.85,South
+2025-01-20,Smartphone X,Electronics,2,589.95,0.1,1061.91,North
+2025-01-20,Wireless Headphones,Electronics,2,621.88,0.1,1119.38,West
+2025-01-21,Blender,Appliances,1,34.81,0.15,29.59,South
+2025-01-21,Office Desk,Furniture,1,520.52,0.0,520.52,East
+2025-01-22,Backpack,Accessories,6,27.41,0.0,164.46,West
+2025-01-22,Running Shoes,Sports,2,50.32,0.15,85.54,West
+2025-01-23,Office Desk,Furniture,2,480.4,0.05,912.76,Central
+2025-01-23,Yoga Mat,Sports,7,62.78,0.05,417.49,Central
+2025-01-24,Backpack,Accessories,3,27.36,0.0,82.08,West
+2025-01-24,Backpack,Accessories,3,16.3,0.05,46.46,South
+2025-01-24,Coffee Maker,Appliances,4,91.53,0.0,366.12,South
+2025-01-24,Desk Chair,Furniture,1,541.75,0.0,541.75,East
+2025-01-24,Smartphone X,Electronics,2,1046.63,0.15,1779.27,Central
+2025-01-25,Backpack,Accessories,10,48.53,0.0,485.3,North
+2025-01-25,Running Shoes,Sports,2,89.91,0.05,170.83,North
+2025-01-26,Office Desk,Furniture,1,208.46,0.0,208.46,South
+2025-01-26,Office Desk,Furniture,2,418.34,0.0,836.68,West
+2025-01-26,Running Shoes,Sports,6,83.53,0.05,476.12,East
+2025-01-26,Smartphone X,Electronics,2,667.73,0.15,1135.14,East
+2025-01-27,Backpack,Accessories,4,60.23,0.1,216.83,West
+2025-01-27,Yoga Mat,Sports,4,66.87,0.0,267.48,West
+2025-01-28,Backpack,Accessories,5,36.26,0.0,181.3,West
+2025-01-28,Laptop Pro,Electronics,3,642.1,0.15,1637.36,North
+2025-01-29,Laptop Pro,Electronics,2,1014.63,0.0,2029.26,Central
+2025-01-29,Running Shoes,Sports,7,118.69,0.0,830.83,North
+2025-01-29,Yoga Mat,Sports,1,74.62,0.0,74.62,South
+2025-01-30,Running Shoes,Sports,1,134.67,0.0,134.67,West
+2025-01-30,Wireless Headphones,Electronics,1,916.85,0.05,871.01,East
+2025-01-30,Yoga Mat,Sports,5,125.93,0.0,629.65,North
+2025-01-31,Backpack,Accessories,8,53.35,0.0,426.8,West
+2025-01-31,Office Desk,Furniture,1,342.19,0.05,325.08,Central
+2025-01-31,Smartphone X,Electronics,2,843.02,0.05,1601.74,Central
+2025-02-01,Coffee Maker,Appliances,3,201.04,0.0,603.12,West
+2025-02-01,Running Shoes,Sports,3,115.54,0.1,311.96,North
+2025-02-01,Running Shoes,Sports,1,111.01,0.05,105.46,Central
+2025-02-02,Office Desk,Furniture,2,503.13,0.0,1006.26,South
+2025-02-02,Running Shoes,Sports,3,38.41,0.05,109.47,Central
+2025-02-02,Running Shoes,Sports,8,44.07,0.1,317.3,North
+2025-02-02,Running Shoes,Sports,5,65.4,0.05,310.65,West
+2025-02-02,Yoga Mat,Sports,5,60.31,0.1,271.4,North
+2025-02-03,Laptop Pro,Electronics,1,947.84,0.15,805.66,Central
+2025-02-03,Office Desk,Furniture,1,410.9,0.0,410.9,West
+2025-02-03,Smartphone X,Electronics,1,1156.0,0.0,1156.0,East
+2025-02-03,Yoga Mat,Sports,2,148.43,0.1,267.17,East
+2025-02-04,Blender,Appliances,4,172.53,0.15,586.6,East
+2025-02-04,Coffee Maker,Appliances,1,31.86,0.0,31.86,East
+2025-02-04,Office Desk,Furniture,1,416.49,0.15,354.02,North
+2025-02-04,Running Shoes,Sports,2,77.76,0.15,132.19,North
+2025-02-04,Wireless Headphones,Electronics,1,553.19,0.0,553.19,East
+2025-02-05,Coffee Maker,Appliances,3,53.81,0.15,137.22,East
+2025-02-05,Smartphone X,Electronics,1,1217.82,0.0,1217.82,East
+2025-02-05,Wireless Headphones,Electronics,2,690.27,0.15,1173.46,East
+2025-02-06,Backpack,Accessories,6,31.47,0.05,179.38,West
+2025-02-06,Desk Chair,Furniture,2,333.64,0.0,667.28,East
+2025-02-06,Office Desk,Furniture,1,192.52,0.0,192.52,Central
+2025-02-06,Office Desk,Furniture,1,583.56,0.15,496.03,North
+2025-02-07,Office Desk,Furniture,1,575.14,0.1,517.63,West
+2025-02-07,Running Shoes,Sports,5,136.73,0.0,683.65,West
+2025-02-07,Wireless Headphones,Electronics,2,579.51,0.15,985.17,South
+2025-02-07,Yoga Mat,Sports,1,34.71,0.0,34.71,East
+2025-02-07,Yoga Mat,Sports,3,105.52,0.0,316.56,North
+2025-02-08,Running Shoes,Sports,5,57.46,0.0,287.3,Central
+2025-02-08,Wireless Headphones,Electronics,2,1136.5,0.05,2159.35,East
+2025-02-09,Blender,Appliances,2,193.57,0.0,387.14,East
+2025-02-09,Desk Chair,Furniture,2,186.83,0.0,373.66,Central
+2025-02-09,Laptop Pro,Electronics,1,359.69,0.0,359.69,South
+2025-02-09,Smartphone X,Electronics,3,931.5,0.05,2654.78,Central
+2025-02-09,Yoga Mat,Sports,6,51.73,0.15,263.82,West
+2025-02-10,Office Desk,Furniture,1,178.62,0.05,169.69,North
+2025-02-10,Wireless Headphones,Electronics,2,816.36,0.0,1632.72,Central
+2025-02-11,Coffee Maker,Appliances,4,171.94,0.1,618.98,East
+2025-02-11,Desk Chair,Furniture,1,569.64,0.0,569.64,North
+2025-02-11,Laptop Pro,Electronics,2,1256.56,0.05,2387.46,Central
+2025-02-11,Wireless Headphones,Electronics,1,1248.46,0.0,1248.46,East
+2025-02-11,Yoga Mat,Sports,4,103.19,0.0,412.76,South
+2025-02-12,Backpack,Accessories,4,77.27,0.0,309.08,North
+2025-02-12,Laptop Pro,Electronics,2,1211.12,0.0,2422.24,East
+2025-02-12,Smartphone X,Electronics,3,631.59,0.0,1894.77,Central
+2025-02-12,Yoga Mat,Sports,5,44.86,0.0,224.3,South
+2025-02-13,Backpack,Accessories,5,36.95,0.1,166.28,East
+2025-02-13,Desk Chair,Furniture,1,235.74,0.05,223.95,Central
+2025-02-14,Backpack,Accessories,9,10.26,0.15,78.49,Central
+2025-02-14,Desk Chair,Furniture,2,151.23,0.0,302.46,Central
+2025-02-14,Running Shoes,Sports,3,115.0,0.0,345.0,South
+2025-02-14,Smartphone X,Electronics,3,660.88,0.0,1982.64,Central
+2025-02-14,Smartphone X,Electronics,3,582.01,0.05,1658.73,North
+2025-02-15,Backpack,Accessories,2,49.84,0.1,89.71,Central
+2025-02-15,Coffee Maker,Appliances,4,141.0,0.05,535.8,South
+2025-02-15,Office Desk,Furniture,1,240.59,0.15,204.5,East
+2025-02-15,Wireless Headphones,Electronics,2,876.11,0.0,1752.22,East
+2025-02-15,Yoga Mat,Sports,5,40.48,0.1,182.16,South
+2025-02-16,Desk Chair,Furniture,1,173.89,0.0,173.89,East
+2025-02-16,Office Desk,Furniture,2,408.33,0.0,816.66,West
+2025-02-16,Smartphone X,Electronics,3,1091.98,0.0,3275.94,North
+2025-02-17,Backpack,Accessories,7,53.73,0.15,319.69,West
+2025-02-17,Backpack,Accessories,5,23.36,0.0,116.8,West
+2025-02-17,Blender,Appliances,2,98.36,0.0,196.72,South
+2025-02-17,Running Shoes,Sports,5,53.53,0.15,227.5,South
+2025-02-17,Yoga Mat,Sports,6,75.28,0.0,451.68,West
+2025-02-18,Desk Chair,Furniture,1,398.42,0.0,398.42,South
+2025-02-18,Office Desk,Furniture,1,372.53,0.0,372.53,North
+2025-02-18,Running Shoes,Sports,7,103.58,0.0,725.06,North
+2025-02-19,Backpack,Accessories,4,69.64,0.1,250.7,North
+2025-02-19,Office Desk,Furniture,1,152.72,0.0,152.72,East
+2025-02-19,Yoga Mat,Sports,1,147.35,0.15,125.25,West
+2025-02-19,Yoga Mat,Sports,2,130.02,0.0,260.04,Central
+2025-02-20,Blender,Appliances,4,168.76,0.0,675.04,West
+2025-02-20,Desk Chair,Furniture,1,475.52,0.15,404.19,East
+2025-02-20,Smartphone X,Electronics,1,1125.03,0.0,1125.03,West
+2025-02-20,Smartphone X,Electronics,2,653.2,0.15,1110.44,South
+2025-02-21,Desk Chair,Furniture,1,380.35,0.0,380.35,North
+2025-02-21,Laptop Pro,Electronics,3,629.17,0.15,1604.38,Central
+2025-02-21,Running Shoes,Sports,6,24.72,0.1,133.49,West
+2025-02-22,Backpack,Accessories,4,31.19,0.1,112.28,West
+2025-02-22,Blender,Appliances,3,100.06,0.0,300.18,West
+2025-02-22,Desk Chair,Furniture,1,292.87,0.0,292.87,South
+2025-02-23,Backpack,Accessories,2,67.94,0.0,135.88,East
+2025-02-23,Coffee Maker,Appliances,3,95.63,0.05,272.55,West
+2025-02-23,Smartphone X,Electronics,1,753.5,0.0,753.5,West
+2025-02-23,Smartphone X,Electronics,1,1033.93,0.0,1033.93,East
+2025-02-24,Blender,Appliances,2,87.54,0.15,148.82,South
+2025-02-24,Coffee Maker,Appliances,1,167.25,0.0,167.25,South
+2025-02-24,Office Desk,Furniture,1,469.36,0.0,469.36,North
+2025-02-24,Running Shoes,Sports,6,35.51,0.05,202.41,East
+2025-02-24,Wireless Headphones,Electronics,3,816.99,0.15,2083.32,East
+2025-02-25,Blender,Appliances,1,54.64,0.0,54.64,Central
+2025-02-25,Blender,Appliances,1,42.93,0.0,42.93,North
+2025-02-25,Office Desk,Furniture,2,338.13,0.0,676.26,North
+2025-02-25,Smartphone X,Electronics,1,1121.6,0.05,1065.52,Central
+2025-02-25,Yoga Mat,Sports,1,70.21,0.05,66.7,East
+2025-02-26,Smartphone X,Electronics,1,476.68,0.0,476.68,North
+2025-02-26,Smartphone X,Electronics,2,630.7,0.15,1072.19,South
+2025-02-26,Wireless Headphones,Electronics,1,398.71,0.15,338.9,West
+2025-02-27,Coffee Maker,Appliances,1,43.41,0.1,39.07,Central
+2025-02-27,Office Desk,Furniture,1,502.82,0.05,477.68,West
+2025-02-27,Running Shoes,Sports,1,24.62,0.0,24.62,East
+2025-02-27,Yoga Mat,Sports,3,62.4,0.05,177.84,South
+2025-02-27,Yoga Mat,Sports,1,131.24,0.1,118.12,East
+2025-02-28,Office Desk,Furniture,2,547.8,0.15,931.26,South
+2025-02-28,Running Shoes,Sports,3,143.17,0.15,365.08,North
+2025-02-28,Smartphone X,Electronics,2,546.81,0.0,1093.62,East
+2025-03-01,Wireless Headphones,Electronics,3,860.27,0.05,2451.77,West
+2025-03-01,Yoga Mat,Sports,6,47.02,0.05,268.01,North
+2025-03-02,Coffee Maker,Appliances,1,97.85,0.05,92.96,South
+2025-03-02,Coffee Maker,Appliances,4,47.83,0.05,181.75,North
+2025-03-02,Desk Chair,Furniture,1,443.67,0.0,443.67,Central
+2025-03-02,Wireless Headphones,Electronics,1,1216.63,0.0,1216.63,North
+2025-03-02,Yoga Mat,Sports,1,67.59,0.15,57.45,East
+2025-03-03,Coffee Maker,Appliances,3,85.61,0.0,256.83,Central
+2025-03-03,Desk Chair,Furniture,1,192.85,0.0,192.85,South
+2025-03-03,Laptop Pro,Electronics,1,1100.23,0.0,1100.23,North
+2025-03-04,Backpack,Accessories,1,64.12,0.0,64.12,South
+2025-03-04,Coffee Maker,Appliances,1,87.43,0.0,87.43,East
+2025-03-04,Coffee Maker,Appliances,4,70.37,0.15,239.26,Central
+2025-03-04,Yoga Mat,Sports,2,130.66,0.15,222.12,Central
+2025-03-05,Backpack,Accessories,6,46.83,0.15,238.83,West
+2025-03-05,Coffee Maker,Appliances,1,58.7,0.1,52.83,Central
+2025-03-05,Desk Chair,Furniture,1,514.36,0.0,514.36,West
+2025-03-05,Office Desk,Furniture,1,194.29,0.1,174.86,East
+2025-03-06,Blender,Appliances,4,88.51,0.0,354.04,West
+2025-03-06,Yoga Mat,Sports,3,95.07,0.15,242.43,West
+2025-03-07,Backpack,Accessories,6,38.11,0.1,205.79,North
+2025-03-07,Backpack,Accessories,1,55.57,0.1,50.01,North
+2025-03-07,Coffee Maker,Appliances,2,71.22,0.0,142.44,East
+2025-03-07,Desk Chair,Furniture,1,284.96,0.05,270.71,West
+2025-03-07,Running Shoes,Sports,1,68.59,0.1,61.73,Central
+2025-03-08,Backpack,Accessories,9,71.35,0.1,577.93,North
+2025-03-08,Backpack,Accessories,5,57.86,0.0,289.3,East
+2025-03-08,Coffee Maker,Appliances,2,105.21,0.0,210.42,West
+2025-03-08,Desk Chair,Furniture,1,468.04,0.0,468.04,East
+2025-03-08,Office Desk,Furniture,1,289.79,0.05,275.3,South
+2025-03-09,Backpack,Accessories,9,56.65,0.05,484.36,North
+2025-03-09,Coffee Maker,Appliances,2,170.81,0.0,341.62,East
+2025-03-10,Blender,Appliances,2,161.7,0.1,291.06,East
+2025-03-10,Laptop Pro,Electronics,1,836.77,0.0,836.77,East
+2025-03-10,Laptop Pro,Electronics,1,693.2,0.1,623.88,Central
+2025-03-10,Running Shoes,Sports,2,69.94,0.0,139.88,Central
+2025-03-10,Smartphone X,Electronics,1,359.21,0.15,305.33,Central
+2025-03-11,Running Shoes,Sports,2,83.16,0.0,166.32,East
+2025-03-11,Smartphone X,Electronics,1,1236.86,0.1,1113.17,South
+2025-03-11,Yoga Mat,Sports,7,35.06,0.05,233.15,South
+2025-03-12,Coffee Maker,Appliances,4,101.7,0.05,386.46,Central
+2025-03-12,Laptop Pro,Electronics,1,330.37,0.05,313.85,East
+2025-03-12,Running Shoes,Sports,4,128.45,0.0,513.8,Central
+2025-03-12,Smartphone X,Electronics,3,584.33,0.0,1752.99,South
+2025-03-13,Backpack,Accessories,1,30.62,0.0,30.62,West
+2025-03-13,Coffee Maker,Appliances,1,162.55,0.0,162.55,Central
+2025-03-13,Laptop Pro,Electronics,1,991.8,0.15,843.03,South
+2025-03-13,Wireless Headphones,Electronics,2,794.79,0.0,1589.58,South
+2025-03-13,Yoga Mat,Sports,2,62.94,0.0,125.88,West
+2025-03-14,Desk Chair,Furniture,1,231.98,0.05,220.38,South
+2025-03-14,Yoga Mat,Sports,1,129.61,0.0,129.61,North
+2025-03-15,Backpack,Accessories,5,77.3,0.1,347.85,South
+2025-03-15,Backpack,Accessories,8,63.1,0.0,504.8,West
+2025-03-15,Running Shoes,Sports,1,30.96,0.15,26.32,North
+2025-03-15,Smartphone X,Electronics,4,694.52,0.15,2361.37,West
+2025-03-15,Wireless Headphones,Electronics,2,452.15,0.05,859.08,North
+2025-03-16,Blender,Appliances,1,83.06,0.15,70.6,Central
+2025-03-16,Running Shoes,Sports,5,34.47,0.0,172.35,Central
+2025-03-17,Backpack,Accessories,7,69.03,0.0,483.21,North
+2025-03-17,Coffee Maker,Appliances,1,161.92,0.0,161.92,East
+2025-03-17,Office Desk,Furniture,1,334.28,0.0,334.28,East
+2025-03-17,Office Desk,Furniture,2,148.07,0.15,251.72,West
+2025-03-18,Blender,Appliances,3,73.89,0.1,199.5,South
+2025-03-18,Office Desk,Furniture,1,373.16,0.15,317.19,East
+2025-03-18,Running Shoes,Sports,1,52.87,0.05,50.23,South
+2025-03-19,Blender,Appliances,1,196.0,0.15,166.6,East
+2025-03-19,Running Shoes,Sports,1,144.74,0.15,123.03,East
+2025-03-19,Smartphone X,Electronics,2,1243.44,0.0,2486.88,South
+2025-03-20,Blender,Appliances,2,199.14,0.1,358.45,East
+2025-03-20,Coffee Maker,Appliances,2,87.21,0.0,174.42,East
+2025-03-20,Laptop Pro,Electronics,3,453.74,0.1,1225.1,West
+2025-03-20,Office Desk,Furniture,2,568.73,0.1,1023.71,East
+2025-03-20,Running Shoes,Sports,4,142.93,0.0,571.72,South
+2025-03-21,Blender,Appliances,1,56.91,0.15,48.37,West
+2025-03-21,Desk Chair,Furniture,1,578.35,0.1,520.51,West
+2025-03-21,Office Desk,Furniture,2,325.77,0.1,586.39,South
+2025-03-21,Wireless Headphones,Electronics,1,1040.41,0.05,988.39,East
+2025-03-21,Yoga Mat,Sports,6,133.61,0.05,761.58,Central
+2025-03-22,Coffee Maker,Appliances,1,181.57,0.0,181.57,Central
+2025-03-22,Wireless Headphones,Electronics,1,1143.29,0.0,1143.29,North
+2025-03-23,Backpack,Accessories,2,53.15,0.0,106.3,West
+2025-03-23,Desk Chair,Furniture,2,280.38,0.0,560.76,West
+2025-03-23,Office Desk,Furniture,1,525.38,0.0,525.38,Central
+2025-03-23,Running Shoes,Sports,3,137.75,0.0,413.25,North
+2025-03-23,Running Shoes,Sports,3,119.41,0.0,358.23,East
+2025-03-24,Backpack,Accessories,4,74.75,0.05,284.05,South
+2025-03-24,Coffee Maker,Appliances,2,186.73,0.1,336.11,North
+2025-03-24,Smartphone X,Electronics,1,1060.16,0.0,1060.16,South
+2025-03-24,Wireless Headphones,Electronics,2,1265.27,0.0,2530.54,North
+2025-03-24,Wireless Headphones,Electronics,1,816.2,0.05,775.39,South
+2025-03-25,Blender,Appliances,2,79.88,0.1,143.78,East
+2025-03-25,Blender,Appliances,3,95.32,0.15,243.07,North
+2025-03-25,Running Shoes,Sports,1,63.22,0.0,63.22,Central
+2025-03-25,Wireless Headphones,Electronics,2,1147.08,0.0,2294.16,South
+2025-03-26,Blender,Appliances,2,106.81,0.0,213.62,East
+2025-03-26,Blender,Appliances,1,82.35,0.0,82.35,West
+2025-03-26,Coffee Maker,Appliances,4,183.37,0.05,696.81,East
+2025-03-26,Desk Chair,Furniture,1,340.78,0.0,340.78,West
+2025-03-26,Smartphone X,Electronics,1,867.54,0.15,737.41,North
+2025-03-27,Desk Chair,Furniture,1,340.21,0.1,306.19,West
+2025-03-27,Laptop Pro,Electronics,1,888.01,0.0,888.01,West
+2025-03-27,Wireless Headphones,Electronics,1,637.02,0.0,637.02,East
+2025-03-28,Desk Chair,Furniture,1,438.33,0.1,394.5,East
+2025-03-28,Desk Chair,Furniture,1,596.64,0.1,536.98,North
+2025-03-28,Laptop Pro,Electronics,2,1002.46,0.0,2004.92,South
+2025-03-28,Running Shoes,Sports,5,28.85,0.0,144.25,North
+2025-03-28,Wireless Headphones,Electronics,1,961.4,0.0,961.4,South
+2025-03-29,Blender,Appliances,1,187.07,0.0,187.07,West
+2025-03-29,Desk Chair,Furniture,2,278.79,0.0,557.58,East
+2025-03-29,Desk Chair,Furniture,2,579.19,0.1,1042.54,Central
+2025-03-29,Running Shoes,Sports,3,128.11,0.0,384.33,Central
+2025-03-30,Coffee Maker,Appliances,1,177.88,0.0,177.88,Central
+2025-03-30,Desk Chair,Furniture,2,183.3,0.0,366.6,South
+2025-03-30,Running Shoes,Sports,1,119.3,0.15,101.41,Central
+2025-03-30,Smartphone X,Electronics,2,356.58,0.1,641.84,North
+2025-03-31,Backpack,Accessories,4,71.21,0.1,256.36,South
+2025-03-31,Running Shoes,Sports,2,137.17,0.0,274.34,South
+2025-03-31,Smartphone X,Electronics,3,1085.24,0.0,3255.72,North
+2025-04-01,Backpack,Accessories,1,13.08,0.15,11.12,West
+2025-04-01,Coffee Maker,Appliances,2,145.1,0.15,246.67,South
+2025-04-01,Laptop Pro,Electronics,1,725.43,0.0,725.43,North
+2025-04-01,Office Desk,Furniture,1,590.1,0.1,531.09,Central
+2025-04-01,Yoga Mat,Sports,3,142.29,0.1,384.18,North
+2025-04-02,Backpack,Accessories,7,48.6,0.05,323.19,East
+2025-04-02,Running Shoes,Sports,2,33.73,0.0,67.46,East
+2025-04-02,Yoga Mat,Sports,2,63.18,0.1,113.72,South
+2025-04-03,Running Shoes,Sports,2,68.73,0.0,137.46,East
+2025-04-03,Running Shoes,Sports,6,147.5,0.15,752.25,East
+2025-04-03,Smartphone X,Electronics,3,1179.71,0.1,3185.22,West
+2025-04-03,Yoga Mat,Sports,1,112.35,0.15,95.5,South
+2025-04-04,Desk Chair,Furniture,2,520.84,0.0,1041.68,South
+2025-04-04,Laptop Pro,Electronics,2,1080.21,0.0,2160.42,Central
+2025-04-04,Office Desk,Furniture,1,262.15,0.05,249.04,North
+2025-04-04,Smartphone X,Electronics,1,1148.43,0.1,1033.59,West
+2025-04-04,Yoga Mat,Sports,1,80.91,0.15,68.77,East
+2025-04-05,Desk Chair,Furniture,2,164.78,0.05,313.08,East
+2025-04-05,Smartphone X,Electronics,3,654.13,0.0,1962.39,North
+2025-04-05,Wireless Headphones,Electronics,3,649.04,0.0,1947.12,South
+2025-04-06,Blender,Appliances,4,62.0,0.1,223.2,East
+2025-04-06,Running Shoes,Sports,1,34.21,0.0,34.21,West
+2025-04-07,Backpack,Accessories,2,32.44,0.0,64.88,North
+2025-04-07,Coffee Maker,Appliances,3,189.99,0.15,484.47,North
+2025-04-07,Running Shoes,Sports,3,131.86,0.1,356.02,North
+2025-04-07,Wireless Headphones,Electronics,2,1079.98,0.1,1943.96,North
+2025-04-08,Laptop Pro,Electronics,2,767.69,0.0,1535.38,South
+2025-04-08,Laptop Pro,Electronics,2,466.03,0.1,838.85,West
+2025-04-08,Running Shoes,Sports,3,41.1,0.15,104.81,West
+2025-04-09,Blender,Appliances,4,203.67,0.0,814.68,Central
+2025-04-09,Coffee Maker,Appliances,1,175.51,0.0,175.51,West
+2025-04-09,Coffee Maker,Appliances,4,110.28,0.0,441.12,South
+2025-04-09,Laptop Pro,Electronics,2,712.32,0.05,1353.41,South
+2025-04-10,Desk Chair,Furniture,1,335.8,0.0,335.8,North
+2025-04-10,Desk Chair,Furniture,2,557.82,0.1,1004.08,North
+2025-04-10,Smartphone X,Electronics,1,1163.71,0.05,1105.52,East
+2025-04-10,Yoga Mat,Sports,2,63.81,0.05,121.24,South
+2025-04-11,Backpack,Accessories,4,62.0,0.0,248.0,East
+2025-04-11,Blender,Appliances,1,197.11,0.0,197.11,East
+2025-04-11,Desk Chair,Furniture,1,188.34,0.15,160.09,East
+2025-04-11,Yoga Mat,Sports,1,93.82,0.0,93.82,South
+2025-04-12,Blender,Appliances,2,55.09,0.0,110.18,East
+2025-04-12,Desk Chair,Furniture,2,424.24,0.1,763.63,Central
+2025-04-12,Office Desk,Furniture,2,316.91,0.0,633.82,South
+2025-04-12,Office Desk,Furniture,1,526.88,0.0,526.88,West
+2025-04-13,Blender,Appliances,4,92.77,0.05,352.53,Central
+2025-04-13,Running Shoes,Sports,1,109.36,0.0,109.36,East
+2025-04-13,Smartphone X,Electronics,1,1118.14,0.0,1118.14,Central
+2025-04-13,Wireless Headphones,Electronics,3,419.26,0.1,1132.0,West
+2025-04-14,Blender,Appliances,2,70.75,0.05,134.42,North
+2025-04-14,Desk Chair,Furniture,2,226.03,0.05,429.46,South
+2025-04-14,Running Shoes,Sports,4,100.1,0.0,400.4,Central
+2025-04-14,Wireless Headphones,Electronics,1,899.84,0.0,899.84,South
+2025-04-14,Yoga Mat,Sports,1,46.43,0.1,41.79,South
+2025-04-15,Blender,Appliances,1,158.01,0.0,158.01,West
+2025-04-15,Coffee Maker,Appliances,1,103.77,0.05,98.58,East
+2025-04-15,Office Desk,Furniture,2,277.04,0.1,498.67,West
+2025-04-15,Smartphone X,Electronics,2,568.49,0.0,1136.98,North
+2025-04-15,Wireless Headphones,Electronics,1,941.72,0.05,894.63,South
+2025-04-16,Backpack,Accessories,3,38.48,0.0,115.44,West
+2025-04-16,Desk Chair,Furniture,1,465.89,0.0,465.89,East
+2025-04-16,Laptop Pro,Electronics,2,608.44,0.0,1216.88,West
+2025-04-16,Office Desk,Furniture,1,411.61,0.05,391.03,East
+2025-04-16,Running Shoes,Sports,5,147.89,0.05,702.48,East
+2025-04-17,Desk Chair,Furniture,2,589.01,0.1,1060.22,East
+2025-04-17,Laptop Pro,Electronics,1,524.71,0.0,524.71,Central
+2025-04-17,Running Shoes,Sports,3,100.42,0.0,301.26,North
+2025-04-17,Smartphone X,Electronics,2,782.55,0.15,1330.33,South
+2025-04-18,Blender,Appliances,3,87.61,0.15,223.41,North
+2025-04-18,Office Desk,Furniture,1,268.97,0.05,255.52,North
+2025-04-18,Smartphone X,Electronics,1,812.08,0.15,690.27,East
+2025-04-19,Coffee Maker,Appliances,1,159.42,0.0,159.42,Central
+2025-04-19,Running Shoes,Sports,5,30.47,0.0,152.35,West
+2025-04-19,Smartphone X,Electronics,3,1041.9,0.0,3125.7,East
+2025-04-20,Coffee Maker,Appliances,1,100.29,0.0,100.29,Central
+2025-04-20,Desk Chair,Furniture,1,405.24,0.1,364.72,East
+2025-04-20,Desk Chair,Furniture,1,521.95,0.0,521.95,West
+2025-04-21,Coffee Maker,Appliances,1,164.5,0.0,164.5,South
+2025-04-21,Running Shoes,Sports,3,50.29,0.1,135.78,North
+2025-04-21,Wireless Headphones,Electronics,1,765.43,0.0,765.43,North
+2025-04-22,Blender,Appliances,2,40.37,0.15,68.63,Central
+2025-04-22,Coffee Maker,Appliances,1,153.49,0.0,153.49,West
+2025-04-22,Laptop Pro,Electronics,2,1126.3,0.0,2252.6,Central
+2025-04-22,Office Desk,Furniture,1,310.49,0.0,310.49,North
+2025-04-22,Wireless Headphones,Electronics,1,1189.88,0.0,1189.88,South
+2025-04-23,Desk Chair,Furniture,1,570.06,0.0,570.06,North
+2025-04-23,Office Desk,Furniture,1,474.85,0.15,403.62,South
+2025-04-23,Running Shoes,Sports,1,76.48,0.0,76.48,West
+2025-04-23,Running Shoes,Sports,2,99.19,0.0,198.38,North
+2025-04-24,Blender,Appliances,2,199.19,0.1,358.54,West
+2025-04-24,Office Desk,Furniture,2,477.77,0.05,907.76,East
+2025-04-24,Running Shoes,Sports,2,105.21,0.05,199.9,North
+2025-04-24,Running Shoes,Sports,3,131.66,0.1,355.48,North
+2025-04-24,Smartphone X,Electronics,2,1203.37,0.0,2406.74,North
+2025-04-25,Backpack,Accessories,8,30.27,0.0,242.16,South
+2025-04-25,Coffee Maker,Appliances,1,77.29,0.05,73.43,North
+2025-04-26,Blender,Appliances,2,59.73,0.0,119.46,South
+2025-04-26,Desk Chair,Furniture,2,587.82,0.1,1058.08,East
+2025-04-27,Backpack,Accessories,9,27.34,0.1,221.45,South
+2025-04-27,Coffee Maker,Appliances,1,91.97,0.15,78.17,West
+2025-04-27,Coffee Maker,Appliances,2,104.44,0.0,208.88,South
+2025-04-28,Backpack,Accessories,6,28.68,0.15,146.27,South
+2025-04-28,Smartphone X,Electronics,2,679.38,0.05,1290.82,Central
+2025-04-29,Smartphone X,Electronics,1,794.75,0.05,755.01,East
+2025-04-29,Wireless Headphones,Electronics,1,470.73,0.15,400.12,Central
+2025-04-29,Yoga Mat,Sports,2,51.24,0.1,92.23,Central
+2025-04-30,Desk Chair,Furniture,1,224.16,0.1,201.74,East
+2025-04-30,Desk Chair,Furniture,1,419.06,0.15,356.2,South
+2025-04-30,Office Desk,Furniture,1,259.2,0.0,259.2,Central
+2025-05-01,Desk Chair,Furniture,1,328.23,0.0,328.23,East
+2025-05-01,Laptop Pro,Electronics,2,1244.82,0.0,2489.64,East
+2025-05-02,Coffee Maker,Appliances,1,164.23,0.1,147.81,North
+2025-05-02,Laptop Pro,Electronics,3,1145.28,0.0,3435.84,East
+2025-05-02,Running Shoes,Sports,1,122.46,0.05,116.34,North
+2025-05-02,Running Shoes,Sports,1,143.19,0.0,143.19,South
+2025-05-03,Coffee Maker,Appliances,1,175.37,0.0,175.37,Central
+2025-05-03,Desk Chair,Furniture,1,436.69,0.0,436.69,North
+2025-05-03,Laptop Pro,Electronics,1,1292.71,0.05,1228.07,South
+2025-05-03,Laptop Pro,Electronics,3,1225.83,0.0,3677.49,East
+2025-05-03,Running Shoes,Sports,8,66.18,0.0,529.44,North
+2025-05-04,Coffee Maker,Appliances,1,54.7,0.0,54.7,East
+2025-05-04,Desk Chair,Furniture,1,505.0,0.1,454.5,West
+2025-05-05,Backpack,Accessories,5,67.45,0.0,337.25,North
+2025-05-05,Blender,Appliances,1,84.91,0.0,84.91,North
+2025-05-05,Desk Chair,Furniture,1,163.65,0.0,163.65,Central
+2025-05-05,Office Desk,Furniture,2,283.41,0.0,566.82,East
+2025-05-05,Yoga Mat,Sports,2,55.42,0.0,110.84,North
+2025-05-06,Backpack,Accessories,4,33.51,0.0,134.04,South
+2025-05-06,Coffee Maker,Appliances,3,94.43,0.0,283.29,Central
+2025-05-06,Office Desk,Furniture,2,420.04,0.05,798.08,North
+2025-05-07,Laptop Pro,Electronics,2,392.89,0.15,667.91,North
+2025-05-07,Smartphone X,Electronics,1,1131.25,0.0,1131.25,North
+2025-05-07,Smartphone X,Electronics,1,762.13,0.0,762.13,Central
+2025-05-08,Desk Chair,Furniture,2,195.06,0.1,351.11,South
+2025-05-08,Desk Chair,Furniture,1,225.72,0.0,225.72,North
+2025-05-08,Laptop Pro,Electronics,2,1010.44,0.0,2020.88,Central
+2025-05-08,Yoga Mat,Sports,2,80.63,0.0,161.26,East
+2025-05-09,Blender,Appliances,1,122.39,0.0,122.39,South
+2025-05-09,Blender,Appliances,1,142.47,0.0,142.47,North
+2025-05-09,Wireless Headphones,Electronics,3,1229.02,0.0,3687.06,West
+2025-05-10,Blender,Appliances,1,138.84,0.0,138.84,Central
+2025-05-10,Coffee Maker,Appliances,5,50.49,0.15,214.58,Central
+2025-05-10,Laptop Pro,Electronics,1,422.19,0.15,358.86,West
+2025-05-10,Yoga Mat,Sports,5,40.81,0.0,204.05,West
+2025-05-11,Coffee Maker,Appliances,4,167.54,0.05,636.65,North
+2025-05-11,Laptop Pro,Electronics,1,550.56,0.15,467.98,East
+2025-05-11,Smartphone X,Electronics,3,560.28,0.0,1680.84,South
+2025-05-11,Wireless Headphones,Electronics,2,478.32,0.05,908.81,West
+2025-05-12,Desk Chair,Furniture,1,420.76,0.15,357.65,East
+2025-05-12,Running Shoes,Sports,5,61.62,0.0,308.1,North
+2025-05-12,Smartphone X,Electronics,1,774.0,0.05,735.3,North
+2025-05-13,Coffee Maker,Appliances,1,65.82,0.0,65.82,East
+2025-05-13,Coffee Maker,Appliances,1,140.33,0.0,140.33,Central
+2025-05-13,Smartphone X,Electronics,2,1035.08,0.05,1966.65,East
+2025-05-14,Blender,Appliances,2,88.25,0.0,176.5,North
+2025-05-14,Coffee Maker,Appliances,1,88.65,0.0,88.65,Central
+2025-05-14,Laptop Pro,Electronics,1,620.88,0.0,620.88,South
+2025-05-14,Laptop Pro,Electronics,2,407.92,0.1,734.26,South
+2025-05-15,Coffee Maker,Appliances,2,102.92,0.15,174.96,South
+2025-05-15,Yoga Mat,Sports,3,81.73,0.0,245.19,South
+2025-05-16,Coffee Maker,Appliances,4,44.19,0.05,167.92,West
+2025-05-16,Laptop Pro,Electronics,1,939.48,0.1,845.53,Central
+2025-05-16,Office Desk,Furniture,2,447.85,0.0,895.7,Central
+2025-05-17,Coffee Maker,Appliances,1,181.26,0.0,181.26,East
+2025-05-17,Laptop Pro,Electronics,3,427.52,0.1,1154.3,South
+2025-05-17,Office Desk,Furniture,2,280.06,0.1,504.11,Central
+2025-05-17,Wireless Headphones,Electronics,1,390.52,0.1,351.47,North
+2025-05-17,Yoga Mat,Sports,6,32.89,0.0,197.34,Central
+2025-05-18,Backpack,Accessories,4,42.28,0.05,160.66,East
+2025-05-18,Running Shoes,Sports,6,126.06,0.05,718.54,South
+2025-05-18,Wireless Headphones,Electronics,1,885.49,0.05,841.22,Central
+2025-05-19,Backpack,Accessories,2,30.54,0.0,61.08,Central
+2025-05-19,Coffee Maker,Appliances,1,166.57,0.0,166.57,East
+2025-05-19,Coffee Maker,Appliances,4,94.75,0.0,379.0,West
+2025-05-19,Smartphone X,Electronics,2,661.25,0.1,1190.25,North
+2025-05-19,Wireless Headphones,Electronics,1,728.04,0.0,728.04,South
+2025-05-20,Laptop Pro,Electronics,2,987.57,0.0,1975.14,Central
+2025-05-20,Office Desk,Furniture,1,328.01,0.05,311.61,East
+2025-05-20,Smartphone X,Electronics,1,1134.15,0.0,1134.15,East
+2025-05-20,Smartphone X,Electronics,2,338.21,0.15,574.96,East
+2025-05-21,Desk Chair,Furniture,1,213.88,0.15,181.8,Central
+2025-05-21,Office Desk,Furniture,1,257.28,0.1,231.55,East
+2025-05-21,Wireless Headphones,Electronics,1,374.07,0.0,374.07,South
+2025-05-21,Yoga Mat,Sports,2,70.2,0.0,140.4,South
+2025-05-22,Yoga Mat,Sports,2,59.69,0.0,119.38,Central
+2025-05-22,Yoga Mat,Sports,4,110.27,0.1,396.97,East
+2025-05-23,Backpack,Accessories,3,40.64,0.05,115.82,East
+2025-05-23,Desk Chair,Furniture,1,172.88,0.15,146.95,East
+2025-05-23,Wireless Headphones,Electronics,1,1171.19,0.0,1171.19,Central
+2025-05-24,Backpack,Accessories,8,79.89,0.1,575.21,South
+2025-05-24,Yoga Mat,Sports,2,25.56,0.15,43.45,North
+2025-05-25,Coffee Maker,Appliances,2,196.26,0.15,333.64,West
+2025-05-25,Office Desk,Furniture,1,151.23,0.15,128.55,South
+2025-05-25,Wireless Headphones,Electronics,3,669.65,0.1,1808.05,East
+2025-05-26,Backpack,Accessories,6,30.24,0.0,181.44,East
+2025-05-26,Office Desk,Furniture,1,359.95,0.05,341.95,South
+2025-05-26,Smartphone X,Electronics,3,795.3,0.0,2385.9,South
+2025-05-27,Smartphone X,Electronics,3,1092.98,0.0,3278.94,West
+2025-05-27,Yoga Mat,Sports,2,98.43,0.05,187.02,South
+2025-05-28,Backpack,Accessories,2,71.99,0.0,143.98,East
+2025-05-28,Blender,Appliances,3,78.19,0.0,234.57,Central
+2025-05-28,Coffee Maker,Appliances,2,64.09,0.1,115.36,East
+2025-05-28,Yoga Mat,Sports,2,50.12,0.0,100.24,South
+2025-05-29,Laptop Pro,Electronics,1,810.04,0.0,810.04,East
+2025-05-29,Office Desk,Furniture,1,455.84,0.0,455.84,South
+2025-05-29,Wireless Headphones,Electronics,2,306.22,0.0,612.44,Central
+2025-05-29,Wireless Headphones,Electronics,1,495.63,0.15,421.29,South
+2025-05-30,Backpack,Accessories,4,25.45,0.1,91.62,South
+2025-05-30,Yoga Mat,Sports,5,145.12,0.0,725.6,West
+2025-05-31,Desk Chair,Furniture,1,441.91,0.1,397.72,West
+2025-05-31,Office Desk,Furniture,2,385.22,0.0,770.44,West
+2025-05-31,Wireless Headphones,Electronics,3,1017.76,0.05,2900.62,West
+2025-06-01,Coffee Maker,Appliances,4,167.98,0.1,604.73,North
+2025-06-01,Smartphone X,Electronics,3,667.61,0.0,2002.83,West
+2025-06-01,Smartphone X,Electronics,2,393.97,0.1,709.15,North
+2025-06-02,Backpack,Accessories,8,66.59,0.0,532.72,East
+2025-06-02,Coffee Maker,Appliances,3,188.33,0.15,480.24,West
+2025-06-02,Coffee Maker,Appliances,1,178.32,0.05,169.4,East
+2025-06-02,Laptop Pro,Electronics,2,508.37,0.1,915.07,North
+2025-06-02,Laptop Pro,Electronics,1,1187.57,0.0,1187.57,South
+2025-06-03,Blender,Appliances,2,33.5,0.1,60.3,West
+2025-06-03,Desk Chair,Furniture,2,238.76,0.0,477.52,West
+2025-06-03,Running Shoes,Sports,4,46.59,0.0,186.36,East
+2025-06-04,Laptop Pro,Electronics,1,349.36,0.0,349.36,South
+2025-06-04,Laptop Pro,Electronics,2,1089.96,0.0,2179.92,North
+2025-06-04,Office Desk,Furniture,1,484.87,0.0,484.87,Central
+2025-06-04,Office Desk,Furniture,1,241.74,0.15,205.48,North
+2025-06-05,Office Desk,Furniture,1,532.01,0.05,505.41,Central
+2025-06-05,Office Desk,Furniture,2,361.87,0.0,723.74,West
+2025-06-05,Running Shoes,Sports,6,109.4,0.0,656.4,West
+2025-06-05,Smartphone X,Electronics,1,563.97,0.15,479.37,West
+2025-06-06,Blender,Appliances,2,192.59,0.15,327.4,North
+2025-06-06,Laptop Pro,Electronics,1,1133.6,0.0,1133.6,West
+2025-06-06,Running Shoes,Sports,6,143.36,0.0,860.16,East
+2025-06-06,Smartphone X,Electronics,2,1049.62,0.0,2099.24,North
+2025-06-07,Coffee Maker,Appliances,2,46.95,0.1,84.51,South
+2025-06-07,Office Desk,Furniture,2,161.28,0.15,274.18,East
+2025-06-07,Smartphone X,Electronics,2,835.73,0.0,1671.46,South
+2025-06-07,Wireless Headphones,Electronics,3,1213.52,0.0,3640.56,Central
+2025-06-07,Yoga Mat,Sports,3,118.38,0.15,301.87,West
+2025-06-08,Backpack,Accessories,7,31.79,0.0,222.53,East
+2025-06-08,Smartphone X,Electronics,3,396.2,0.0,1188.6,West
+2025-06-09,Office Desk,Furniture,1,228.24,0.0,228.24,North
+2025-06-09,Yoga Mat,Sports,4,50.83,0.0,203.32,South
+2025-06-10,Laptop Pro,Electronics,3,719.5,0.0,2158.5,East
+2025-06-10,Laptop Pro,Electronics,2,1122.41,0.0,2244.82,South
+2025-06-10,Smartphone X,Electronics,2,1284.74,0.05,2441.01,South
+2025-06-10,Yoga Mat,Sports,3,30.79,0.0,92.37,South
+2025-06-11,Backpack,Accessories,5,71.67,0.05,340.43,South
+2025-06-11,Backpack,Accessories,7,28.03,0.0,196.21,Central
+2025-06-11,Coffee Maker,Appliances,2,81.45,0.0,162.9,West
+2025-06-11,Smartphone X,Electronics,1,686.24,0.0,686.24,Central
+2025-06-11,Smartphone X,Electronics,3,880.68,0.0,2642.04,South
+2025-06-12,Backpack,Accessories,7,43.36,0.15,257.99,East
+2025-06-12,Blender,Appliances,3,143.71,0.0,431.13,Central
+2025-06-12,Coffee Maker,Appliances,1,32.22,0.15,27.39,South
+2025-06-12,Yoga Mat,Sports,5,62.18,0.0,310.9,North
+2025-06-13,Coffee Maker,Appliances,4,169.77,0.1,611.17,Central
+2025-06-13,Desk Chair,Furniture,2,171.5,0.05,325.85,North
+2025-06-13,Office Desk,Furniture,2,300.11,0.05,570.21,East
+2025-06-14,Backpack,Accessories,5,57.58,0.0,287.9,Central
+2025-06-14,Desk Chair,Furniture,2,350.41,0.0,700.82,East
+2025-06-14,Laptop Pro,Electronics,1,896.54,0.05,851.71,West
+2025-06-14,Wireless Headphones,Electronics,4,1025.9,0.0,4103.6,West
+2025-06-15,Blender,Appliances,3,86.47,0.0,259.41,West
+2025-06-15,Desk Chair,Furniture,1,167.43,0.15,142.32,Central
+2025-06-15,Laptop Pro,Electronics,3,834.73,0.0,2504.19,South
+2025-06-16,Backpack,Accessories,2,64.61,0.1,116.3,East
+2025-06-16,Coffee Maker,Appliances,1,125.91,0.0,125.91,South
+2025-06-16,Office Desk,Furniture,1,346.66,0.1,311.99,West
+2025-06-17,Backpack,Accessories,3,41.73,0.0,125.19,West
+2025-06-17,Desk Chair,Furniture,1,503.95,0.0,503.95,West
+2025-06-17,Desk Chair,Furniture,1,278.46,0.15,236.69,North
+2025-06-17,Smartphone X,Electronics,3,464.69,0.0,1394.07,North
+2025-06-18,Coffee Maker,Appliances,2,35.3,0.15,60.01,North
+2025-06-18,Desk Chair,Furniture,1,559.78,0.0,559.78,South
+2025-06-18,Laptop Pro,Electronics,2,1033.84,0.0,2067.68,Central
+2025-06-19,Blender,Appliances,2,150.81,0.15,256.38,North
+2025-06-19,Running Shoes,Sports,3,95.66,0.0,286.98,South
+2025-06-19,Wireless Headphones,Electronics,2,458.01,0.15,778.62,North
+2025-06-20,Coffee Maker,Appliances,2,95.83,0.0,191.66,Central
+2025-06-20,Desk Chair,Furniture,2,284.33,0.05,540.23,West
+2025-06-20,Office Desk,Furniture,1,463.56,0.15,394.03,North
+2025-06-20,Wireless Headphones,Electronics,2,543.85,0.1,978.93,South
+2025-06-21,Desk Chair,Furniture,1,265.16,0.1,238.64,North
+2025-06-21,Office Desk,Furniture,1,321.78,0.0,321.78,South
+2025-06-21,Yoga Mat,Sports,8,31.98,0.05,243.05,North
+2025-06-22,Desk Chair,Furniture,2,333.21,0.0,666.42,North
+2025-06-22,Yoga Mat,Sports,4,29.28,0.0,117.12,North
+2025-06-23,Coffee Maker,Appliances,3,158.05,0.15,403.03,West
+2025-06-23,Running Shoes,Sports,4,87.42,0.15,297.23,Central
+2025-06-23,Smartphone X,Electronics,3,1305.86,0.1,3525.82,North
+2025-06-23,Yoga Mat,Sports,4,65.1,0.05,247.38,West
+2025-06-24,Backpack,Accessories,7,46.33,0.1,291.88,North
+2025-06-24,Blender,Appliances,3,147.75,0.15,376.76,East
+2025-06-24,Desk Chair,Furniture,1,468.12,0.05,444.71,Central
+2025-06-24,Laptop Pro,Electronics,2,1344.1,0.1,2419.38,South
+2025-06-24,Office Desk,Furniture,1,201.52,0.1,181.37,West
+2025-06-25,Backpack,Accessories,8,36.33,0.0,290.64,North
+2025-06-25,Laptop Pro,Electronics,3,701.71,0.1,1894.62,North
+2025-06-25,Laptop Pro,Electronics,3,874.81,0.0,2624.43,West
+2025-06-26,Laptop Pro,Electronics,2,552.03,0.15,938.45,South
+2025-06-26,Running Shoes,Sports,1,63.33,0.05,60.16,East
+2025-06-26,Smartphone X,Electronics,1,1047.61,0.1,942.85,South
+2025-06-27,Laptop Pro,Electronics,1,699.87,0.0,699.87,South
+2025-06-27,Smartphone X,Electronics,1,327.84,0.0,327.84,Central
+2025-06-28,Backpack,Accessories,10,29.92,0.0,299.2,East
+2025-06-28,Coffee Maker,Appliances,5,49.69,0.1,223.6,West
+2025-06-28,Yoga Mat,Sports,4,111.56,0.0,446.24,West
+2025-06-29,Blender,Appliances,1,43.7,0.0,43.7,North
+2025-06-29,Desk Chair,Furniture,3,272.32,0.15,694.42,West
+2025-06-29,Desk Chair,Furniture,2,380.92,0.0,761.84,Central
+2025-06-29,Laptop Pro,Electronics,4,878.69,0.15,2987.55,West
+2025-06-30,Backpack,Accessories,7,41.31,0.05,274.71,East
+2025-06-30,Backpack,Accessories,7,41.05,0.1,258.61,North
+2025-06-30,Blender,Appliances,2,83.1,0.0,166.2,East
+2025-06-30,Yoga Mat,Sports,2,126.98,0.05,241.26,West
+2025-07-01,Running Shoes,Sports,2,106.11,0.0,212.22,West
+2025-07-01,Yoga Mat,Sports,7,52.0,0.05,345.8,West
+2025-07-02,Coffee Maker,Appliances,3,142.39,0.0,427.17,South
+2025-07-02,Laptop Pro,Electronics,2,1124.05,0.1,2023.29,North
+2025-07-02,Smartphone X,Electronics,2,1152.96,0.05,2190.62,Central
+2025-07-03,Coffee Maker,Appliances,4,92.42,0.05,351.2,East
+2025-07-03,Running Shoes,Sports,5,58.81,0.0,294.05,North
+2025-07-03,Wireless Headphones,Electronics,1,331.36,0.0,331.36,South
+2025-07-03,Yoga Mat,Sports,4,135.94,0.0,543.76,North
+2025-07-03,Yoga Mat,Sports,4,62.72,0.1,225.79,South
+2025-07-04,Blender,Appliances,1,56.16,0.05,53.35,East
+2025-07-04,Laptop Pro,Electronics,1,715.93,0.1,644.34,East
+2025-07-04,Office Desk,Furniture,1,383.79,0.15,326.22,East
+2025-07-04,Smartphone X,Electronics,2,1076.71,0.0,2153.42,East
+2025-07-04,Wireless Headphones,Electronics,2,610.76,0.15,1038.29,West
+2025-07-05,Blender,Appliances,5,33.44,0.05,158.84,South
+2025-07-05,Running Shoes,Sports,1,49.1,0.15,41.73,Central
+2025-07-05,Smartphone X,Electronics,3,825.25,0.0,2475.75,Central
+2025-07-05,Wireless Headphones,Electronics,2,308.65,0.0,617.3,North
+2025-07-05,Yoga Mat,Sports,8,71.35,0.0,570.8,West
+2025-07-06,Backpack,Accessories,8,31.81,0.0,254.48,South
+2025-07-06,Office Desk,Furniture,3,190.37,0.05,542.55,West
+2025-07-07,Desk Chair,Furniture,1,186.03,0.1,167.43,West
+2025-07-07,Office Desk,Furniture,1,298.42,0.15,253.66,South
+2025-07-07,Running Shoes,Sports,3,110.16,0.0,330.48,West
+2025-07-07,Yoga Mat,Sports,4,38.89,0.0,155.56,Central
+2025-07-08,Blender,Appliances,4,37.19,0.15,126.45,North
+2025-07-08,Blender,Appliances,1,172.44,0.0,172.44,Central
+2025-07-08,Desk Chair,Furniture,1,388.83,0.0,388.83,West
+2025-07-09,Coffee Maker,Appliances,3,122.96,0.0,368.88,West
+2025-07-09,Smartphone X,Electronics,3,1076.28,0.05,3067.4,North
+2025-07-09,Wireless Headphones,Electronics,2,965.45,0.0,1930.9,Central
+2025-07-10,Blender,Appliances,2,82.38,0.0,164.76,West
+2025-07-10,Coffee Maker,Appliances,2,130.82,0.1,235.48,Central
+2025-07-10,Yoga Mat,Sports,3,89.77,0.15,228.91,West
+2025-07-11,Backpack,Accessories,7,28.92,0.0,202.44,Central
+2025-07-11,Coffee Maker,Appliances,1,55.76,0.0,55.76,West
+2025-07-11,Smartphone X,Electronics,2,792.39,0.0,1584.78,South
+2025-07-11,Wireless Headphones,Electronics,3,556.45,0.15,1418.95,East
+2025-07-11,Yoga Mat,Sports,4,121.34,0.0,485.36,Central
+2025-07-12,Blender,Appliances,4,51.25,0.05,194.75,South
+2025-07-12,Coffee Maker,Appliances,2,161.57,0.1,290.83,North
+2025-07-12,Yoga Mat,Sports,4,82.19,0.0,328.76,Central
+2025-07-13,Blender,Appliances,4,72.21,0.05,274.4,West
+2025-07-13,Office Desk,Furniture,2,193.03,0.15,328.15,Central
+2025-07-13,Running Shoes,Sports,7,48.29,0.1,304.23,East
+2025-07-13,Smartphone X,Electronics,1,710.51,0.05,674.98,Central
+2025-07-13,Wireless Headphones,Electronics,1,926.82,0.0,926.82,Central
+2025-07-14,Office Desk,Furniture,1,511.75,0.15,434.99,West
+2025-07-14,Office Desk,Furniture,1,274.66,0.05,260.93,Central
+2025-07-14,Running Shoes,Sports,2,24.08,0.0,48.16,West
+2025-07-15,Coffee Maker,Appliances,3,179.8,0.05,512.43,West
+2025-07-15,Coffee Maker,Appliances,3,83.84,0.05,238.94,West
+2025-07-15,Desk Chair,Furniture,1,509.11,0.0,509.11,South
+2025-07-16,Blender,Appliances,2,82.38,0.0,164.76,West
+2025-07-16,Coffee Maker,Appliances,3,127.54,0.05,363.49,East
+2025-07-16,Office Desk,Furniture,2,620.56,0.0,1241.12,West
+2025-07-17,Blender,Appliances,4,164.08,0.0,656.32,East
+2025-07-17,Blender,Appliances,2,68.57,0.0,137.14,North
+2025-07-18,Blender,Appliances,2,85.32,0.05,162.11,North
+2025-07-18,Smartphone X,Electronics,1,906.58,0.1,815.92,South
+2025-07-19,Backpack,Accessories,10,59.32,0.0,593.2,Central
+2025-07-19,Office Desk,Furniture,2,291.88,0.0,583.76,West
+2025-07-19,Smartphone X,Electronics,3,1125.11,0.15,2869.03,South
+2025-07-20,Office Desk,Furniture,2,512.39,0.0,1024.78,Central
+2025-07-20,Smartphone X,Electronics,3,670.66,0.05,1911.38,North
+2025-07-20,Wireless Headphones,Electronics,3,473.94,0.05,1350.73,East
+2025-07-20,Yoga Mat,Sports,1,75.25,0.0,75.25,South
+2025-07-21,Blender,Appliances,1,88.66,0.15,75.36,South
+2025-07-21,Desk Chair,Furniture,1,330.71,0.0,330.71,South
+2025-07-21,Desk Chair,Furniture,2,282.85,0.0,565.7,Central
+2025-07-21,Laptop Pro,Electronics,3,1176.56,0.05,3353.2,West
+2025-07-21,Office Desk,Furniture,2,348.56,0.0,697.12,South
+2025-07-22,Coffee Maker,Appliances,1,64.84,0.1,58.36,East
+2025-07-22,Office Desk,Furniture,1,482.39,0.0,482.39,South
+2025-07-22,Running Shoes,Sports,2,27.02,0.0,54.04,West
+2025-07-22,Yoga Mat,Sports,4,40.51,0.0,162.04,East
+2025-07-23,Backpack,Accessories,4,79.13,0.1,284.87,East
+2025-07-23,Office Desk,Furniture,1,511.5,0.05,485.92,West
+2025-07-23,Yoga Mat,Sports,6,89.35,0.05,509.29,North
+2025-07-23,Yoga Mat,Sports,2,112.2,0.1,201.96,East
+2025-07-24,Backpack,Accessories,5,34.35,0.1,154.58,South
+2025-07-24,Smartphone X,Electronics,2,804.8,0.0,1609.6,Central
+2025-07-25,Backpack,Accessories,3,46.54,0.0,139.62,North
+2025-07-25,Blender,Appliances,2,84.85,0.15,144.24,South
+2025-07-25,Coffee Maker,Appliances,4,110.49,0.0,441.96,North
+2025-07-25,Desk Chair,Furniture,1,485.96,0.1,437.36,South
+2025-07-26,Blender,Appliances,1,184.1,0.0,184.1,Central
+2025-07-26,Blender,Appliances,3,66.18,0.0,198.54,North
+2025-07-26,Running Shoes,Sports,7,21.47,0.0,150.29,Central
+2025-07-26,Yoga Mat,Sports,4,153.44,0.0,613.76,West
+2025-07-27,Backpack,Accessories,5,17.43,0.0,87.15,North
+2025-07-27,Backpack,Accessories,8,69.91,0.1,503.35,South
+2025-07-27,Laptop Pro,Electronics,2,844.46,0.0,1688.92,North
+2025-07-27,Office Desk,Furniture,2,439.96,0.0,879.92,South
+2025-07-27,Yoga Mat,Sports,2,87.6,0.0,175.2,South
+2025-07-28,Laptop Pro,Electronics,2,452.2,0.0,904.4,East
+2025-07-28,Wireless Headphones,Electronics,3,917.46,0.15,2339.52,Central
+2025-07-29,Wireless Headphones,Electronics,1,321.48,0.05,305.41,North
+2025-07-29,Wireless Headphones,Electronics,3,880.95,0.15,2246.42,North
+2025-07-29,Wireless Headphones,Electronics,2,650.07,0.0,1300.14,East
+2025-07-29,Yoga Mat,Sports,2,32.42,0.0,64.84,North
+2025-07-30,Laptop Pro,Electronics,2,1080.44,0.0,2160.88,West
+2025-07-30,Smartphone X,Electronics,1,929.2,0.15,789.82,Central
+2025-07-30,Wireless Headphones,Electronics,1,340.64,0.05,323.61,East
+2025-07-30,Wireless Headphones,Electronics,3,1071.74,0.15,2732.94,East
+2025-07-30,Wireless Headphones,Electronics,1,597.55,0.0,597.55,East
+2025-07-31,Backpack,Accessories,5,26.35,0.1,118.58,North
+2025-07-31,Blender,Appliances,4,54.32,0.0,217.28,East
+2025-07-31,Blender,Appliances,1,190.67,0.15,162.07,Central
+2025-08-01,Blender,Appliances,2,177.55,0.0,355.1,South
+2025-08-01,Desk Chair,Furniture,1,182.03,0.0,182.03,East
+2025-08-01,Office Desk,Furniture,1,380.86,0.05,361.82,West
+2025-08-01,Running Shoes,Sports,4,126.68,0.0,506.72,South
+2025-08-01,Wireless Headphones,Electronics,1,805.39,0.0,805.39,West
+2025-08-02,Desk Chair,Furniture,2,425.1,0.0,850.2,East
+2025-08-02,Office Desk,Furniture,1,205.49,0.1,184.94,East
+2025-08-02,Office Desk,Furniture,1,557.12,0.05,529.26,East
+2025-08-02,Running Shoes,Sports,4,80.02,0.15,272.07,West
+2025-08-02,Wireless Headphones,Electronics,3,444.14,0.1,1199.18,South
+2025-08-03,Blender,Appliances,4,120.5,0.0,482.0,Central
+2025-08-03,Blender,Appliances,3,118.34,0.0,355.02,East
+2025-08-03,Blender,Appliances,5,111.52,0.0,557.6,East
+2025-08-03,Coffee Maker,Appliances,2,97.41,0.05,185.08,South
+2025-08-04,Blender,Appliances,3,128.04,0.15,326.5,South
+2025-08-04,Wireless Headphones,Electronics,1,326.22,0.15,277.29,South
+2025-08-05,Blender,Appliances,1,141.1,0.0,141.1,South
+2025-08-05,Desk Chair,Furniture,1,288.55,0.05,274.12,East
+2025-08-05,Laptop Pro,Electronics,3,317.85,0.0,953.55,North
+2025-08-05,Running Shoes,Sports,5,36.99,0.0,184.95,East
+2025-08-05,Yoga Mat,Sports,4,28.84,0.0,115.36,West
+2025-08-06,Blender,Appliances,3,58.01,0.0,174.03,North
+2025-08-06,Office Desk,Furniture,2,572.91,0.05,1088.53,North
+2025-08-06,Smartphone X,Electronics,2,927.77,0.0,1855.54,Central
+2025-08-07,Coffee Maker,Appliances,4,113.82,0.0,455.28,East
+2025-08-07,Smartphone X,Electronics,2,1202.3,0.15,2043.91,Central
+2025-08-07,Smartphone X,Electronics,2,1093.29,0.0,2186.58,Central
+2025-08-07,Wireless Headphones,Electronics,3,1080.53,0.1,2917.43,North
+2025-08-08,Blender,Appliances,1,169.72,0.0,169.72,North
+2025-08-08,Office Desk,Furniture,1,323.89,0.05,307.7,North
+2025-08-09,Coffee Maker,Appliances,2,114.75,0.0,229.5,Central
+2025-08-09,Desk Chair,Furniture,1,391.69,0.05,372.11,West
+2025-08-10,Coffee Maker,Appliances,3,196.38,0.1,530.23,East
+2025-08-10,Coffee Maker,Appliances,4,36.47,0.1,131.29,South
+2025-08-10,Wireless Headphones,Electronics,4,654.43,0.05,2486.83,North
+2025-08-10,Wireless Headphones,Electronics,2,520.13,0.15,884.22,South
+2025-08-11,Backpack,Accessories,3,80.64,0.0,241.92,Central
+2025-08-11,Office Desk,Furniture,2,395.28,0.0,790.56,West
+2025-08-12,Backpack,Accessories,4,58.29,0.0,233.16,West
+2025-08-12,Blender,Appliances,4,169.6,0.1,610.56,South
+2025-08-12,Laptop Pro,Electronics,2,499.87,0.0,999.74,Central
+2025-08-12,Wireless Headphones,Electronics,3,1113.58,0.0,3340.74,East
+2025-08-12,Yoga Mat,Sports,1,124.21,0.0,124.21,South
+2025-08-13,Coffee Maker,Appliances,3,168.86,0.0,506.58,East
+2025-08-13,Laptop Pro,Electronics,2,1167.21,0.1,2100.98,West
+2025-08-13,Laptop Pro,Electronics,1,435.98,0.0,435.98,West
+2025-08-14,Coffee Maker,Appliances,1,32.11,0.0,32.11,North
+2025-08-14,Laptop Pro,Electronics,1,507.29,0.0,507.29,South
+2025-08-14,Office Desk,Furniture,1,254.24,0.0,254.24,West
+2025-08-15,Desk Chair,Furniture,1,588.82,0.0,588.82,South
+2025-08-15,Yoga Mat,Sports,2,67.96,0.0,135.92,West
+2025-08-16,Blender,Appliances,2,116.51,0.1,209.72,West
+2025-08-16,Running Shoes,Sports,4,70.19,0.15,238.65,West
+2025-08-17,Desk Chair,Furniture,2,500.08,0.0,1000.16,West
+2025-08-17,Laptop Pro,Electronics,2,966.34,0.0,1932.68,West
+2025-08-17,Yoga Mat,Sports,6,92.02,0.05,524.51,Central
+2025-08-17,Yoga Mat,Sports,6,61.96,0.05,353.17,East
+2025-08-18,Desk Chair,Furniture,2,593.16,0.0,1186.32,North
+2025-08-18,Office Desk,Furniture,1,539.2,0.0,539.2,West
+2025-08-19,Desk Chair,Furniture,1,502.47,0.05,477.35,South
+2025-08-19,Desk Chair,Furniture,2,430.17,0.15,731.29,West
+2025-08-19,Desk Chair,Furniture,1,576.13,0.0,576.13,East
+2025-08-19,Office Desk,Furniture,1,357.16,0.15,303.59,East
+2025-08-19,Office Desk,Furniture,2,440.07,0.05,836.13,Central
+2025-08-20,Coffee Maker,Appliances,4,177.43,0.05,674.23,East
+2025-08-20,Coffee Maker,Appliances,2,198.19,0.0,396.38,Central
+2025-08-20,Laptop Pro,Electronics,3,738.29,0.1,1993.38,East
+2025-08-20,Office Desk,Furniture,1,278.59,0.0,278.59,South
+2025-08-20,Smartphone X,Electronics,1,1067.47,0.0,1067.47,Central
+2025-08-21,Backpack,Accessories,6,18.62,0.0,111.72,North
+2025-08-21,Backpack,Accessories,5,68.22,0.0,341.1,South
+2025-08-21,Blender,Appliances,3,102.99,0.0,308.97,East
+2025-08-21,Blender,Appliances,4,43.45,0.15,147.73,East
+2025-08-21,Wireless Headphones,Electronics,1,1014.63,0.05,963.9,East
+2025-08-22,Coffee Maker,Appliances,3,90.19,0.15,229.98,West
+2025-08-22,Desk Chair,Furniture,1,238.22,0.0,238.22,Central
+2025-08-22,Office Desk,Furniture,2,340.97,0.1,613.75,North
+2025-08-22,Running Shoes,Sports,3,109.81,0.05,312.96,North
+2025-08-23,Backpack,Accessories,9,33.12,0.0,298.08,Central
+2025-08-23,Office Desk,Furniture,1,291.07,0.1,261.96,Central
+2025-08-23,Wireless Headphones,Electronics,3,956.49,0.05,2726.0,East
+2025-08-24,Blender,Appliances,3,91.96,0.0,275.88,Central
+2025-08-24,Laptop Pro,Electronics,1,940.63,0.0,940.63,East
+2025-08-24,Office Desk,Furniture,2,242.4,0.15,412.08,North
+2025-08-25,Blender,Appliances,4,125.18,0.0,500.72,West
+2025-08-25,Coffee Maker,Appliances,1,106.96,0.1,96.26,Central
+2025-08-25,Running Shoes,Sports,4,29.26,0.0,117.04,North
+2025-08-25,Wireless Headphones,Electronics,2,983.44,0.0,1966.88,North
+2025-08-25,Yoga Mat,Sports,5,59.84,0.0,299.2,North
+2025-08-26,Backpack,Accessories,3,24.19,0.1,65.31,West
+2025-08-26,Coffee Maker,Appliances,1,80.53,0.15,68.45,East
+2025-08-26,Running Shoes,Sports,3,68.93,0.1,186.11,Central
+2025-08-26,Smartphone X,Electronics,2,621.71,0.1,1119.08,Central
+2025-08-27,Running Shoes,Sports,2,141.98,0.05,269.76,West
+2025-08-27,Smartphone X,Electronics,1,708.28,0.1,637.45,West
+2025-08-28,Desk Chair,Furniture,1,555.19,0.0,555.19,West
+2025-08-28,Office Desk,Furniture,1,299.65,0.0,299.65,North
+2025-08-28,Office Desk,Furniture,1,465.3,0.05,442.03,West
+2025-08-28,Wireless Headphones,Electronics,1,427.17,0.0,427.17,Central
+2025-08-28,Yoga Mat,Sports,4,47.62,0.15,161.91,South
+2025-08-29,Backpack,Accessories,6,28.99,0.0,173.94,South
+2025-08-29,Coffee Maker,Appliances,2,191.52,0.05,363.89,West
+2025-08-29,Desk Chair,Furniture,2,297.63,0.0,595.26,Central
+2025-08-29,Running Shoes,Sports,1,122.21,0.0,122.21,North
+2025-08-29,Wireless Headphones,Electronics,2,602.57,0.1,1084.63,West
+2025-08-30,Blender,Appliances,3,73.21,0.0,219.63,East
+2025-08-30,Running Shoes,Sports,1,137.71,0.0,137.71,South
+2025-08-30,Running Shoes,Sports,6,126.22,0.05,719.45,South
+2025-08-30,Running Shoes,Sports,5,45.24,0.15,192.27,Central
+2025-08-30,Yoga Mat,Sports,4,133.27,0.1,479.77,East
+2025-08-31,Running Shoes,Sports,6,96.48,0.0,578.88,North
+2025-08-31,Smartphone X,Electronics,3,641.48,0.0,1924.44,North
+2025-08-31,Wireless Headphones,Electronics,2,1019.62,0.1,1835.32,Central
+2025-08-31,Yoga Mat,Sports,5,35.81,0.05,170.1,West
+2025-09-01,Laptop Pro,Electronics,3,441.8,0.15,1126.59,North
+2025-09-01,Laptop Pro,Electronics,2,316.35,0.0,632.7,East
+2025-09-01,Office Desk,Furniture,1,429.6,0.0,429.6,North
+2025-09-01,Wireless Headphones,Electronics,1,471.52,0.15,400.79,North
+2025-09-02,Blender,Appliances,1,81.17,0.0,81.17,Central
+2025-09-02,Wireless Headphones,Electronics,1,1219.89,0.0,1219.89,East
+2025-09-03,Desk Chair,Furniture,1,361.89,0.0,361.89,Central
+2025-09-03,Laptop Pro,Electronics,3,647.65,0.0,1942.95,South
+2025-09-03,Laptop Pro,Electronics,3,917.07,0.0,2751.21,Central
+2025-09-03,Office Desk,Furniture,1,454.41,0.0,454.41,North
+2025-09-03,Yoga Mat,Sports,2,44.06,0.15,74.9,West
+2025-09-04,Office Desk,Furniture,2,480.56,0.0,961.12,North
+2025-09-04,Running Shoes,Sports,2,45.4,0.0,90.8,West
+2025-09-05,Backpack,Accessories,2,41.88,0.0,83.76,South
+2025-09-05,Smartphone X,Electronics,3,1056.75,0.05,3011.74,Central
+2025-09-06,Office Desk,Furniture,2,608.3,0.15,1034.11,South
+2025-09-06,Running Shoes,Sports,2,138.75,0.0,277.5,South
+2025-09-06,Smartphone X,Electronics,2,607.75,0.15,1033.17,East
+2025-09-07,Backpack,Accessories,7,77.58,0.05,515.91,South
+2025-09-07,Wireless Headphones,Electronics,4,881.75,0.0,3527.0,West
+2025-09-07,Wireless Headphones,Electronics,3,333.24,0.0,999.72,West
+2025-09-07,Wireless Headphones,Electronics,2,954.58,0.0,1909.16,West
+2025-09-08,Blender,Appliances,3,200.28,0.05,570.8,South
+2025-09-08,Coffee Maker,Appliances,4,75.77,0.0,303.08,South
+2025-09-08,Office Desk,Furniture,1,234.23,0.05,222.52,North
+2025-09-08,Yoga Mat,Sports,3,114.58,0.15,292.18,South
+2025-09-09,Coffee Maker,Appliances,2,74.89,0.0,149.78,North
+2025-09-09,Desk Chair,Furniture,2,472.24,0.0,944.48,South
+2025-09-09,Office Desk,Furniture,1,365.51,0.0,365.51,East
+2025-09-09,Wireless Headphones,Electronics,2,851.0,0.0,1702.0,Central
+2025-09-10,Backpack,Accessories,2,46.02,0.1,82.84,North
+2025-09-10,Backpack,Accessories,5,34.83,0.15,148.03,West
+2025-09-10,Blender,Appliances,2,188.22,0.05,357.62,Central
+2025-09-10,Office Desk,Furniture,2,349.08,0.0,698.16,South
+2025-09-11,Running Shoes,Sports,3,93.16,0.0,279.48,North
+2025-09-11,Running Shoes,Sports,6,64.24,0.0,385.44,South
+2025-09-11,Running Shoes,Sports,1,76.62,0.15,65.13,North
+2025-09-11,Running Shoes,Sports,2,77.62,0.0,155.24,Central
+2025-09-11,Yoga Mat,Sports,1,92.37,0.15,78.51,Central
+2025-09-12,Backpack,Accessories,5,75.1,0.0,375.5,Central
+2025-09-12,Backpack,Accessories,1,77.38,0.0,77.38,North
+2025-09-12,Running Shoes,Sports,4,52.67,0.1,189.61,West
+2025-09-12,Yoga Mat,Sports,1,130.28,0.0,130.28,Central
+2025-09-13,Backpack,Accessories,4,17.75,0.1,63.9,West
+2025-09-13,Blender,Appliances,4,159.63,0.05,606.59,South
+2025-09-13,Laptop Pro,Electronics,2,596.06,0.0,1192.12,South
+2025-09-13,Office Desk,Furniture,2,417.6,0.05,793.44,West
+2025-09-13,Yoga Mat,Sports,1,109.35,0.0,109.35,West
+2025-09-14,Backpack,Accessories,4,31.33,0.0,125.32,North
+2025-09-14,Office Desk,Furniture,1,390.03,0.0,390.03,Central
+2025-09-14,Running Shoes,Sports,2,53.08,0.05,100.85,South
+2025-09-14,Smartphone X,Electronics,1,1062.12,0.0,1062.12,North
+2025-09-14,Wireless Headphones,Electronics,3,748.62,0.0,2245.86,North
+2025-09-15,Coffee Maker,Appliances,1,30.69,0.0,30.69,West
+2025-09-15,Laptop Pro,Electronics,2,780.32,0.1,1404.58,Central
+2025-09-15,Smartphone X,Electronics,1,711.28,0.0,711.28,Central
+2025-09-15,Smartphone X,Electronics,2,962.63,0.15,1636.47,Central
+2025-09-16,Backpack,Accessories,4,40.54,0.15,137.84,East
+2025-09-16,Blender,Appliances,2,189.99,0.0,379.98,West
+2025-09-16,Wireless Headphones,Electronics,1,1075.91,0.0,1075.91,South
+2025-09-17,Coffee Maker,Appliances,2,189.35,0.0,378.7,East
+2025-09-17,Smartphone X,Electronics,2,595.56,0.15,1012.45,South
+2025-09-17,Wireless Headphones,Electronics,1,747.9,0.15,635.71,South
+2025-09-17,Yoga Mat,Sports,4,136.05,0.0,544.2,Central
+2025-09-18,Coffee Maker,Appliances,4,108.8,0.1,391.68,South
+2025-09-18,Wireless Headphones,Electronics,1,900.25,0.0,900.25,North
+2025-09-18,Wireless Headphones,Electronics,1,342.44,0.1,308.2,South
+2025-09-19,Blender,Appliances,3,88.27,0.0,264.81,South
+2025-09-19,Desk Chair,Furniture,2,600.45,0.0,1200.9,North
+2025-09-19,Desk Chair,Furniture,1,303.3,0.1,272.97,West
+2025-09-19,Laptop Pro,Electronics,1,700.23,0.15,595.2,Central
+2025-09-19,Laptop Pro,Electronics,1,999.4,0.05,949.43,Central
+2025-09-20,Coffee Maker,Appliances,1,103.03,0.1,92.73,South
+2025-09-20,Running Shoes,Sports,5,142.84,0.0,714.2,North
+2025-09-20,Running Shoes,Sports,6,134.45,0.0,806.7,South
+2025-09-20,Yoga Mat,Sports,2,83.27,0.1,149.89,East
+2025-09-21,Blender,Appliances,2,174.83,0.0,349.66,North
+2025-09-21,Blender,Appliances,3,150.8,0.1,407.16,West
+2025-09-22,Office Desk,Furniture,1,470.29,0.0,470.29,Central
+2025-09-22,Running Shoes,Sports,4,38.16,0.0,152.64,South
+2025-09-22,Yoga Mat,Sports,3,30.45,0.05,86.78,West
+2025-09-23,Backpack,Accessories,3,46.61,0.15,118.86,West
+2025-09-23,Coffee Maker,Appliances,4,69.6,0.0,278.4,East
+2025-09-23,Desk Chair,Furniture,1,481.94,0.0,481.94,West
+2025-09-23,Yoga Mat,Sports,1,22.93,0.0,22.93,West
+2025-09-23,Yoga Mat,Sports,3,51.46,0.0,154.38,South
+2025-09-24,Backpack,Accessories,5,62.47,0.0,312.35,Central
+2025-09-24,Laptop Pro,Electronics,3,405.98,0.0,1217.94,Central
+2025-09-24,Office Desk,Furniture,1,170.72,0.1,153.65,North
+2025-09-25,Coffee Maker,Appliances,1,83.7,0.0,83.7,East
+2025-09-25,Desk Chair,Furniture,1,460.1,0.0,460.1,South
+2025-09-25,Smartphone X,Electronics,3,375.83,0.1,1014.74,North
+2025-09-25,Wireless Headphones,Electronics,3,1227.16,0.1,3313.33,East
+2025-09-25,Yoga Mat,Sports,1,116.33,0.05,110.51,North
+2025-09-26,Backpack,Accessories,6,21.52,0.0,129.12,Central
+2025-09-26,Running Shoes,Sports,7,33.07,0.05,219.92,North
+2025-09-27,Desk Chair,Furniture,1,157.18,0.0,157.18,Central
+2025-09-27,Running Shoes,Sports,3,50.84,0.0,152.52,North
+2025-09-27,Wireless Headphones,Electronics,3,428.8,0.1,1157.76,East
+2025-09-27,Wireless Headphones,Electronics,1,1099.77,0.15,934.8,East
+2025-09-28,Blender,Appliances,4,101.35,0.15,344.59,East
+2025-09-28,Coffee Maker,Appliances,4,150.84,0.0,603.36,East
+2025-09-29,Office Desk,Furniture,1,584.75,0.1,526.27,East
+2025-09-29,Running Shoes,Sports,3,127.68,0.0,383.04,Central
+2025-09-29,Smartphone X,Electronics,1,1112.85,0.05,1057.21,North
+2025-09-29,Yoga Mat,Sports,2,100.45,0.0,200.9,North
+2025-09-30,Blender,Appliances,3,66.05,0.0,198.15,Central
+2025-09-30,Coffee Maker,Appliances,2,179.25,0.0,358.5,East
+2025-09-30,Coffee Maker,Appliances,2,157.28,0.0,314.56,East
+2025-09-30,Laptop Pro,Electronics,3,1014.49,0.0,3043.47,South
+2025-09-30,Wireless Headphones,Electronics,1,593.97,0.0,593.97,South
+2025-10-01,Laptop Pro,Electronics,1,711.86,0.05,676.27,East
+2025-10-01,Wireless Headphones,Electronics,2,775.27,0.0,1550.54,East
+2025-10-01,Yoga Mat,Sports,5,30.29,0.05,143.88,West
+2025-10-01,Yoga Mat,Sports,5,29.37,0.15,124.82,South
+2025-10-02,Blender,Appliances,2,170.5,0.05,323.95,South
+2025-10-02,Laptop Pro,Electronics,1,1254.88,0.0,1254.88,North
+2025-10-02,Running Shoes,Sports,6,50.34,0.0,302.04,South
+2025-10-03,Backpack,Accessories,2,17.31,0.05,32.89,Central
+2025-10-03,Laptop Pro,Electronics,3,693.98,0.05,1977.84,Central
+2025-10-03,Wireless Headphones,Electronics,1,1272.74,0.1,1145.47,West
+2025-10-03,Wireless Headphones,Electronics,1,1008.68,0.0,1008.68,North
+2025-10-03,Wireless Headphones,Electronics,1,745.51,0.0,745.51,North
+2025-10-04,Blender,Appliances,2,180.45,0.0,360.9,West
+2025-10-04,Desk Chair,Furniture,2,592.39,0.15,1007.06,West
+2025-10-04,Desk Chair,Furniture,1,330.54,0.0,330.54,East
+2025-10-05,Coffee Maker,Appliances,2,48.03,0.15,81.65,North
+2025-10-05,Laptop Pro,Electronics,2,887.14,0.0,1774.28,South
+2025-10-05,Running Shoes,Sports,3,23.27,0.0,69.81,North
+2025-10-05,Smartphone X,Electronics,1,1121.53,0.05,1065.45,South
+2025-10-05,Yoga Mat,Sports,5,31.02,0.05,147.34,East
+2025-10-06,Backpack,Accessories,5,42.46,0.0,212.3,East
+2025-10-06,Blender,Appliances,1,200.91,0.1,180.82,West
+2025-10-06,Coffee Maker,Appliances,1,121.21,0.0,121.21,South
+2025-10-06,Laptop Pro,Electronics,2,860.71,0.1,1549.28,West
+2025-10-06,Running Shoes,Sports,2,110.76,0.1,199.37,Central
+2025-10-07,Wireless Headphones,Electronics,2,726.09,0.0,1452.18,West
+2025-10-07,Yoga Mat,Sports,2,37.59,0.0,75.18,North
+2025-10-08,Backpack,Accessories,4,70.71,0.05,268.7,North
+2025-10-08,Desk Chair,Furniture,1,235.77,0.0,235.77,East
+2025-10-08,Wireless Headphones,Electronics,1,840.51,0.15,714.43,East
+2025-10-09,Backpack,Accessories,6,69.33,0.0,415.98,West
+2025-10-09,Blender,Appliances,1,134.72,0.0,134.72,Central
+2025-10-09,Coffee Maker,Appliances,3,176.72,0.15,450.64,Central
+2025-10-09,Running Shoes,Sports,3,28.72,0.0,86.16,Central
+2025-10-10,Backpack,Accessories,1,35.62,0.0,35.62,North
+2025-10-10,Blender,Appliances,3,68.71,0.0,206.13,West
+2025-10-10,Desk Chair,Furniture,1,370.13,0.0,370.13,South
+2025-10-10,Laptop Pro,Electronics,2,708.39,0.1,1275.1,East
+2025-10-10,Yoga Mat,Sports,3,77.55,0.0,232.65,East
+2025-10-11,Backpack,Accessories,2,12.16,0.0,24.32,West
+2025-10-11,Laptop Pro,Electronics,3,446.3,0.15,1138.07,North
+2025-10-11,Smartphone X,Electronics,3,685.63,0.0,2056.89,Central
+2025-10-12,Coffee Maker,Appliances,4,153.18,0.05,582.08,Central
+2025-10-12,Desk Chair,Furniture,1,527.1,0.0,527.1,South
+2025-10-12,Laptop Pro,Electronics,2,624.98,0.0,1249.96,Central
+2025-10-12,Wireless Headphones,Electronics,3,558.06,0.0,1674.18,South
+2025-10-13,Backpack,Accessories,8,26.35,0.0,210.8,East
+2025-10-13,Office Desk,Furniture,1,521.35,0.0,521.35,North
+2025-10-13,Smartphone X,Electronics,1,782.84,0.15,665.41,North
+2025-10-14,Desk Chair,Furniture,2,289.61,0.0,579.22,East
+2025-10-14,Desk Chair,Furniture,1,472.7,0.0,472.7,Central
+2025-10-14,Running Shoes,Sports,5,78.8,0.15,334.9,East
+2025-10-14,Wireless Headphones,Electronics,1,1127.39,0.05,1071.02,Central
+2025-10-15,Backpack,Accessories,7,41.48,0.0,290.36,South
+2025-10-15,Laptop Pro,Electronics,2,383.07,0.0,766.14,West
+2025-10-15,Laptop Pro,Electronics,2,502.54,0.1,904.57,South
+2025-10-15,Laptop Pro,Electronics,1,338.51,0.0,338.51,North
+2025-10-15,Smartphone X,Electronics,2,459.25,0.0,918.5,North
+2025-10-16,Backpack,Accessories,3,15.49,0.05,44.15,North
+2025-10-16,Coffee Maker,Appliances,3,85.71,0.1,231.42,East
+2025-10-16,Coffee Maker,Appliances,2,180.97,0.0,361.94,East
+2025-10-16,Wireless Headphones,Electronics,3,664.37,0.05,1893.45,Central
+2025-10-16,Yoga Mat,Sports,3,108.67,0.1,293.41,West
+2025-10-17,Blender,Appliances,3,171.77,0.05,489.54,South
+2025-10-17,Blender,Appliances,1,160.76,0.15,136.65,West
+2025-10-17,Coffee Maker,Appliances,1,93.92,0.05,89.22,South
+2025-10-17,Office Desk,Furniture,1,560.39,0.0,560.39,South
+2025-10-17,Office Desk,Furniture,1,502.5,0.15,427.12,West
+2025-10-18,Backpack,Accessories,5,31.61,0.0,158.05,South
+2025-10-18,Laptop Pro,Electronics,1,360.32,0.0,360.32,North
+2025-10-18,Office Desk,Furniture,1,240.07,0.0,240.07,West
+2025-10-18,Wireless Headphones,Electronics,2,1151.45,0.1,2072.61,Central
+2025-10-19,Blender,Appliances,3,111.17,0.05,316.83,North
+2025-10-19,Coffee Maker,Appliances,3,119.25,0.0,357.75,East
+2025-10-19,Office Desk,Furniture,2,370.83,0.05,704.58,West
+2025-10-19,Office Desk,Furniture,2,279.63,0.15,475.37,East
+2025-10-19,Yoga Mat,Sports,8,147.32,0.15,1001.78,Central
+2025-10-20,Coffee Maker,Appliances,1,103.78,0.05,98.59,West
+2025-10-20,Desk Chair,Furniture,2,510.51,0.0,1021.02,North
+2025-10-20,Laptop Pro,Electronics,3,1264.05,0.0,3792.15,West
+2025-10-20,Office Desk,Furniture,1,335.49,0.0,335.49,West
+2025-10-20,Running Shoes,Sports,5,139.79,0.1,629.05,South
+2025-10-21,Blender,Appliances,2,110.99,0.15,188.68,Central
+2025-10-21,Blender,Appliances,2,75.66,0.05,143.75,Central
+2025-10-21,Laptop Pro,Electronics,1,1107.05,0.1,996.35,Central
+2025-10-21,Yoga Mat,Sports,2,133.49,0.05,253.63,East
+2025-10-21,Yoga Mat,Sports,5,80.6,0.0,403.0,North
+2025-10-22,Backpack,Accessories,5,65.63,0.0,328.15,North
+2025-10-22,Coffee Maker,Appliances,1,79.38,0.05,75.41,South
+2025-10-23,Desk Chair,Furniture,1,301.86,0.15,256.58,Central
+2025-10-23,Running Shoes,Sports,6,135.52,0.05,772.46,South
+2025-10-23,Yoga Mat,Sports,1,86.84,0.0,86.84,East
+2025-10-23,Yoga Mat,Sports,5,97.15,0.0,485.75,Central
+2025-10-23,Yoga Mat,Sports,6,98.77,0.0,592.62,South
+2025-10-24,Smartphone X,Electronics,3,575.93,0.0,1727.79,Central
+2025-10-24,Smartphone X,Electronics,1,968.69,0.1,871.82,North
+2025-10-24,Wireless Headphones,Electronics,1,562.13,0.05,534.02,West
+2025-10-25,Backpack,Accessories,5,37.4,0.0,187.0,South
+2025-10-25,Backpack,Accessories,9,66.86,0.0,601.74,West
+2025-10-25,Laptop Pro,Electronics,2,788.61,0.0,1577.22,Central
+2025-10-25,Wireless Headphones,Electronics,2,353.98,0.0,707.96,Central
+2025-10-26,Desk Chair,Furniture,1,472.16,0.0,472.16,East
+2025-10-26,Laptop Pro,Electronics,1,1081.93,0.15,919.64,Central
+2025-10-27,Smartphone X,Electronics,1,796.01,0.0,796.01,North
+2025-10-27,Wireless Headphones,Electronics,1,829.83,0.15,705.36,South
+2025-10-28,Backpack,Accessories,5,40.31,0.05,191.47,East
+2025-10-28,Backpack,Accessories,7,51.05,0.1,321.61,South
+2025-10-28,Desk Chair,Furniture,1,230.23,0.0,230.23,East
+2025-10-28,Office Desk,Furniture,2,356.94,0.05,678.19,South
+2025-10-29,Blender,Appliances,3,179.55,0.0,538.65,South
+2025-10-29,Laptop Pro,Electronics,3,924.01,0.0,2772.03,Central
+2025-10-29,Office Desk,Furniture,1,318.89,0.1,287.0,North
+2025-10-29,Smartphone X,Electronics,2,490.6,0.0,981.2,Central
+2025-10-29,Smartphone X,Electronics,2,1317.3,0.1,2371.14,East
+2025-10-30,Backpack,Accessories,4,49.0,0.15,166.6,South
+2025-10-30,Desk Chair,Furniture,1,215.68,0.0,215.68,Central
+2025-10-30,Smartphone X,Electronics,3,731.3,0.0,2193.9,East
+2025-10-31,Desk Chair,Furniture,1,204.11,0.1,183.7,West
+2025-10-31,Office Desk,Furniture,2,322.34,0.1,580.21,East
+2025-10-31,Smartphone X,Electronics,2,625.6,0.0,1251.2,Central
+2025-11-01,Blender,Appliances,1,121.74,0.05,115.65,South
+2025-11-01,Blender,Appliances,1,144.2,0.1,129.78,North
+2025-11-01,Office Desk,Furniture,2,366.17,0.0,732.34,Central
+2025-11-01,Smartphone X,Electronics,3,519.95,0.0,1559.85,West
+2025-11-02,Backpack,Accessories,8,15.92,0.1,114.62,East
+2025-11-02,Coffee Maker,Appliances,5,29.64,0.15,125.97,South
+2025-11-02,Desk Chair,Furniture,2,269.54,0.0,539.08,West
+2025-11-02,Running Shoes,Sports,5,27.89,0.0,139.45,Central
+2025-11-03,Backpack,Accessories,4,59.68,0.15,202.91,North
+2025-11-03,Wireless Headphones,Electronics,3,1304.28,0.0,3912.84,East
+2025-11-04,Backpack,Accessories,8,38.11,0.0,304.88,Central
+2025-11-04,Running Shoes,Sports,3,49.91,0.05,142.24,West
+2025-11-04,Wireless Headphones,Electronics,3,553.46,0.0,1660.38,North
+2025-11-04,Yoga Mat,Sports,3,96.72,0.0,290.16,West
+2025-11-05,Backpack,Accessories,8,19.02,0.0,152.16,Central
+2025-11-05,Backpack,Accessories,3,13.59,0.1,36.69,East
+2025-11-05,Blender,Appliances,3,80.35,0.0,241.05,South
+2025-11-05,Office Desk,Furniture,2,308.06,0.0,616.12,Central
+2025-11-05,Running Shoes,Sports,5,28.15,0.1,126.67,East
+2025-11-06,Desk Chair,Furniture,2,355.13,0.05,674.75,East
+2025-11-06,Laptop Pro,Electronics,2,412.62,0.0,825.24,South
+2025-11-06,Laptop Pro,Electronics,1,1183.75,0.0,1183.75,Central
+2025-11-06,Office Desk,Furniture,2,215.63,0.0,431.26,North
+2025-11-07,Backpack,Accessories,10,22.99,0.0,229.9,South
+2025-11-07,Blender,Appliances,1,150.97,0.15,128.32,North
+2025-11-07,Coffee Maker,Appliances,3,146.36,0.1,395.17,Central
+2025-11-07,Desk Chair,Furniture,2,253.65,0.0,507.3,South
+2025-11-07,Running Shoes,Sports,2,139.74,0.1,251.53,East
+2025-11-08,Laptop Pro,Electronics,2,660.46,0.0,1320.92,North
+2025-11-08,Smartphone X,Electronics,3,1281.04,0.05,3650.96,West
+2025-11-09,Backpack,Accessories,6,75.43,0.0,452.58,West
+2025-11-09,Coffee Maker,Appliances,1,162.34,0.0,162.34,Central
+2025-11-09,Coffee Maker,Appliances,1,45.59,0.0,45.59,West
+2025-11-09,Laptop Pro,Electronics,3,501.77,0.05,1430.04,South
+2025-11-09,Running Shoes,Sports,1,126.33,0.05,120.01,East
+2025-11-10,Blender,Appliances,2,103.31,0.15,175.63,North
+2025-11-10,Coffee Maker,Appliances,2,104.63,0.0,209.26,South
+2025-11-10,Desk Chair,Furniture,1,266.77,0.0,266.77,West
+2025-11-10,Desk Chair,Furniture,1,218.63,0.0,218.63,East
+2025-11-10,Wireless Headphones,Electronics,3,314.02,0.0,942.06,Central
+2025-11-11,Backpack,Accessories,1,43.6,0.05,41.42,North
+2025-11-11,Yoga Mat,Sports,5,119.8,0.1,539.1,West
+2025-11-12,Blender,Appliances,1,86.81,0.0,86.81,East
+2025-11-12,Coffee Maker,Appliances,5,97.62,0.0,488.1,East
+2025-11-12,Office Desk,Furniture,1,283.89,0.1,255.5,North
+2025-11-12,Smartphone X,Electronics,1,311.25,0.05,295.69,West
+2025-11-13,Coffee Maker,Appliances,1,114.99,0.1,103.49,Central
+2025-11-13,Laptop Pro,Electronics,3,322.41,0.0,967.23,East
+2025-11-13,Laptop Pro,Electronics,2,662.19,0.05,1258.16,North
+2025-11-13,Running Shoes,Sports,6,145.53,0.05,829.52,East
+2025-11-13,Smartphone X,Electronics,1,956.72,0.1,861.05,North
+2025-11-14,Blender,Appliances,1,53.04,0.0,53.04,Central
+2025-11-14,Coffee Maker,Appliances,5,56.05,0.1,252.22,Central
+2025-11-14,Laptop Pro,Electronics,1,603.06,0.0,603.06,West
+2025-11-15,Backpack,Accessories,5,19.76,0.1,88.92,Central
+2025-11-15,Laptop Pro,Electronics,2,530.46,0.05,1007.87,East
+2025-11-15,Office Desk,Furniture,1,554.28,0.15,471.14,South
+2025-11-15,Smartphone X,Electronics,3,579.72,0.05,1652.2,East
+2025-11-15,Wireless Headphones,Electronics,3,997.88,0.05,2843.96,North
+2025-11-16,Coffee Maker,Appliances,2,187.0,0.15,317.9,South
+2025-11-16,Coffee Maker,Appliances,4,103.02,0.0,412.08,Central
+2025-11-16,Running Shoes,Sports,4,37.16,0.05,141.21,East
+2025-11-16,Wireless Headphones,Electronics,3,1278.07,0.15,3259.08,East
+2025-11-17,Coffee Maker,Appliances,3,86.06,0.0,258.18,North
+2025-11-17,Laptop Pro,Electronics,1,951.19,0.1,856.07,West
+2025-11-17,Running Shoes,Sports,2,72.79,0.15,123.74,East
+2025-11-17,Yoga Mat,Sports,7,113.08,0.15,672.83,East
+2025-11-18,Running Shoes,Sports,4,103.26,0.0,413.04,South
+2025-11-18,Running Shoes,Sports,1,36.31,0.0,36.31,North
+2025-11-18,Smartphone X,Electronics,3,431.12,0.0,1293.36,South
+2025-11-18,Wireless Headphones,Electronics,2,989.08,0.0,1978.16,North
+2025-11-19,Backpack,Accessories,8,30.52,0.0,244.16,Central
+2025-11-19,Backpack,Accessories,2,33.18,0.1,59.72,Central
+2025-11-19,Laptop Pro,Electronics,1,674.16,0.0,674.16,South
+2025-11-19,Laptop Pro,Electronics,3,551.83,0.05,1572.72,South
+2025-11-19,Wireless Headphones,Electronics,3,630.5,0.0,1891.5,West
+2025-11-20,Coffee Maker,Appliances,1,143.06,0.0,143.06,East
+2025-11-20,Office Desk,Furniture,1,513.14,0.0,513.14,South
+2025-11-21,Coffee Maker,Appliances,1,121.83,0.0,121.83,South
+2025-11-21,Desk Chair,Furniture,1,477.44,0.0,477.44,West
+2025-11-21,Desk Chair,Furniture,2,579.49,0.1,1043.08,East
+2025-11-21,Office Desk,Furniture,2,549.76,0.15,934.59,Central
+2025-11-21,Wireless Headphones,Electronics,2,1192.51,0.15,2027.27,East
+2025-11-22,Coffee Maker,Appliances,4,196.82,0.0,787.28,West
+2025-11-22,Laptop Pro,Electronics,4,1116.88,0.15,3797.39,West
+2025-11-23,Blender,Appliances,3,86.27,0.0,258.81,Central
+2025-11-23,Blender,Appliances,2,141.21,0.0,282.42,South
+2025-11-23,Blender,Appliances,2,154.61,0.0,309.22,East
+2025-11-23,Laptop Pro,Electronics,3,1022.01,0.15,2606.13,West
+2025-11-23,Smartphone X,Electronics,1,966.33,0.0,966.33,West
+2025-11-24,Backpack,Accessories,5,46.94,0.0,234.7,West
+2025-11-24,Blender,Appliances,4,86.5,0.15,294.1,West
+2025-11-24,Blender,Appliances,2,54.08,0.15,91.94,North
+2025-11-25,Desk Chair,Furniture,2,388.78,0.0,777.56,South
+2025-11-25,Wireless Headphones,Electronics,2,323.94,0.0,647.88,East
+2025-11-26,Backpack,Accessories,3,44.0,0.0,132.0,Central
+2025-11-26,Running Shoes,Sports,5,103.89,0.1,467.51,South
+2025-11-27,Desk Chair,Furniture,2,275.44,0.1,495.79,North
+2025-11-27,Office Desk,Furniture,1,530.1,0.15,450.58,East
+2025-11-27,Wireless Headphones,Electronics,3,398.61,0.15,1016.46,Central
+2025-11-28,Backpack,Accessories,4,57.81,0.05,219.68,Central
+2025-11-28,Coffee Maker,Appliances,4,73.43,0.0,293.72,West
+2025-11-28,Laptop Pro,Electronics,2,409.65,0.0,819.3,Central
+2025-11-28,Office Desk,Furniture,1,426.68,0.0,426.68,West
+2025-11-28,Running Shoes,Sports,4,94.01,0.0,376.04,South
+2025-11-29,Backpack,Accessories,9,38.98,0.05,333.28,North
+2025-11-29,Blender,Appliances,2,145.91,0.05,277.23,East
+2025-11-29,Desk Chair,Furniture,1,451.47,0.0,451.47,South
+2025-11-29,Desk Chair,Furniture,2,188.48,0.0,376.96,East
+2025-11-29,Running Shoes,Sports,6,29.35,0.15,149.69,Central
+2025-11-30,Backpack,Accessories,8,17.36,0.1,124.99,Central
+2025-11-30,Backpack,Accessories,4,33.9,0.05,128.82,Central
+2025-11-30,Coffee Maker,Appliances,1,198.12,0.0,198.12,North
+2025-11-30,Smartphone X,Electronics,2,696.13,0.0,1392.26,South
+2025-12-01,Backpack,Accessories,5,29.12,0.05,138.32,North
+2025-12-01,Smartphone X,Electronics,1,1121.03,0.1,1008.93,West
+2025-12-01,Smartphone X,Electronics,1,739.35,0.0,739.35,Central
+2025-12-01,Wireless Headphones,Electronics,3,421.49,0.0,1264.47,East
+2025-12-01,Wireless Headphones,Electronics,3,535.8,0.0,1607.4,West
+2025-12-02,Blender,Appliances,1,49.9,0.0,49.9,West
+2025-12-02,Laptop Pro,Electronics,2,1201.11,0.1,2162.0,Central
+2025-12-02,Running Shoes,Sports,4,44.11,0.15,149.97,North
+2025-12-02,Smartphone X,Electronics,2,532.69,0.0,1065.38,West
+2025-12-02,Wireless Headphones,Electronics,1,1298.43,0.0,1298.43,Central
+2025-12-03,Backpack,Accessories,2,64.53,0.05,122.61,East
+2025-12-03,Running Shoes,Sports,5,58.77,0.05,279.16,North
+2025-12-04,Backpack,Accessories,5,28.38,0.1,127.71,East
+2025-12-04,Coffee Maker,Appliances,4,196.01,0.0,784.04,Central
+2025-12-04,Desk Chair,Furniture,2,450.17,0.1,810.31,Central
+2025-12-04,Laptop Pro,Electronics,1,951.94,0.0,951.94,South
+2025-12-04,Smartphone X,Electronics,2,676.82,0.05,1285.96,Central
+2025-12-05,Wireless Headphones,Electronics,1,720.08,0.1,648.07,Central
+2025-12-05,Wireless Headphones,Electronics,1,746.97,0.15,634.92,West
+2025-12-05,Yoga Mat,Sports,1,133.61,0.1,120.25,South
+2025-12-06,Backpack,Accessories,5,55.99,0.15,237.96,South
+2025-12-06,Office Desk,Furniture,2,570.43,0.0,1140.86,West
+2025-12-06,Running Shoes,Sports,4,126.44,0.0,505.76,West
+2025-12-06,Smartphone X,Electronics,3,1190.16,0.0,3570.48,West
+2025-12-07,Blender,Appliances,1,130.89,0.0,130.89,East
+2025-12-07,Office Desk,Furniture,2,526.3,0.0,1052.6,North
+2025-12-07,Running Shoes,Sports,1,32.6,0.05,30.97,East
+2025-12-07,Wireless Headphones,Electronics,1,1310.79,0.0,1310.79,East
+2025-12-07,Yoga Mat,Sports,7,129.31,0.1,814.65,East
+2025-12-08,Office Desk,Furniture,1,289.08,0.1,260.17,East
+2025-12-08,Yoga Mat,Sports,4,98.54,0.0,394.16,South
+2025-12-09,Desk Chair,Furniture,2,334.74,0.0,669.48,Central
+2025-12-09,Desk Chair,Furniture,2,497.39,0.05,945.04,South
+2025-12-09,Smartphone X,Electronics,1,404.14,0.05,383.93,West
+2025-12-09,Yoga Mat,Sports,2,123.66,0.0,247.32,East
+2025-12-09,Yoga Mat,Sports,5,33.93,0.0,169.65,North
+2025-12-10,Coffee Maker,Appliances,3,112.85,0.15,287.77,South
+2025-12-10,Wireless Headphones,Electronics,1,748.72,0.0,748.72,North
+2025-12-11,Coffee Maker,Appliances,1,54.79,0.15,46.57,West
+2025-12-11,Laptop Pro,Electronics,1,1083.6,0.1,975.24,West
+2025-12-11,Office Desk,Furniture,1,550.55,0.05,523.02,North
+2025-12-11,Wireless Headphones,Electronics,3,1212.14,0.05,3454.6,East
+2025-12-12,Desk Chair,Furniture,1,199.7,0.1,179.73,North
+2025-12-12,Desk Chair,Furniture,2,482.86,0.05,917.43,North
+2025-12-12,Office Desk,Furniture,1,616.85,0.0,616.85,Central
+2025-12-12,Running Shoes,Sports,4,123.77,0.05,470.33,South
+2025-12-12,Smartphone X,Electronics,3,309.86,0.0,929.58,South
+2025-12-13,Office Desk,Furniture,1,257.43,0.1,231.69,East
+2025-12-13,Wireless Headphones,Electronics,1,838.36,0.15,712.61,West
+2025-12-13,Yoga Mat,Sports,5,58.24,0.0,291.2,Central
+2025-12-13,Yoga Mat,Sports,8,30.48,0.1,219.46,West
+2025-12-14,Office Desk,Furniture,3,325.96,0.1,880.09,West
+2025-12-14,Wireless Headphones,Electronics,1,369.33,0.0,369.33,East
+2025-12-15,Blender,Appliances,3,124.02,0.0,372.06,East
+2025-12-15,Blender,Appliances,3,160.72,0.0,482.16,South
+2025-12-15,Running Shoes,Sports,5,122.5,0.1,551.25,North
+2025-12-15,Running Shoes,Sports,3,65.07,0.0,195.21,East
+2025-12-15,Wireless Headphones,Electronics,1,369.31,0.0,369.31,South
+2025-12-16,Coffee Maker,Appliances,4,86.65,0.05,329.27,Central
+2025-12-16,Desk Chair,Furniture,2,541.87,0.1,975.37,West
+2025-12-16,Office Desk,Furniture,2,456.0,0.0,912.0,North
+2025-12-16,Yoga Mat,Sports,1,37.21,0.15,31.63,Central
+2025-12-17,Backpack,Accessories,5,65.37,0.0,326.85,South
+2025-12-17,Blender,Appliances,4,80.47,0.0,321.88,South
+2025-12-17,Blender,Appliances,1,88.43,0.0,88.43,South
+2025-12-17,Coffee Maker,Appliances,2,48.2,0.15,81.94,North
+2025-12-17,Desk Chair,Furniture,2,484.96,0.0,969.92,West
+2025-12-18,Blender,Appliances,2,194.58,0.1,350.24,South
+2025-12-18,Blender,Appliances,3,171.64,0.0,514.92,North
+2025-12-18,Office Desk,Furniture,1,483.07,0.05,458.92,Central
+2025-12-18,Yoga Mat,Sports,7,90.92,0.0,636.44,Central
+2025-12-19,Coffee Maker,Appliances,1,98.61,0.1,88.75,East
+2025-12-19,Office Desk,Furniture,1,305.33,0.0,305.33,Central
+2025-12-20,Backpack,Accessories,11,47.01,0.0,517.11,West
+2025-12-20,Laptop Pro,Electronics,4,426.38,0.05,1620.24,Central
+2025-12-20,Laptop Pro,Electronics,2,846.67,0.15,1439.34,West
+2025-12-21,Desk Chair,Furniture,1,254.32,0.1,228.89,West
+2025-12-21,Laptop Pro,Electronics,1,1020.6,0.0,1020.6,North
+2025-12-21,Laptop Pro,Electronics,1,809.56,0.0,809.56,North
+2025-12-22,Blender,Appliances,2,191.28,0.1,344.3,South
+2025-12-22,Coffee Maker,Appliances,4,70.93,0.0,283.72,Central
+2025-12-22,Desk Chair,Furniture,1,502.0,0.1,451.8,West
+2025-12-22,Laptop Pro,Electronics,1,922.04,0.0,922.04,South
+2025-12-22,Office Desk,Furniture,1,323.69,0.1,291.32,South
+2025-12-23,Coffee Maker,Appliances,4,80.74,0.0,322.96,South
+2025-12-23,Laptop Pro,Electronics,2,809.97,0.0,1619.94,Central
+2025-12-23,Running Shoes,Sports,6,97.85,0.15,499.03,Central
+2025-12-23,Wireless Headphones,Electronics,2,1098.5,0.0,2197.0,West
+2025-12-24,Coffee Maker,Appliances,1,93.47,0.0,93.47,Central
+2025-12-24,Smartphone X,Electronics,1,1043.83,0.0,1043.83,East
+2025-12-24,Wireless Headphones,Electronics,1,699.18,0.15,594.3,North
+2025-12-25,Running Shoes,Sports,2,69.91,0.0,139.82,Central
+2025-12-25,Smartphone X,Electronics,1,641.84,0.0,641.84,East
+2025-12-26,Coffee Maker,Appliances,1,146.2,0.0,146.2,South
+2025-12-26,Laptop Pro,Electronics,1,947.14,0.0,947.14,East
+2025-12-26,Office Desk,Furniture,2,262.79,0.0,525.58,North
+2025-12-26,Yoga Mat,Sports,3,70.5,0.0,211.5,South
+2025-12-27,Blender,Appliances,1,194.1,0.0,194.1,South
+2025-12-27,Yoga Mat,Sports,6,136.33,0.1,736.18,Central
+2025-12-28,Blender,Appliances,1,201.15,0.15,170.98,North
+2025-12-28,Blender,Appliances,1,145.59,0.15,123.75,West
+2025-12-28,Desk Chair,Furniture,2,581.22,0.0,1162.44,North
+2025-12-28,Smartphone X,Electronics,2,705.74,0.15,1199.76,West
+2025-12-28,Smartphone X,Electronics,3,411.0,0.05,1171.35,South
+2025-12-29,Desk Chair,Furniture,2,183.43,0.1,330.17,North
+2025-12-29,Yoga Mat,Sports,1,151.34,0.0,151.34,Central
+2025-12-30,Desk Chair,Furniture,1,622.6,0.0,622.6,South
+2025-12-30,Laptop Pro,Electronics,2,1143.06,0.05,2171.81,North
+2025-12-30,Wireless Headphones,Electronics,3,943.54,0.0,2830.62,East

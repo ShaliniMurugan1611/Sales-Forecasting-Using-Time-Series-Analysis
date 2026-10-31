@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Forecasting using Time-Series Analysis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <nav class="col-md-3 col-lg-2 d-md-block sidebar collapse">
+                <div class="position-sticky pt-3">
+                    <div class="sidebar-header">
+                        <h5 class="text-white"><i class="bi bi-graph-up-arrow"></i> Sales Forecasting</h5>
+                    </div>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#" data-page="overview">
+                                <i class="bi bi-speedometer2"></i> Overview
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-page="analytics">
+                                <i class="bi bi-bar-chart-line"></i> Sales Analytics
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-page="forecasting">
+                                <i class="bi bi-calculator"></i> Forecasting
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-page="comparison">
+                                <i class="bi bi-compare"></i> Model Comparison
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-page="dataset">
+                                <i class="bi bi-database"></i> Dataset Management
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-page="history">
+                                <i class="bi bi-clock-history"></i> Forecast History
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" data-page="about">
+                                <i class="bi bi-info-circle"></i> About Project
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <!-- Main content -->
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                    <h1 class="h2" id="pageTitle">Overview</h1>
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <button class="btn btn-sm btn-outline-secondary" id="refreshBtn">
+                            <i class="bi bi-arrow-clockwise"></i> Refresh
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Alert container -->
+                <div id="alertContainer"></div>
+
+                <!-- Overview Page -->
+                <div id="page-overview" class="page-content">
+                    <div class="row mb-4">
+                        <div class="col-md-4 col-lg-2 mb-3">
+                            <div class="card kpi-card">
+                                <div class="card-body">
+                                    <h6 class="card-subtitle mb-2 text-muted">Total Revenue</h6>
+                                    <h4 class="card-title" id="kpi-revenue">$0</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-2 mb-3">
+                            <div class="card kpi-card">
+                                <div class="card-body">
+                                    <h6 class="card-subtitle mb-2 text-muted">Total Records</h6>
+                                    <h4 class="card-title" id="kpi-orders">0</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-2 mb-3">
+                            <div class="card kpi-card">
+                                <div class="card-body">
+                                    <h6 class="card-subtitle mb-2 text-muted">Avg Daily Sales</h6>
+                                    <h4 class="card-title" id="kpi-avg">$0</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-2 mb-3">
+                            <div class="card kpi-card">
+                                <div class="card-body">
+                                    <h6 class="card-subtitle mb-2 text-muted">Best Seller</h6>
+                                    <h6 class="card-title" id="kpi-best">N/A</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-2 mb-3">
+                            <div class="card kpi-card">
+                                <div class="card-body">
+                                    <h6 class="card-subtitle mb-2 text-muted">Predicted Revenue</h6>
+                                    <h4 class="card-title" id="kpi-pred">N/A</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-lg-2 mb-3">
+                            <div class="card kpi-card">
+                                <div class="card-body">
+                                    <h6 class="card-subtitle mb-2 text-muted">Best Model</h6>
+                                    <h6 class="card-title" id="kpi-model">N/A</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-4">
+                        <div class="col-lg-8 mb-3">
+                            <div class="card">
+                                <div class="card-header">Historical Sales Trend</div>
+                                <div class="card-body">
+                                    <canvas id="historicalChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-3">
+                            <div class="card">
+                                <div class="card-header">Product-wise Sales</div>
+                                <div class="card-body">
+                                    <canvas id="productChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-4">
+                        <div class="col-lg-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">Monthly Sales Trend</div>
+                                <div class="card-body">
+                                    <canvas id="monthlyChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">Business Insights</div>
+                                <div class="card-body">
+                                    <ul id="insightsList" class="list-group list-group-flush">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Analytics Page -->
+                <div id="page-analytics" class="page-content" style="display:none;">
+                    <div class="row mb-4">
+                        <div class="col-lg-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">Sales by Day of Week</div>
+                                <div class="card-body">
+                                    <canvas id="dowChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">Sales by Category</div>
+                                <div class="card-body">
+                                    <canvas id="categoryChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mb-4">
+                        <div class="col-lg-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">Sales by Region</div>
+                                <div class="card-body">
+                                    <canvas id="regionChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 mb-3">
+                            <div class="card">
+                                <div class="card-header">Trend Analysis</div>
+                                <div class="card-body">
+                                    <p><strong>Trend:</strong> <span id="trendStatus">-</span></p>
+                                    <div id="analyticsInsights"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Forecasting Page -->
+                <div id="page-forecasting" class="page-content" style="display:none;">
+                    <div class="card mb-4">
+                        <div class="card-header">Generate Forecast</div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Product</label>
+                                    <select class="form-select" id="forecastProduct">
+                                        <option value="all">All Products</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Region</label>
+                                    <select class="form-select" id="forecastRegion">
+                                        <option value="all">All Regions</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Forecast Horizon</label>
+                                    <select class="form-select" id="forecastHorizon">
+                                        <option value="7">7 Days</option>
+                                        <option value="14">14 Days</option>
+                                        <option value="30" selected>30 Days</option>
+                                        <option value="90">90 Days</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Algorithm</label>
+                                    <select class="form-select" id="forecastModel">
+                                        <option value="naive">Naive Forecast</option>
+                                        <option value="arima">ARIMA</option>
+                                        <option value="random_forest">Random Forest</option>
+                                        <option value="linear_regression">Linear Regression</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <button class="btn btn-primary" id="generateForecastBtn">
+                                <i class="bi bi-play-circle"></i> Generate Forecast
+                            </button>
+                            <div class="alert alert-info mt-2">
+                                <small><strong>Note:</strong> Forecasts are estimates, not guaranteed future sales.</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="forecastResults" style="display:none;">
+                        <div class="card mb-4">
+                            <div class="card-header">Forecast Results</div>
+                            <div class="card-body">
+                                <canvas id="forecastChart"></canvas>
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-6 mb-3">
+                                <div class="card">
+                                    <div class="card-header">Forecast Summary</div>
+                                    <div class="card-body" id="forecastSummary">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="card">
+                                    <div class="card-header">Business Insights</div>
+                                    <div class="card-body">
+                                        <ul id="forecastInsightsList" class="list-group list-group-flush"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="btn btn-success" id="downloadForecastBtn">
+                            <i class="bi bi-download"></i> Download Forecast CSV
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Model Comparison Page -->
+                <div id="page-comparison" class="page-content" style="display:none;">
+                    <div class="card mb-4">
+                        <div class="card-header">Model Comparison</div>
+                        <div class="card-body">
+                            <button class="btn btn-primary mb-3" id="compareModelsBtn">
+                                <i class="bi bi-arrow-left-right"></i> Compare All Models
+                            </button>
+                            <div class="table-responsive">
+                                <table class="table table-striped" id="comparisonTable">
+                                    <thead>
+                                        <tr>
+                                            <th>Model Name</th>
+                                            <th>MAE</th>
+                                            <th>RMSE</th>
+                                            <th>MAPE</th>
+                                            <th>WAPE</th>
+                                            <th>R²</th>
+                                            <th>Training Status</th>
+                                            <th>Evaluation Status</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div id="bestModelInfo" class="alert alert-success" style="display:none;"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dataset Management Page -->
+                <div id="page-dataset" class="page-content" style="display:none;">
+                    <div class="card mb-4">
+                        <div class="card-header">Upload CSV Dataset</div>
+                        <div class="card-body">
+                            <form id="uploadForm" enctype="multipart/form-data">
+                                <div class="mb-3">
+                                    <label class="form-label">Select CSV File</label>
+                                    <input type="file" class="form-control" id="csvFile" accept=".csv">
+                                </div>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="bi bi-upload"></i> Upload
+                                </button>
+                            </form>
+                            <div class="mt-3">
+                                <small class="text-muted">
+                                    Required columns: date, product, category, quantity, unit_price, discount, sales, region<br>
+                                    Max file size: 5MB
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">Current Dataset Info</div>
+                        <div class="card-body" id="datasetInfo">
+                            Loading...
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Forecast History Page -->
+                <div id="page-history" class="page-content" style="display:none;">
+                    <div class="card">
+                        <div class="card-header">Forecast History</div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-striped" id="historyTable">
+                                    <thead>
+                                        <tr>
+                                            <th>Run ID</th>
+                                            <th>Date</th>
+                                            <th>Model</th>
+                                            <th>Horizon</th>
+                                            <th>Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- About Project Page -->
+                <div id="page-about" class="page-content" style="display:none;">
+                    <div class="card">
+                        <div class="card-header">About Project</div>
+                        <div class="card-body">
+                            <h4>SALES FORECASTING USING TIME-SERIES ANALYSIS</h4>
+                            <p class="text-muted">Industry-Oriented AI/ML Full-Stack Application</p>
+                            
+                            <h5 class="mt-4">Project Objective</h5>
+                            <p>Develop a full-stack web application that analyzes historical sales data, identifies trends, trains multiple forecasting models, compares their performance, and predicts future sales.</p>
+                            
+                            <h5 class="mt-4">Technologies Used</h5>
+                            <ul>
+                                <li><strong>Frontend:</strong> HTML5, CSS3, Vanilla JavaScript, Bootstrap 5, Chart.js</li>
+                                <li><strong>Backend:</strong> Python, Flask, REST API</li>
+                                <li><strong>ML Models:</strong> ARIMA (Statsmodels), Random Forest, Linear Regression (Scikit-learn), Naive Forecast</li>
+                                <li><strong>Data:</strong> Pandas, NumPy, SQLite</li>
+                            </ul>
+                            
+                            <h5 class="mt-4">Features</h5>
+                            <ul>
+                                <li>Interactive Dashboard with KPIs</li>
+                                <li>Multiple Time-Series Forecasting Models</li>
+                                <li>Model Performance Comparison</li>
+                                <li>CSV Data Upload and Validation</li>
+                                <li>Forecast History with SQLite Storage</li>
+                                <li>CSV Export of Forecasts</li>
+                                <li>Business Insights Generation</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </main>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
